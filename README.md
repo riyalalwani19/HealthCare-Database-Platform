@@ -14,9 +14,8 @@ Database application combining information from different data sources of the he
 - Need to install Mongo DB server, Redis server and Neo4j Graph database, PyCharm IDE(any Python IDE), R studio.
 - For some packages in python like matplotlib python was required to be of version 3.7 or less. So, In IDE add Python 3.7 or less as project interpreter.
 - Before running any code
-    1) create a Graph in Neo4J and enter password to it, which will be further asked by code if required. Install Plugin called Graph       Algorithms.  
-    Change configuration of neo4j to import file from any local location and not just import location.   
-
+    1) create a Graph in Neo4J and enter password to it, which will be further asked by code if required. Install Plugin called Graph       Algorithms.
+       Change configuration of neo4j to import file from any local location and not just import location.   
         a. Remove ***dbms.directories.import=import*** ( Comment line 25)  
         b. Add ***dbms.security.allow_csv_import_from_file_urls=true*** ( Uncomment line 693)
 
@@ -30,7 +29,7 @@ Database application combining information from different data sources of the he
     
 ### Download all the packages required for entire project mentioned in the below list:-
 
-For insertion of data:-
+#### For insertion of data:-
 •	import pandas as pd
 •	import json
 •	from py2neo import Graph, Node, Relationship
@@ -40,7 +39,7 @@ For insertion of data:-
 •	import redis
 •	import csv
 
-For Merged User Stories:-
+#### For Merged User Stories:-
 •	from random_username.generate import generate_username
 •	import re
 •	from bson.objectid import ObjectId
@@ -64,7 +63,7 @@ For Merged User Stories:-
 •	from pymongo import MongoClient
 •	from datetime import datetime
 
-For R based User Stories:-  
+#### For R based User Stories:-  
 •	RNeo4j
 •	Httr
 •	ggplot2
