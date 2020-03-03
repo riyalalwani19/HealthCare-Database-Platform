@@ -2,15 +2,18 @@
 Database application combining information from different data sources of the healthcare sector like drugs, diseases, insurance companies, hospitals, doctors, user comments, symptoms and relationships between them. It stores all of the data in three different database i.e. MongoDb, Neo4j and Redis. It contains solutions to the popular use cases in Health care sector by querying the resprective databases and combinining them using python as language and Pycharm as IDE. Some of the use cases are also solved using R langauge. 
 
 
-# Getting Started
+## Getting Started
 ### Download the entire content on your machine and create the seperate folders as available in Git.
 - Get all the files from files folder in one folder,some files are in zip format. Unzip it and keep in one folder with all other files.
-- Get 
+- Run the code from Insertion code in Python IDE, that will help to insert all the data in your machine. For that, you have to first provide the location where you have downloaded all the files.
+- 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
 
 Prerequisites
 - Need to install MongoDb server, Redis server and Neo4j Graph database, PyCharm IDE(any Python IDE), R studio.
-- For some packages in python like matplotlib python was required to be of version 3.7 or less. So 
+- For some packages in python like matplotlib python was required to be of version 3.7 or less. So, In IDE add Python 3.7 or less as porject interpreter.
+- Download all the packages required for entire project mentioned in the below list:-
+1) 
 
 Give examples
 Installing
