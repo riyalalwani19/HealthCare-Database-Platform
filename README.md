@@ -55,12 +55,17 @@ For R based User Stories:-
 •	ggplot2
 
 - Before running any code
-1) create a Graph in Neo4J and enter password to it, which will be further asked by code if required. Install Plugin called Graph Algorithms. Change configuration of neo4j to import file from any local location and not just import location. 
-				a. Remove ***dbms.directories.import=import*** ( Comment line 25)
-				b. Add ***dbms.security.allow_csv_import_from_file_urls=true*** ( Uncomment line 693)
-2) Databases:- a. MongoDB server should be up and running.
-		b. Neo4J server should be up and running.
-		c. Neo4J Graph should already be created.
+1) create a Graph in Neo4J and enter password to it, which will be further asked by code if required. Install Plugin called Graph Algorithms. 
+Change configuration of neo4j to import file from any local location and not just import location. 
+
+a. Remove ***dbms.directories.import=import*** ( Comment line 25)
+b. Add ***dbms.security.allow_csv_import_from_file_urls=true*** ( Uncomment line 693)
+
+2) Databases:- 
+
+a. MongoDB server should be up and running.
+b. Neo4J server should be up and running.
+c. Neo4J Graph should already be created.
     d. Redis server should be up and running.
     e. All the data should be inserted using Insertion code.
     
