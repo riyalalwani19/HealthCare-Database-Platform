@@ -3,14 +3,14 @@ Database application combining information from different data sources of the he
 
 
 # Getting Started
-## Download the entire content on your machine and create the seperate folders as available in Git.
+### Download the entire content on your machine and create the seperate folders as available in Git.
 - Get all the files from files folder in one folder,some files are in zip format. Unzip it and keep in one folder with all other files.
 - Get 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
 
 Prerequisites
--Need to install MongoDb server, Redis server and Neo4j Graph database, PyCharm IDE(any Python IDE), R studio.
--For some packages in python like matplotlib python was required to be of version 3.7 or less. So 
+- Need to install MongoDb server, Redis server and Neo4j Graph database, PyCharm IDE(any Python IDE), R studio.
+- For some packages in python like matplotlib python was required to be of version 3.7 or less. So 
 
 Give examples
 Installing
