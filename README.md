@@ -68,12 +68,6 @@ Database application combining information from different data sources of the he
 •	Httr
 •	ggplot2
 
-
-  ## Initial Version 
-   - https://github.com/varunjohn786/Information_Systems
-   
-  ## Final Version 
-   - https://github.com/riyalalwani19/HealthCare-Database-Platform
   ## Authors
   - Riya Lalwani
   - Varun John
