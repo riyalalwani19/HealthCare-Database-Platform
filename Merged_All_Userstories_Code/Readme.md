@@ -20,5 +20,5 @@ Following are the database and code related prequisites that need to be fullfill
 
 3. Inputs -   
 The python program asks users for following input -   
-a. Password for Neo4j graph.
-b. User Story Number to run
+a. Password for Neo4j graph.  
+b. Enter User Story Number which you want to run
