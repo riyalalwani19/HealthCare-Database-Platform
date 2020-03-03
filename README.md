@@ -6,53 +6,48 @@ Database application combining information from different data sources of the he
 ### Download the entire content on your machine and create the seperate folders as available in Git.
 - Get all the files from files folder in one folder,some files are in zip format. Unzip it and keep in one folder with all other files.
 - Run the code from Insertion code in Python IDE, that will help to insert all the data in your machine. For that, you have to first provide the location where you have downloaded all the files.
-- Run the merged all data code which contains all the user stories except R.
-- Run all the user stories .
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+- Run the merged all data code which contains all the user stories except R. But, Firstly, Provide Neo Graph password for it.
+- Run all the user stories by R in R studio. But, Firstly, Provide Neo Graph password for it.
+- Seperate User Stories folder contains all the User Stories and thier description.
 
 Prerequisites
 - Need to install MongoDb server, Redis server and Neo4j Graph database, PyCharm IDE(any Python IDE), R studio.
 - For some packages in python like matplotlib python was required to be of version 3.7 or less. So, In IDE add Python 3.7 or less as porject interpreter.
 - Download all the packages required for entire project mentioned in the below list:-
-1) 
 
-Give examples
-Installing
-A step by step series of examples that tell you how to get a development env running
+#### For insertion of data:-
+  import pandas as pd
+  import json
+  from py2neo import Graph, Node, Relationship
+  from collections import OrderedDict
+  from pymongo import MongoClient
+  import xlrd
+  import redis
+  import csv
+  
+ #### for Merged User Stories
+  from random_username.generate import generate_username
+  import re
+  from bson.objectid import ObjectId
+  from tabulate import tabulate
+  import numpy as np
+  from matplotlib import pyplot, axes
+  from py2neo import Graph
+  from collections import Counter
+  from itertools import repeat, chain
+  import redis
+  from datetime import datetime, timedelta
+  import warnings
+  import matplotlib.pyplot as plt
+  import pandas as pd
+  import statsmodels.api as sm
+  import matplotlib
+  import nltk.corpus 
+  nltk.download("stopwords")
+  from nltk import stopwords
+  from textblob import TextBlob
+  from pymongo import MongoClient
+  from datetime import datetime
+  
+  
 
-Say what the step will be
-
-Give the example
-And repeat
-
-until finished
-End with an example of getting some data out of the system or using it for a little demo
-
-Running the tests
-Explain how to run the automated tests for this system
-
-Break down into end to end tests
-Explain what these tests test and why
-
-Give an example
-And coding style tests
-Explain what these tests test and why
-
-Give an example
-Deployment
-Add additional notes about how to deploy this on a live system
-
-
-Versioning
-We use SemVer for versioning. For the versions available, see the tags on this repository.
-
-Authors
-Billie Thompson - Initial work - PurpleBooth
-See also the list of contributors who participated in this project.
-
-
-
-Acknowledgments
-Hat tip to anyone whose code was used
-Inspiration
-etc
