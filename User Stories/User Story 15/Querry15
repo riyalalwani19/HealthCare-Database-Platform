@@ -1,0 +1,89 @@
+import sys
+import re
+from nltk.corpus import stopwords
+from textblob import TextBlob
+from pymongo import MongoClient
+from datetime import datetime
+
+client = MongoClient()
+
+rating = 0
+new_rating = 0
+Doctor_name = input("Please enter Doctors Full Name who you wanna comment on: ")
+exp = Doctor_name.title()
+
+first = client.Information_System.Doctor.count_documents({"Doctor_Name":{"$regex": exp}})
+
+
+if first == 0:
+    print("Doctor with this name does not exist in our database. Hence ending program.")
+    sys.exit(1)
+User = input("Please enter your user name: ")
+comment_user = input("Please enter your comment: ")
+
+insert_dict = {}
+
+
+
+## replacing special characters ##
+comment = re.sub('[!.,@#$%^*()~;:/<>\|+_\-[\]\?]', '', comment_user)
+
+### replacing stop words ###
+stop = stopwords.words('english')
+for words in stop:
+    comment = comment.replace(" " + words + " ", " ")
+
+## determining polarity of the comment##
+result = TextBlob(comment).sentiment
+
+polarity_score = result[0]
+
+## determining rating based on the polarity##
+if polarity_score > 0.7:
+    rating = 10
+elif 0.7 >= polarity_score > 0.5:
+    rating = 9
+elif 0.5 >= polarity_score > 0.30:
+    rating = 8
+elif 0.30 >= polarity_score > 0.20:
+    rating = 7
+elif 0.20 >= polarity_score > 0:
+    rating = 6
+elif 0 >= polarity_score > -0.20:
+    rating = 5
+elif -0.20 >= polarity_score > -0.30:
+    rating = 4
+elif -0.30 >= polarity_score > -0.5:
+    rating = 3
+elif -0.5 >= polarity_score > -0.7:
+    rating = 2
+else:
+    rating = 1
+
+## Inserting into Mongo ##
+insert_dict['Doctor_Name'] = Doctor_name
+insert_dict['Comment'] = comment_user
+insert_dict['User_Name'] = User
+insert_dict['Posted_On'] = datetime.today().isoformat()
+insert_dict['Comment_Rating'] = rating
+
+
+client.Information_System.UserComments.insert_one(insert_dict)
+print("Inserted in Mongo")
+
+
+
+
+result2= client.Information_System.Doctor.find({"Doctor_Name":{"$regex": exp}})
+
+
+for var in result2:
+    new_rating = (float(rating) + float(var['Doctor_Rating']))/2.0
+    client.Information_System.Doctor.update_one({"Doctor_Name":Doctor_name},{"$set": {"Doctor_Rating": new_rating}})
+    print("Doctor Commented on:", var['Doctor_Name'])
+    print("User Commented By:", User)
+    print("Comment: ", comment_user)
+    print("Posted On:", insert_dict['Posted_On'])
+    print("Comment Rating:", rating)
+    print("Old Doctor Rating:", var['Doctor_Rating'])
+    print("New Doctor Rating:", new_rating)

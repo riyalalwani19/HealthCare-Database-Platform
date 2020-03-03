@@ -1,0 +1,19 @@
+Title - User Story 5
+
+Synopsis - This file will help a user to run user story 5 in his enviornment.
+
+User Story - John has been diagnosed with kidney stones. He wants to know the details of doctors who have average rating greater than 7,
+             based on recent 10 user comments.
+
+Prerequisites - Following are the database and code related prequisites that need to be fullfilled before running the script.
+
+1. Database - 	a. MongoDB server should be up and running.		       
+			    b. Data should have been inserted in all databases.
+
+2. Code - 	a. Install python packages ( pymongo,pandas)
+		
+
+
+
+
+

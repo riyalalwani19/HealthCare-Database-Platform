@@ -1,0 +1,53 @@
+import sys
+from py2neo import Graph
+
+
+val = input("Enter Diseases with comma between them :")
+val2 = []
+temp = val.split(",")
+drug = []
+disease= []
+
+for x in temp:
+    x = x.lower()
+    val2.append(x)
+
+val3 = set(val2)
+
+graph = Graph(password="prashant")
+
+for rorr in val2:
+    query3 = "match (a:Disease) where toLower(a.name)='" + rorr + "' return a.name as Disease"
+    result = graph.run(query3).data()
+    if not result:
+        print(rorr,"named disease doesnt exist in our database. Please enter a name that exists in our database.")
+        sys.exit()
+
+
+query = """with """ + str(val2) + """ as diseases match (a:Disease) where
+toLower(a.name) in diseases with collect(a) as disease_node match (x:Drug) where All
+(a in disease_node where (a)<-[:Medicine_For]-(x)) return DISTINCT x.Drug_Name as Drug_Name"""
+
+neo_result = graph.run(query).data()
+
+for x in neo_result:
+   drug.append(x['Drug_Name'])
+
+neo_result2 = graph.run("match (a:Drug)-[:Medicine_For]-(b)  where a.Drug_Name in " + str(drug) + " return b.name as Disease").data()
+
+for y in neo_result2:
+    disease.append(y['Disease'])
+
+
+disease = set(disease)
+
+disease2 = [x.lower() for x in disease]
+
+if val3.issubset(disease2):
+    for x in neo_result:
+        print("Drug_Name:", end=" ")
+        print(x['Drug_Name'])
+        drug.append(x['Drug_Name'])
+
+else:
+    print("No drug exist for this combination of diseases")

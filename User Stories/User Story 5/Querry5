@@ -1,0 +1,34 @@
+from pymongo import MongoClient
+import sys
+import pandas as pd
+client = MongoClient()
+
+result = client.Information_System.UserComments.distinct("Doctor_Name")
+
+lim = input("Please enter the number of recent comments you want to search rating from: ")
+if lim.isdigit() == False:
+    print("You didn't enter a valid number for number of recent comments input")
+    sys.exit(1)
+rat = input(f"Please enter what should be the average doctor rating based on recent {lim} comments(enter a number between 1 and 10): ")
+if rat.isdigit() == False:
+    print("You didn't enter a valid number for lowest limit of rating")
+    sys.exit(1)
+
+if 10 < int(rat) or int(rat)< 0:
+    print("You didn't enter a valid number for lowest limit of rating")
+    sys.exit(1)
+
+
+for x in result:
+    pipeline = [{"$match": {"Doctor_Name": x}}, {"$sort": {
+        "Posted_On": -1}}, {"$limit": int(lim)}, {"$group": {"_id": "$Doctor_Name", "avg_rating": {"$avg": "$Comment_Rating"}}},
+                 {"$project": {
+                     "Doctor": "$_id", "Avg_Rating": "$avg_rating", "_id": 0}}]
+    result2 = client.Information_System.UserComments.aggregate(pipeline)
+    for y in result2:
+        if y['Avg_Rating']>=int(rat):
+            result3 = client.Information_System.Doctor.find({"Doctor_Name": y['Doctor']},{"_id":0,"Doctor_Rating":0})
+            for z in result3:
+                z['Doctor_Rating'] = y['Avg_Rating']
+                df = pd.DataFrame.from_dict(z, orient='index')
+                print(df)

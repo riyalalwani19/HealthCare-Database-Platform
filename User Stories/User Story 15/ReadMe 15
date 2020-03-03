@@ -1,0 +1,16 @@
+Title - User Story 15
+
+Synopsis - This file will help a user to run user story 15 in his enviornment.
+
+User Story - John had visited a doctor,and wants to upload his review on the HealthCare database.
+             He also wants the system to determine the ratings of the doctor on the basis of his comments.
+
+Prerequisites - Following are the database and code related prequisites that need to be fullfilled before running the script.
+
+1. Database - 	a. MongoDB server should be up and running.		       
+			    b. Data should have been inserted in all databases.
+
+2. Code - 	a. Install python packages ( pymongo,nltk,stopwords,textblob)
+		
+3.Inputs - The user has to give his inputs "Doctor Name" "Review Comment" "User Name"
+Default Input : 'Doctor_Name': 'Dr. Shailesh Pandey', 'Comment': 'not very happy with diagnosis', 'User_Name': 'George Thomas

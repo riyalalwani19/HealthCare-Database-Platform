@@ -1,0 +1,21 @@
+Title - User Story 12
+
+Synopsis - This file will help a user to run user story 12 in his enviornment.
+
+User Story -  User already has Asthama problems and has been prescribed a certain set of medicines.Incidently he also been diagnosed with Acne and his doctor wants to
+               prescibe a new set of medicines that will cover both the diseases.
+
+Prerequisites - Following are the database and code related prequisites that need to be fullfilled before running the script.
+
+1. Database - 	a. MongoDB server should be up and running.
+		        b. Neo4J server should be up and running.
+				c. Neo4J Graph should already be created.
+		        d. Data should have been inserted in all databases.
+
+2. Code - 	a. Install python packages ( py2neo, sys)
+		b. Change graph password to the password of the graph created in your enviornment.
+
+Inputs - The python program asks users for following input -
+		1st disease "Asthama" 2nd disease"Acne"
+
+Default input -"Asthama" "Acne"
