@@ -1,0 +1,1023 @@
+,_id,Drug_Name
+0,5e5d7731b0e65991f861a7e8,Cedax (ceftibuten)
+1,5e5d7731b0e65991f861a7e9,Floxin otic
+2,5e5d7731b0e65991f861a7ea,Xtoro (finafloxacin otic suspension) 0.3%
+3,5e5d7731b0e65991f861a7eb,Otiprio (ciprofloxacin otic suspension)
+4,5e5d7731b0e65991f861a7ec,Rocephin
+5,5e5d7731b0e65991f861a7ed,Akynzeo (netupitant and palonosetron)
+6,5e5d7731b0e65991f861a7ee,Prolia (denosumab)
+7,5e5d7731b0e65991f861a7ef,Sustol (granisetron)
+8,5e5d7731b0e65991f861a7f0,Syndros (dronabinol oral solution)
+9,5e5d7731b0e65991f861a7f1,Varubi (rolapitant)
+10,5e5d7731b0e65991f861a7f2,Vistogard (uridine triacetate)
+11,5e5d7731b0e65991f861a7f3,Zuplenz (ondansetron oral soluble film)
+12,5e5d7731b0e65991f861a7f4,Epanova (omega-3-carboxylic acids)
+13,5e5d7731b0e65991f861a7f5,Accretropin (somatropin rDNA Original)
+14,5e5d7731b0e65991f861a7f6,Activella (Estradiol/Norethindrone Acetate) Tablets
+15,5e5d7731b0e65991f861a7f7,Actonel
+16,5e5d7731b0e65991f861a7f8,ACTOplus met (pioglitazone hydrochloride and metformin hydrochloride)
+17,5e5d7731b0e65991f861a7f9,ACTOS
+18,5e5d7731b0e65991f861a7fa,Addyi (flibanserin)
+19,5e5d7731b0e65991f861a7fb,Adlyxin (lixisenatide)
+20,5e5d7731b0e65991f861a7fc,Afinitor (everolimus)
+21,5e5d7731b0e65991f861a7fd,Afrezza (insulin human) Inhalation Powder
+22,5e5d7731b0e65991f861a7fe,Aggrenox
+23,5e5d7731b0e65991f861a7ff,Aldurazyme (laronidase)
+24,5e5d7731b0e65991f861a800,Amaryl (Glimepiride)
+25,5e5d7731b0e65991f861a801,Androderm (Testosterone Transdermal System)
+26,5e5d7731b0e65991f861a802,AndroGel testosterone gel
+27,5e5d7731b0e65991f861a803,Arava
+28,5e5d7731b0e65991f861a804,Aredia (pamidronate disodium for injection)
+29,5e5d7731b0e65991f861a805,Arimidex (anastrozole)
+30,5e5d7731b0e65991f861a806,Aromasin Tablets
+31,5e5d7731b0e65991f861a807,Atacand (candesartan cilexetil)
+32,5e5d7731b0e65991f861a808,Avandamet (rosiglitazone maleate and metformin HCl)
+33,5e5d7731b0e65991f861a809,Keytruda (pembrolizumab) plus Lenvima (lenvatinib)
+34,5e5d7731b0e65991f861a80a,Orilissa (elagolix)
+35,5e5d7731b0e65991f861a80b,Briviact (brivaracetam)
+36,5e5d7731b0e65991f861a80c,Carnexiv (carbamazepine)
+37,5e5d7731b0e65991f861a80d,Depakote (divalproex sodium)
+38,5e5d7731b0e65991f861a80e,Fycompa (perampanel)
+39,5e5d7731b0e65991f861a80f,Keppra
+40,5e5d7731b0e65991f861a810,Lamictal Chewable Dispersible Tablets
+41,5e5d7731b0e65991f861a811,Nayzilam (midazolam)
+42,5e5d7731b0e65991f861a812,Neurontin (gabapentin) oral solution
+43,5e5d7731b0e65991f861a813,Oxtellar XR (oxcarbazepine extended release)
+44,5e5d7731b0e65991f861a814,Tegretol (carbamazepine)
+45,5e5d7731b0e65991f861a815,Tegretol XR (carbamazepine)
+46,5e5d7731b0e65991f861a816,Trileptal (oxcarbazepine) Tablets
+47,5e5d7731b0e65991f861a817,Vimpat (lacosamide)
+48,5e5d7731b0e65991f861a818,Zonegran (zonisamide) Capsules
+49,5e5d7731b0e65991f861a819,Briviact (brivaracetam)
+50,5e5d7731b0e65991f861a81a,Fycompa (perampanel)
+51,5e5d7731b0e65991f861a81b,Nayzilam (midazolam)
+52,5e5d7731b0e65991f861a81c,Oxtellar XR (oxcarbazepine extended release)
+53,5e5d7731b0e65991f861a81d,Cialis (tadalafil)
+54,5e5d7731b0e65991f861a81e,EDEX
+55,5e5d7731b0e65991f861a81f,INFANRIX (Diphtheria and Tetanus Toxoids and Acellular Pertussis Vaccine Adsorbed)
+56,5e5d7731b0e65991f861a820,Levitra (vardenafil)
+57,5e5d7731b0e65991f861a821,Stendra (avanafil)
+58,5e5d7731b0e65991f861a822,Stendra (avanafil)
+59,5e5d7731b0e65991f861a823,Keytruda (pembrolizumab)
+60,5e5d7731b0e65991f861a824,Photodynamic Therapy
+61,5e5d7731b0e65991f861a825,Qbrexza (glycopyrronium)
+62,5e5d7731b0e65991f861a826,Oxervate (cenegermin-bkbj)
+63,5e5d7731b0e65991f861a827,Bepreve (bepotastine besilate ophthalmic solution)
+64,5e5d7731b0e65991f861a828,Cystaran (cysteamine hydrochloride)
+65,5e5d7731b0e65991f861a829,Eylea (aflibercept)
+66,5e5d7731b0e65991f861a82a,Humira (adalimumab)
+67,5e5d7731b0e65991f861a82b,Jetrea (ocriplasmin)
+68,5e5d7731b0e65991f861a82c,Moxidectin
+69,5e5d7731b0e65991f861a82d,OcuHist
+70,5e5d7731b0e65991f861a82e,Omidria (phenylephrine and ketorolac injection)
+71,5e5d7731b0e65991f861a82f,"Oralair (Sweet Vernal, Orchard, Perennial Rye, Timothy and Kentucky Blue Grass Mixed Pollens Allergen Extract)"
+72,5e5d7731b0e65991f861a830,Xeomin (incobotulinumtoxinA)
+73,5e5d7731b0e65991f861a831,Zerviate (cetirizine ophthalmic solution 0.24%)
+74,5e5d7731b0e65991f861a832,Cystaran (cysteamine hydrochloride)
+75,5e5d7731b0e65991f861a833,Savaysa (edoxaban)
+76,5e5d7731b0e65991f861a834,Namzaric (memantine hydrochloride extended-release + donepezil hydrochloride)
+77,5e5d7731b0e65991f861a835,Aphthasol
+78,5e5d7731b0e65991f861a836,Arestin (minocycline hydrochloride)
+79,5e5d7731b0e65991f861a837,Atridox
+80,5e5d7731b0e65991f861a838,Atridox
+81,5e5d7731b0e65991f861a839,DentiPatch (lidocaine transoral delivery system)
+82,5e5d7731b0e65991f861a83a,Myobloc (rimabotulinumtoxinB)
+83,5e5d7731b0e65991f861a83b,Otezla (apremilast)
+84,5e5d7731b0e65991f861a83c,Periostat (doxycycline hyclate)
+85,5e5d7731b0e65991f861a83d,Periostat (doxycycline hyclate)
+86,5e5d7731b0e65991f861a83e,Brintellix (vortioxetine)
+87,5e5d7731b0e65991f861a83f,Celexa
+88,5e5d7731b0e65991f861a840,Clomipramine hydrochloride
+89,5e5d7731b0e65991f861a841,Cymbalta (duloxetine)
+90,5e5d7731b0e65991f861a842,Effexor XR (venlafaxin HCI)
+91,5e5d7731b0e65991f861a843,Fetzima (levomilnacipran)
+92,5e5d7731b0e65991f861a844,Lithobid (Lithium Carbonate)
+93,5e5d7731b0e65991f861a845,Marplan Tablets
+94,5e5d7731b0e65991f861a846,Paxil CR (paroxetine hydrochloride)
+95,5e5d7731b0e65991f861a847,Prozac Weekly (fluoxetine HCl)
+96,5e5d7731b0e65991f861a848,Remeron (Mirtazapine)
+97,5e5d7731b0e65991f861a849,Remeron SolTab (mirtazapine)
+98,5e5d7731b0e65991f861a84a,Rexulti (brexpiprazole)
+99,5e5d7731b0e65991f861a84b,Spravato (esketamine) nasal spray
+100,5e5d7731b0e65991f861a84c,Trazadone 150mg
+101,5e5d7731b0e65991f861a84d,Lexapro (escitalopram oxalate)
+102,5e5d7731b0e65991f861a84e,Oleptro (trazodone hydrochloride)
+103,5e5d7731b0e65991f861a84f,Rexulti (brexpiprazole)
+104,5e5d7731b0e65991f861a850,Viibryd (vilazodone hydrochloride)
+105,5e5d7731b0e65991f861a851,Spravato (esketamine) nasal spray
+106,5e5d7731b0e65991f861a852,Dupixent (dupilumab)
+107,5e5d7731b0e65991f861a853,Eucrisa (crisaborole) ointment
+108,5e5d7731b0e65991f861a854,Aklief (trifarotene)
+109,5e5d7731b0e65991f861a855,Altabax (retapamulin)
+110,5e5d7731b0e65991f861a856,Ameluz (aminolevulinic acid hydrochloride)
+111,5e5d7731b0e65991f861a857,Amevive (alefacept)
+112,5e5d7731b0e65991f861a858,Avita Gel
+113,5e5d7731b0e65991f861a859,Bactroban Cream
+114,5e5d7731b0e65991f861a85a,Bavencio (avelumab)
+115,5e5d7731b0e65991f861a85b,Baxdela (delafloxacin) tablets and injection
+116,5e5d7731b0e65991f861a85c,Benzamycin (erythromycin 3%-benzoyl peroxide 5% topical gel)
+117,5e5d7731b0e65991f861a85d,Botox Cosmetic (botulinum toxin type A)
+118,5e5d7731b0e65991f861a85e,Braftovi (encorafenib) + Mektovi (binimetinib)
+119,5e5d7731b0e65991f861a85f,Cefazolin and Dextrose USP
+120,5e5d7731b0e65991f861a860,Chloraprep (chlorhexidine gluconate)
+121,5e5d7731b0e65991f861a861,Cimzia (certolizumab pegol)
+122,5e5d7731b0e65991f861a862,Clindamycin phosphate topical gel
+123,5e5d7731b0e65991f861a863,Clindamycin Phosphate Topical Solution USP 1%
+124,5e5d7731b0e65991f861a864,Condylox Gel 0.5% (pokofilox)
+125,5e5d7731b0e65991f861a865,Cosentyx (secukinumab)
+126,5e5d7731b0e65991f861a866,Cotellic (cobimetinib)
+127,5e5d7731b0e65991f861a867,Dalvance (dalbavancin)
+128,5e5d7731b0e65991f861a868,Breo Ellipta (fluticasone furoate and vilanterol inhalation powder)
+129,5e5d7731b0e65991f861a869,Rybelsus (oral semaglutide)
+130,5e5d7731b0e65991f861a86a,Glipizide Tablets
+131,5e5d7731b0e65991f861a86b,Glucagon
+132,5e5d7731b0e65991f861a86c,Glyburide Tablets
+133,5e5d7731b0e65991f861a86d,Humalog (insulin lispro)
+134,5e5d7731b0e65991f861a86e,Lantus (insulin glargine [rDNA origin] injection)
+135,5e5d7731b0e65991f861a86f,Lantus (insulin glargine [rDNA origin] injection)
+136,5e5d7731b0e65991f861a870,NovoLog (insulin aspart)
+137,5e5d7731b0e65991f861a871,Novolog Mix 70/30
+138,5e5d7731b0e65991f861a872,Symlin (pramlintide)
+139,5e5d7731b0e65991f861a873,Tresiba (insulin degludec injection)
+140,5e5d7731b0e65991f861a874,Bydureon (exenatide extended-release for injectable suspension)
+141,5e5d7731b0e65991f861a875,Byetta (exenatide)
+142,5e5d7731b0e65991f861a876,"Cycloset, bromocriptine mesylate"
+143,5e5d7731b0e65991f861a877,Farxiga (dapagliflozin)
+144,5e5d7731b0e65991f861a878,Glyset (miglitol)
+145,5e5d7731b0e65991f861a879,Invokana (canagliflozin)
+146,5e5d7731b0e65991f861a87a,Januvia (sitagliptin phosphate)
+147,5e5d7731b0e65991f861a87b,Jardiance (empagliflozin)
+148,5e5d7731b0e65991f861a87c,Jentadueto (linagliptin plus metformin hydrochloride)
+149,5e5d7731b0e65991f861a87d,Juvisync (sitagliptin and simvastatin)
+150,5e5d7731b0e65991f861a87e,Metaglip (glipizide/metformin HCl)
+151,5e5d7731b0e65991f861a87f,Nesina (alogliptin)
+152,5e5d7731b0e65991f861a880,Onglyza (saxagliptin)
+153,5e5d7731b0e65991f861a881,Ozempic (semaglutide)
+154,5e5d7731b0e65991f861a882,Prandin
+155,5e5d7731b0e65991f861a883,Precose (acarbose)
+156,5e5d7731b0e65991f861a884,REGRANEX (becaplermin) Gel
+157,5e5d7731b0e65991f861a885,Metozolv ODT (metoclopramide hydrochloride)
+158,5e5d7731b0e65991f861a886,Eylea (aflibercept)
+159,5e5d7731b0e65991f861a887,Eylea (aflibercept)
+160,5e5d7731b0e65991f861a888,Lucentis (ranibizumab injection)
+161,5e5d7731b0e65991f861a889,Eylea (aflibercept)
+162,5e5d7731b0e65991f861a88a,Nesina (alogliptin)
+163,5e5d7731b0e65991f861a88b,Northera (droxidopa)
+164,5e5d7731b0e65991f861a88c,Diacomit (stiripentol)
+165,5e5d7731b0e65991f861a88d,Epidiolex (cannabidiol)
+166,5e5d7731b0e65991f861a88e,Xiidra (lifitegrast)
+167,5e5d7731b0e65991f861a88f,Prevpac
+168,5e5d7731b0e65991f861a890,Prilosec (omeprazole)/Biaxin (clarithromycin) Combination Therapy
+169,5e5d7731b0e65991f861a891,Xiaflex (collagenase clostridium histolyticum)
+170,5e5d7731b0e65991f861a892,Gocovri (amantadine)
+171,5e5d7731b0e65991f861a893,Xeomin (incobotulinumtoxinA)
+172,5e5d7731b0e65991f861a894,Anoro Ellipta (umeclidinium and vilanterol inhalation powder)
+173,5e5d7731b0e65991f861a895,Arcapta (indacaterol maleate inhalation powder)
+174,5e5d7731b0e65991f861a896,Bevespi Aerosphere (glycopyrrolate and formoterol fumarate)
+175,5e5d7731b0e65991f861a897,Daliresp (roflumilast)
+176,5e5d7731b0e65991f861a898,Duaklir Pressair (aclidinium bromide and formoterol fumarate)
+177,5e5d7731b0e65991f861a899,DuoNeb (albuterol sulfate and ipratropium bromide)
+178,5e5d7731b0e65991f861a89a,Foradil Aerolizer (formoterol fumarate inhalation powder)
+179,5e5d7731b0e65991f861a89b,Incruse Ellipta (umeclidinium inhalation powder)
+180,5e5d7731b0e65991f861a89c,Spiriva HandiHaler (tiotropium bromide)
+181,5e5d7731b0e65991f861a89d,Stiolto Respimat (tiotropium bromide and olodaterol)
+182,5e5d7731b0e65991f861a89e,Striverdi Respimat (olodaterol)
+183,5e5d7731b0e65991f861a89f,Tudorza Pressair (aclidinium bromide inhalation powder)
+184,5e5d7731b0e65991f861a8a0,Utibron Neohaler (indacaterol and glycopyrrolate)
+185,5e5d7731b0e65991f861a8a1,Yupelri (revefenacin)
+186,5e5d7731b0e65991f861a8a2,Abstral (fentanyl sublingual tablets)
+187,5e5d7731b0e65991f861a8a3,Lazanda (fentanyl citrate) nasal spray
+188,5e5d7731b0e65991f861a8a4,Onsolis (fentanyl buccal)
+189,5e5d7731b0e65991f861a8a5,Quadramet (Samarium Sm 153 Lexidronam Injection)
+190,5e5d7731b0e65991f861a8a6,Subsys (fentanyl sublingual spray)
+191,5e5d7731b0e65991f861a8a7,"Cervarix [Human Papillomavirus Bivalent (Types 16 and 18) Vaccine, Recombinant"
+192,5e5d7731b0e65991f861a8a8,Inform HER-2/neu breast cancer test
+193,5e5d7731b0e65991f861a8a9,Self-examination breast pad
+194,5e5d7731b0e65991f861a8aa,Subsys (fentanyl sublingual spray)
+195,5e5d7731b0e65991f861a8ab,Oravig (miconazole)
+196,5e5d7731b0e65991f861a8ac,Apthasol (Amlexanox)
+197,5e5d7731b0e65991f861a8ad,Carrington patch
+198,5e5d7731b0e65991f861a8ae,ReoPro
+199,5e5d7731b0e65991f861a8af,Zontivity (vorapaxar)
+200,5e5d7731b0e65991f861a8b0,Adcirca (tadalafil)
+201,5e5d7731b0e65991f861a8b1,Adempas (riociguat)
+202,5e5d7731b0e65991f861a8b2,Advicor (extended-release niacin/lovastatin)
+203,5e5d7731b0e65991f861a8b3,Agrylin (anagrelide HCL)
+204,5e5d7731b0e65991f861a8b4,Altocor (lovastatin) Extended-Release Tablets
+205,5e5d7731b0e65991f861a8b5,Amturnide (aliskiren + amlodipine + hydrochlorothiazide)
+206,5e5d7731b0e65991f861a8b6,Angiomax (bivalirudin)
+207,5e5d7731b0e65991f861a8b7,Argatroban Injection
+208,5e5d7731b0e65991f861a8b8,Atryn (antithrombin recombinant lyophilized powder for reconstitution)
+209,5e5d7731b0e65991f861a8b9,Azor (amlodipine besylate; olmesartan medoxomil)
+210,5e5d7731b0e65991f861a8ba,Baycol (cerivastatin sodium)
+211,5e5d7731b0e65991f861a8bb,Benicar
+212,5e5d7731b0e65991f861a8bc,Betapace AF Tablet
+213,5e5d7731b0e65991f861a8bd,Bevyxxa (betrixaban)
+214,5e5d7731b0e65991f861a8be,BiDil (isosorbide dinitrate/hydralazine hydrochloride)
+215,5e5d7731b0e65991f861a8bf,Brilinta (ticagrelor)
+216,5e5d7731b0e65991f861a8c0,Byvalson (nebivolol and valsartan)
+217,5e5d7731b0e65991f861a8c1,Caduet (amlodipine/atorvastatin)
+218,5e5d7731b0e65991f861a8c2,Vyndaqel (tafamidis meglumine) and Vyndamax (tafamidis)
+219,5e5d7731b0e65991f861a8c3,Kynamro (mipomersen sodium)
+220,5e5d7731b0e65991f861a8c4,Praluent (alirocumab)
+221,5e5d7731b0e65991f861a8c5,Repatha (evolocumab)
+222,5e5d7731b0e65991f861a8c6,Xarelto (rivaroxaban)
+223,5e5d7731b0e65991f861a8c7,Yosprala (aspirin and omeprazole)
+224,5e5d7731b0e65991f861a8c8,Yosprala (aspirin and omeprazole)
+225,5e5d7731b0e65991f861a8c9,Avastin (bevacizumab)
+226,5e5d7731b0e65991f861a8ca,"Cervarix [Human Papillomavirus Bivalent (Types 16 and 18) Vaccine, Recombinant"
+227,5e5d7731b0e65991f861a8cb,Keytruda (pembrolizumab)
+228,5e5d7731b0e65991f861a8cc,"VariZIG, Varicella Zoster Immune Globulin (Human)"
+229,5e5d7731b0e65991f861a8cd,Biaxin XL (clarithromycin extended-release tablets)
+230,5e5d7731b0e65991f861a8ce,Raxar (grepafloxacin)
+231,5e5d7731b0e65991f861a8cf,Zagam (sparfloxacin) tablets
+232,5e5d7731b0e65991f861a8d0,Aemcolo (rifamycin)
+233,5e5d7731b0e65991f861a8d1,Mytesi (crofelemer)
+234,5e5d7731b0e65991f861a8d2,Viberzi (eluxadoline)
+235,5e5d7731b0e65991f861a8d3,Xermelo (telotristat ethyl)
+236,5e5d7731b0e65991f861a8d4,Xifaxan (rifaximin)
+237,5e5d7731b0e65991f861a8d5,Arzerra (ofatumumab)
+238,5e5d7731b0e65991f861a8d6,Copiktra (duvelisib)
+239,5e5d7731b0e65991f861a8d7,Elliotts B Solution (buffered intrathecal electrolyte/dextrose injection)
+240,5e5d7731b0e65991f861a8d8,Gazyva (obinutuzumab)
+241,5e5d7731b0e65991f861a8d9,Imbruvica (ibrutinib)
+242,5e5d7731b0e65991f861a8da,Imbruvica (ibrutinib)
+243,5e5d7731b0e65991f861a8db,Lumoxiti (moxetumomab pasudotox-tdf)
+244,5e5d7731b0e65991f861a8dc,Treanda (bendamustine hydrochloride)
+245,5e5d7731b0e65991f861a8dd,Venclexta (venetoclax)
+246,5e5d7731b0e65991f861a8de,Venclexta (venetoclax) plus Gazyva (obinutuzumab)
+247,5e5d7731b0e65991f861a8df,Zydelig (idelalisib)
+248,5e5d7731b0e65991f861a8e0,Bosulif (bosutinib)
+249,5e5d7731b0e65991f861a8e1,Gleevec (imatinib mesylate)
+250,5e5d7731b0e65991f861a8e2,Iclusig (ponatinib)
+251,5e5d7731b0e65991f861a8e3,Sprycel (dasatinib)
+252,5e5d7731b0e65991f861a8e4,Synribo (omacetaxine mepesuccinate)
+253,5e5d7731b0e65991f861a8e5,Incruse Ellipta (umeclidinium inhalation powder)
+254,5e5d7731b0e65991f861a8e6,Tudorza Pressair (aclidinium bromide inhalation powder)
+255,5e5d7731b0e65991f861a8e7,Yupelri (revefenacin)
+256,5e5d7731b0e65991f861a8e8,Anexsia
+257,5e5d7731b0e65991f861a8e9,Avinza (morphine sulfate)
+258,5e5d7731b0e65991f861a8ea,Belbuca (buprenorphine)
+259,5e5d7731b0e65991f861a8eb,Butrans (buprenorphine) Transdermal System
+260,5e5d7731b0e65991f861a8ec,Kadian
+261,5e5d7731b0e65991f861a8ed,Movantik (naloxegol)
+262,5e5d7731b0e65991f861a8ee,Targiniq ER (oxycodone hydrochloride + naloxone hydrochloride) extended-release tablets
+263,5e5d7731b0e65991f861a8ef,Troxyca ER (oxycodone + naltrexone)
+264,5e5d7731b0e65991f861a8f0,UltraJect
+265,5e5d7731b0e65991f861a8f1,Vivlodex (meloxicam)
+266,5e5d7731b0e65991f861a8f2,Dificid (fidaxomicin)
+267,5e5d7731b0e65991f861a8f3,Zinplava (bezlotoxumab)
+268,5e5d7731b0e65991f861a8f4,Sitavig (acyclovir) buccal tablets
+269,5e5d7731b0e65991f861a8f5,Avastin (bevacizumab)
+270,5e5d7731b0e65991f861a8f6,Campostar
+271,5e5d7731b0e65991f861a8f7,CEA-Scan
+272,5e5d7731b0e65991f861a8f8,Cyramza (ramucirumab)
+273,5e5d7731b0e65991f861a8f9,Erbitux (cetuximab)
+274,5e5d7731b0e65991f861a8fa,Keytruda (pembrolizumab)
+275,5e5d7731b0e65991f861a8fb,Lonsurf (trifluridine and tipiracil)
+276,5e5d7731b0e65991f861a8fc,Opdivo (nivolumab)
+277,5e5d7731b0e65991f861a8fd,Stivarga (regorafenib)
+278,5e5d7731b0e65991f861a8fe,Vectibix (panitumumab)
+279,5e5d7731b0e65991f861a8ff,Zaltrap (ziv-aflibercept)
+280,5e5d7731b0e65991f861a900,Atrovent (ipratropium bromide)
+281,5e5d7731b0e65991f861a901,Children's Advil (pediatric ibuprofen)
+282,5e5d7731b0e65991f861a902,Children's Motrin Cold
+283,5e5d7731b0e65991f861a903,Tavist (clemastine fumarate)
+284,5e5d7731b0e65991f861a904,Tavist (clemastine fumarate)
+285,5e5d7731b0e65991f861a905,Grastek (Timothy Grass Pollen Allergen Extract)
+286,5e5d7731b0e65991f861a906,Ragwitek (Short Ragweed Pollen Allergen Extract)
+287,5e5d7731b0e65991f861a907,Zymaxid (gatifloxacin ophthalmic solution)
+288,5e5d7731b0e65991f861a908,Ibsrela (tenapanor)
+289,5e5d7731b0e65991f861a909,Linzess (linaclotide)
+290,5e5d7731b0e65991f861a90a,Motegrity (prucalopride)
+291,5e5d7731b0e65991f861a90b,Movantik (naloxegol)
+292,5e5d7731b0e65991f861a90c,Symproic (naldemedine)
+293,5e5d7731b0e65991f861a90d,Trulance (plecanatide)
+294,5e5d7731b0e65991f861a90e,Alesse (100 mcg levonorgestrel/20 mcg ethinyl estradiol tablets)
+295,5e5d7731b0e65991f861a90f,Annovera (segesterone acetate andethinylestradiolvaginal system)
+296,5e5d7731b0e65991f861a910,ella (ulipristal acetate)
+297,5e5d7731b0e65991f861a911,Estrostep (norethindrone acetate and ethinyl estradiol)
+298,5e5d7731b0e65991f861a912,Estrostep (norethindrone acetate and ethinyl estradiol)
+299,5e5d7731b0e65991f861a913,"Lo Minastrin, (norethindrone acetate, ethinyl estradiol, ferrous fumarate)"
+300,5e5d7731b0e65991f861a914,Mircette
+301,5e5d7731b0e65991f861a915,Mirena (levonorgestrel-releasing intrauterine system)
+302,5e5d7731b0e65991f861a916,Natazia (estradiol valerate + dienogest)
+303,5e5d7731b0e65991f861a917,NuvaRing
+304,5e5d7731b0e65991f861a918,Ortho Evra
+305,5e5d7731b0e65991f861a919,Quartette (levonorgestrel/ethinyl estradiol and ethinyl estradiol)
+306,5e5d7731b0e65991f861a91a,"Seasonale, Lo Seasonale, Seasonique (ethinylestradiol + levonorgestrel)"
+307,5e5d7731b0e65991f861a91b,Trivora-21 and Trivora-28
+308,5e5d7731b0e65991f861a91c,Yasmin (drospirenone/ethinyl estradiol)
+309,5e5d7731b0e65991f861a91d,Kengreal (cangrelor)
+310,5e5d7731b0e65991f861a91e,Xarelto (rivaroxaban)
+311,5e5d7731b0e65991f861a91f,Cimzia (certolizumab pegol)
+312,5e5d7731b0e65991f861a920,Entocort EC (budesonide)
+313,5e5d7731b0e65991f861a921,Entyvio (vedolizumab)
+314,5e5d7731b0e65991f861a922,Stelara (ustekinumab)
+315,5e5d7731b0e65991f861a923,Tysabri (natalizumab)
+316,5e5d7731b0e65991f861a924,Korlym (mifepristone)
+317,5e5d7731b0e65991f861a925,Signifor (pasireotide diaspartate)
+318,5e5d7731b0e65991f861a926,Istodax (romidepsin)
+319,5e5d7731b0e65991f861a927,Valchlor (mechlorethamine) gel
+320,5e5d7731b0e65991f861a928,Cayston (aztreonam for inhalation solution)
+321,5e5d7731b0e65991f861a929,Kalydeco (ivacaftor)
+322,5e5d7731b0e65991f861a92a,Orkambi (lumacaftor and ivacaftor)
+323,5e5d7731b0e65991f861a92b,Pulmozyme (dornase alfa)
+324,5e5d7731b0e65991f861a92c,Pulmozyme (dornase alfa)
+325,5e5d7731b0e65991f861a92d,Symdeko (tezacaftor/ivacaftor)
+326,5e5d7731b0e65991f861a92e,Tobi
+327,5e5d7731b0e65991f861a92f,"Trikafta (elexacaftor, tezacaftor and ivacaftor tablets; ivacaftor)"
+328,5e5d7731b0e65991f861a930,Ultresa (pancrelipase) delayed-release capsules
+329,5e5d7731b0e65991f861a931,Zenpep (pancrelipase)
+330,5e5d7731b0e65991f861a932,Oral Cytovene
+331,5e5d7731b0e65991f861a933,Vistide (cidofovir)
+332,5e5d7731b0e65991f861a934,Vitrasert Implant
+333,5e5d7731b0e65991f861a935,Vitravene Injection
+334,5e5d7731b0e65991f861a936,Prevymis (letermovir)
+335,5e5d7731b0e65991f861a937,Anthim (obiltoxaximab)
+336,5e5d7731b0e65991f861a938,Avycaz (ceftazidime-avibactam)
+337,5e5d7731b0e65991f861a939,Baxdela (delafloxacin)
+338,5e5d7731b0e65991f861a93a,Fetroja (cefiderocol)
+339,5e5d7731b0e65991f861a93b,Invanz
+340,5e5d7731b0e65991f861a93c,Metronidazole 1.3% Vaginal Gel
+341,5e5d7731b0e65991f861a93d,Nuzyra (omadacycline)
+342,5e5d7731b0e65991f861a93e,Omnicef
+343,5e5d7731b0e65991f861a93f,Orbactiv (oritavancin)
+344,5e5d7731b0e65991f861a940,Pretomanid tablets
+345,5e5d7731b0e65991f861a941,"Recarbrio (imipenem, cilastatin, and relebactam)"
+346,5e5d7731b0e65991f861a942,Sirturo (bedaquiline)
+347,5e5d7731b0e65991f861a943,Sivextro (tedizolid phosphate)
+348,5e5d7731b0e65991f861a944,Solosec (secnidazole)
+349,5e5d7731b0e65991f861a945,Spectracef
+350,5e5d7731b0e65991f861a946,Brineura (cerliponase alfa)
+351,5e5d7731b0e65991f861a947,Dutasteride
+352,5e5d7731b0e65991f861a948,FLOMAX
+353,5e5d7731b0e65991f861a949,Jalyn (dutasteride + tamsulosin)
+354,5e5d7731b0e65991f861a94a,UroXatral (alfuzosin HCl extended-release tablets)
+355,5e5d7731b0e65991f861a94b,Saphris (asenapine)
+356,5e5d7731b0e65991f861a94c,Stavzor (valproic acid delayed release)
+357,5e5d7731b0e65991f861a94d,Vraylar (cariprazine)
+358,5e5d7731b0e65991f861a94e,Keytruda (pembrolizumab)
+359,5e5d7731b0e65991f861a94f,Tecentriq (atezolizumab)
+360,5e5d7731b0e65991f861a950,Imfinzi (durvalumab)
+361,5e5d7731b0e65991f861a951,Detrol (tolterodine tartrate)
+362,5e5d7731b0e65991f861a952,Detrol LA (tolterodine tartrate)
+363,5e5d7731b0e65991f861a953,Gelnique (oxybutynin chloride)
+364,5e5d7731b0e65991f861a954,Mesnex
+365,5e5d7731b0e65991f861a955,Oxytrol (oxybutynin transdermal system)
+366,5e5d7731b0e65991f861a956,Sanctura (trospium chloride)
+367,5e5d7731b0e65991f861a957,Toviaz (fesoterodine fumarate)
+368,5e5d7731b0e65991f861a958,Vesicare (solifenacin succinate)
+369,5e5d7731b0e65991f861a959,Blincyto (blinatumomab)
+370,5e5d7731b0e65991f861a95a,Kcentra (Prothrombin Complex Concentrate)
+371,5e5d7731b0e65991f861a95b,Lovenox (enoxaparin sodium) Injection
+372,5e5d7731b0e65991f861a95c,Tretten (Coagulation Factor XIII A-Subunit [Recombinant])
+373,5e5d7731b0e65991f861a95d,Warfarin Sodium tablets
+374,5e5d7731b0e65991f861a95e,Xarelto (rivaroxaban)
+375,5e5d7731b0e65991f861a95f,Xarelto (rivaroxaban)
+376,5e5d7731b0e65991f861a960,Ferriprox (deferiprone)
+377,5e5d7731b0e65991f861a961,Kcentra (Prothrombin Complex Concentrate)
+378,5e5d7731b0e65991f861a962,Reblozyl (luspatercept-aamt)
+379,5e5d7731b0e65991f861a963,Elelyso (taliglucerase alfa)
+380,5e5d7731b0e65991f861a964,Strensiq (asfotase alfa)
+381,5e5d7731b0e65991f861a965,Xgeva (denosumab)
+382,5e5d7731b0e65991f861a966,Xofigo (radium Ra 223 dichloride)
+383,5e5d7731b0e65991f861a967,Zometa (zoledronic acid)
+384,5e5d7731b0e65991f861a968,Xgeva (denosumab)
+385,5e5d7731b0e65991f861a969,Xgeva (denosumab)
+386,5e5d7731b0e65991f861a96a,Gattex (teduglutide)
+387,5e5d7731b0e65991f861a96b,Avastin (bevacizumab)
+388,5e5d7731b0e65991f861a96c,Gliadel Wafer (polifeprosan 20 with carmustine implant)
+389,5e5d7731b0e65991f861a96d,Afinitor (everolimus)
+390,5e5d7731b0e65991f861a96e,Afinitor (everolimus)
+391,5e5d7731b0e65991f861a96f,Afinitor (everolimus)
+392,5e5d7731b0e65991f861a970,Aredia (pamidronate disodium for injection)
+393,5e5d7731b0e65991f861a971,Ellence
+394,5e5d7731b0e65991f861a972,Evista (raloxifene hydrochloride)
+395,5e5d7731b0e65991f861a973,Faslodex (fulvestrant)
+396,5e5d7731b0e65991f861a974,Femara (letrozole)
+397,5e5d7731b0e65991f861a975,Femara (letrozole)
+398,5e5d7731b0e65991f861a976,Halaven (eribulin mesylate)
+399,5e5d7731b0e65991f861a977,Herceptin (trastuzumab)
+400,5e5d7731b0e65991f861a978,Herceptin Hylecta (trastuzumab and hyaluronidase-oysk)
+401,5e5d7731b0e65991f861a979,Ibrance (palbociclib)
+402,5e5d7731b0e65991f861a97a,Ixempra (ixabepilone)
+403,5e5d7731b0e65991f861a97b,Kadcyla (ado-trastuzumab emtansine)
+404,5e5d7731b0e65991f861a97c,Kisqali (ribociclib)
+405,5e5d7731b0e65991f861a97d,Herceptin Hylecta (trastuzumab and hyaluronidase-oysk)
+406,5e5d7731b0e65991f861a97e,Nerlynx (neratinib)
+407,5e5d7731b0e65991f861a97f,Augmentin (amoxicillin/clavulanate)
+408,5e5d7731b0e65991f861a980,Avelox I.V. (moxifloxacin hydrochloride)
+409,5e5d7731b0e65991f861a981,Ceftin (cefuroxime axetil)
+410,5e5d7731b0e65991f861a982,Dermagraft-TC
+411,5e5d7731b0e65991f861a983,Sulfamylon
+412,5e5d7731b0e65991f861a984,Clarithromycin (Biaxin)
+413,5e5d7731b0e65991f861a985,Valcyte (valganciclovir HCl)
+414,5e5d7731b0e65991f861a986,Amzeeq (minocycline)
+415,5e5d7731b0e65991f861a987,"Differin (adapalene gel) Gel, 0.1%"
+416,5e5d7731b0e65991f861a988,Estrostep (norethindrone acetate and ethinyl estradiol)
+417,5e5d7731b0e65991f861a989,Finevin
+418,5e5d7731b0e65991f861a98a,"Klaron (sodium sulfacet amide lotion ) Lotion, 10%"
+419,5e5d7731b0e65991f861a98b,Ortho Tri-Cyclen Tablets (norgestimate/ethinyl estradiol)
+420,5e5d7731b0e65991f861a98c,"Retin-A Micro (tretinoin gel) microsphere, 0.1%"
+421,5e5d7731b0e65991f861a98d,Seysara (sarecycline)
+422,5e5d7731b0e65991f861a98e,Tazorac topical gel
+423,5e5d7731b0e65991f861a98f,Veltin (clindamycin phosphate and tretinoin)
+424,5e5d7731b0e65991f861a990,Signifor LAR (pasireotide)
+425,5e5d7731b0e65991f861a991,Mylotarg (gemtuzumab ozogamicin)
+426,5e5d7731b0e65991f861a992,Daurismo (glasdegib)
+427,5e5d7731b0e65991f861a993,IDHIFA (enasidenib)
+428,5e5d7731b0e65991f861a994,Tibsovo (ivosidenib)
+429,5e5d7731b0e65991f861a995,Vyxeos (daunorubicin and cytarabine)
+430,5e5d7731b0e65991f861a996,Xospata (gilteritinib)
+431,5e5d7731b0e65991f861a997,Dsuvia (sufentanil)
+432,5e5d7731b0e65991f861a998,Exparel (bupivacaine liposome injectable suspension)
+433,5e5d7731b0e65991f861a999,Tivorbex (indomethacin)
+434,5e5d7731b0e65991f861a99a,Xartemis XR (oxycodone hydrochloride and acetaminophen) extended release
+435,5e5d7731b0e65991f861a99b,Zingo (lidocaine hydrochloride monohydrate)
+436,5e5d7731b0e65991f861a99c,Bunavail (buprenorphine and naloxone)
+437,5e5d7731b0e65991f861a99d,Lucemyra (lofexidine)
+438,5e5d7731b0e65991f861a99e,Vivitrol (naltrexone for extended-release injectable suspension)
+439,5e5d7731b0e65991f861a99f,Zubsolv (buprenorphine and naloxone)
+440,5e5d7731b0e65991f861a9a0,Keytruda (pembrolizumab)
+441,5e5d7731b0e65991f861a9a1,Actemra (tocilizumab) injection
+442,5e5d7731b0e65991f861a9a2,"Andexxa (coagulation factor Xa (recombinant), inactivated-zhzo)"
+443,5e5d7731b0e65991f861a9a3,Bunavail (buprenorphine and naloxone)
+444,5e5d7731b0e65991f861a9a4,Myalept (metreleptin for injection)
+445,5e5d7731b0e65991f861a9a5,Neutroval (tbo-filgrastim)
+446,5e5d7731b0e65991f861a9a6,Praxbind (idarucizumab)
+447,5e5d7731b0e65991f861a9a7,Voraxaze (glucarpidase)
+448,5e5d7731b0e65991f861a9a8,Campral (acamprosate calcium)
+449,5e5d7731b0e65991f861a9a9,Naltrexone Hydrochloride Tablets
+450,5e5d7731b0e65991f861a9aa,Vivitrol (naltrexone for extended-release injectable suspension)
+451,5e5d7731b0e65991f861a9ab,Dymista (azelastine hydrochloride and fluticasone propionate)
+452,5e5d7731b0e65991f861a9ac,Qnasl (beclomethasone dipropionate) nasal aerosol
+453,5e5d7731b0e65991f861a9ad,AK-Con-A (naphazoline ophthalmic)
+454,5e5d7731b0e65991f861a9ae,Allegra (fexofenadine hydrochloride)
+455,5e5d7731b0e65991f861a9af,Allegra-D
+456,5e5d7731b0e65991f861a9b0,Astelin nasal spray
+457,5e5d7731b0e65991f861a9b1,Astepro (azelastine hydrochloride nasal spray)
+458,5e5d7731b0e65991f861a9b2,Clarinex
+459,5e5d7731b0e65991f861a9b3,Claritin RediTabs (10 mg loratadine rapidly-disintegrating tablet)
+460,5e5d7731b0e65991f861a9b4,Clemastine fumarate syrup
+461,5e5d7731b0e65991f861a9b5,Dymista (azelastine hydrochloride and fluticasone propionate)
+462,5e5d7731b0e65991f861a9b6,Flonase Nasal Spray
+463,5e5d7731b0e65991f861a9b7,Grastek (Timothy Grass Pollen Allergen Extract)
+464,5e5d7731b0e65991f861a9b8,IvyBlock
+465,5e5d7731b0e65991f861a9b9,Nasacort AQ (triamcinolone acetonide) Nasal Spray
+466,5e5d7731b0e65991f861a9ba,NasalCrom Nasal Spray
+467,5e5d7731b0e65991f861a9bb,Nasonex Nasal Spray
+468,5e5d7731b0e65991f861a9bc,"Oralair (Sweet Vernal, Orchard, Perennial Rye, Timothy and Kentucky Blue Grass Mixed Pollens Allergen Extract)"
+469,5e5d7731b0e65991f861a9bd,Patanase (olopatadine hydrochloride)
+470,5e5d7731b0e65991f861a9be,Qnasl (beclomethasone dipropionate) nasal aerosol
+471,5e5d7731b0e65991f861a9bf,Ragwitek (Short Ragweed Pollen Allergen Extract)
+472,5e5d7731b0e65991f861a9c0,Claritin Syrup (loratadine)
+473,5e5d7731b0e65991f861a9c1,ARICEPT (donepezil hydrochloride)
+474,5e5d7731b0e65991f861a9c2,Exelon (rivastigmine tartrate)
+475,5e5d7731b0e65991f861a9c3,Exelon (rivastigmine tartrate)
+476,5e5d7731b0e65991f861a9c4,Femstat 3 (butoconazole nitrate 2%)
+477,5e5d7731b0e65991f861a9c5,Namenda (memantine HCl)
+478,5e5d7731b0e65991f861a9c6,Reminyl (galantamine hydrobromide)
+479,5e5d7731b0e65991f861a9c7,Prometrium
+480,5e5d7731b0e65991f861a9c8,Onpattro (patisiran)
+481,5e5d7731b0e65991f861a9c9,Tegsedi (inotersen)
+482,5e5d7731b0e65991f861a9ca,Radicava (edaravone)
+483,5e5d7731b0e65991f861a9cb,Rilutek (riluzole)
+484,5e5d7731b0e65991f861a9cc,Rectiv (nitroglycerin) ointment 0.4%
+485,5e5d7731b0e65991f861a9cd,Cablivi (caplacizumab-yhdp)
+486,5e5d7731b0e65991f861a9ce,Injectafer (ferric carboxymaltose injection)
+487,5e5d7731b0e65991f861a9cf,Omontys (peginesatide)
+488,5e5d7731b0e65991f861a9d0,Ultomiris (ravulizumab-cwvz)
+489,5e5d7731b0e65991f861a9d1,Venofer (iron sucrose injection)
+490,5e5d7731b0e65991f861a9d2,Zingo (lidocaine hydrochloride monohydrate)
+491,5e5d7731b0e65991f861a9d3,Nitrostat (nitroglycerin) Tablets
+492,5e5d7731b0e65991f861a9d4,Posicor
+493,5e5d7731b0e65991f861a9d5,Ranexa (ranolazine)
+494,5e5d7731b0e65991f861a9d6,Tiazac (diltiazem hydrochloride)
+495,5e5d7731b0e65991f861a9d7,Toprol-XL (metoprolol succinate)
+496,5e5d7731b0e65991f861a9d8,Cimzia (certolizumab pegol)
+497,5e5d7731b0e65991f861a9d9,Rayos (prednisone) delayed-release tablets
+498,5e5d7731b0e65991f861a9da,Taltz (ixekizumab)
+499,5e5d7731b0e65991f861a9db,Syndros (dronabinol oral solution)
+500,5e5d7731b0e65991f861a9dc,Procanbid (procainamide hydrochloride extended-release tablets)
+501,5e5d7731b0e65991f861a9dd,Arthrotec
+502,5e5d7731b0e65991f861a9de,Cimzia (certolizumab pegol)
+503,5e5d7731b0e65991f861a9df,Cimzia (certolizumab pegol)
+504,5e5d7731b0e65991f861a9e0,Lodine XL (etodolac)
+505,5e5d7731b0e65991f861a9e1,Otezla (apremilast)
+506,5e5d7731b0e65991f861a9e2,Rayos (prednisone) delayed-release tablets
+507,5e5d7731b0e65991f861a9e3,Tolmetin Sodium
+508,5e5d7731b0e65991f861a9e4,Xeljanz (tofacitinib)
+509,5e5d7731b0e65991f861a9e5,Zilretta (triamcinolone acetonide extended-release injectable suspension)
+510,5e5d7731b0e65991f861a9e6,Actemra (ocilizumab)
+511,5e5d7731b0e65991f861a9e7,Actemra (tocilizumab)
+512,5e5d7731b0e65991f861a9e8,Cresemba (isavuconazonium sulfate)
+513,5e5d7731b0e65991f861a9e9,Accolate
+514,5e5d7731b0e65991f861a9ea,Advair (fluticasone propionate and salmeterol)
+515,5e5d7731b0e65991f861a9eb,Alvesco (ciclesonide)
+516,5e5d7731b0e65991f861a9ec,Arnuity Ellipta (fluticasone furoate inhalation powder)
+517,5e5d7731b0e65991f861a9ed,Azmacort (triamcinolone acetonide) Inhalation Aerosol
+518,5e5d7731b0e65991f861a9ee,Cinqair (reslizumab)
+519,5e5d7731b0e65991f861a9ef,Dulera (mometasone furoate + formoterol fumarate dihydrate)
+520,5e5d7731b0e65991f861a9f0,Dupixent (dupilumab)
+521,5e5d7731b0e65991f861a9f1,Flovent Rotadisk
+522,5e5d7731b0e65991f861a9f2,"Metaprotereol Sulfate Inhalation Solution, 5%"
+523,5e5d7731b0e65991f861a9f3,Nucala (mepolizumab)
+524,5e5d7731b0e65991f861a9f4,Qvar (beclomethasone dipropionate)
+525,5e5d7731b0e65991f861a9f5,Serevent
+526,5e5d7731b0e65991f861a9f6,Singulair
+527,5e5d7731b0e65991f861a9f7,Tilade (nedocromil sodium)
+528,5e5d7731b0e65991f861a9f8,Tilade (nedocromil sodium)
+529,5e5d7731b0e65991f861a9f9,"Vanceril 84 mcg Double Strength (beclomethasone dipropionate, 84 mcg) Inhalation Aerosol"
+530,5e5d7731b0e65991f861a9fa,Ventolin HFA (albuterol sulfate inhalation aerosol)
+531,5e5d7731b0e65991f861a9fb,Accolate
+532,5e5d7731b0e65991f861a9fc,Arnuity Ellipta (fluticasone furoate inhalation powder)
+533,5e5d7731b0e65991f861a9fd,Dupixent (dupilumab)
+534,5e5d7731b0e65991f861a9fe,Tilade (nedocromil sodium)
+535,5e5d7731b0e65991f861a9ff,Lescol (fluvastatin sodium)
+536,5e5d7731b0e65991f861aa00,Plavix (clopidogrel bisulfate)
+537,5e5d7731b0e65991f861aa01,"Lamisil (terbinafine hydrochloride) Solution, 1%"
+538,5e5d7731b0e65991f861aa02,Lotrisone (clotrimazole/betamethasone diproprionate) lotion
+539,5e5d7731b0e65991f861aa03,Mentax (1% butenafine HCl cream)
+540,5e5d7731b0e65991f861aa04,Desonate (desonide)
+541,5e5d7731b0e65991f861aa05,Elidel
+542,5e5d7731b0e65991f861aa06,Protopic (tacrolimus) ointment
+543,5e5d7731b0e65991f861aa07,Verdeso (desonide)
+544,5e5d7731b0e65991f861aa08,Cardizem (R) (Diltiazem HC1 for injection) Monvial (R)
+545,5e5d7731b0e65991f861aa09,Corvert Injection (ibutilide fumarate injection)
+546,5e5d7731b0e65991f861aa0a,Eliquis (apixaban)
+547,5e5d7731b0e65991f861aa0b,Multaq (dronedarone)
+548,5e5d7731b0e65991f861aa0c,Pradaxa (dabigatran etexilate mesylate)
+549,5e5d7731b0e65991f861aa0d,Rythmol
+550,5e5d7731b0e65991f861aa0e,Tikosyn Capsules
+551,5e5d7731b0e65991f861aa0f,Quillivant XR (methylphenidate hydrochloride)
+552,5e5d7731b0e65991f861aa10,Adderall (mixed salts of a single-entity amphetamine)
+553,5e5d7731b0e65991f861aa11,Adderall XR
+554,5e5d7731b0e65991f861aa12,Fosamax (alendronate sodium)
+555,5e5d7731b0e65991f861aa13,Reclast (zoledronic acid)
+556,5e5d7731b0e65991f861aa14,Skelid (tiludronate disodium)
+557,5e5d7731b0e65991f861aa15,Bromfenac
+558,5e5d7731b0e65991f861aa16,Dyloject (diclofenac sodium) Injection
+559,5e5d7731b0e65991f861aa17,Embeda (morphine sulfate and naltrexone hydrochloride)
+560,5e5d7731b0e65991f861aa18,Exalgo (hydromorphone hydrochloride) extended release
+561,5e5d7731b0e65991f861aa19,NORCO tablets (Hydrocodone Bitartrate/Acetaminophen 10 mg/325 mg)
+562,5e5d7731b0e65991f861aa1a,Oxecta (oxycodone HCl)
+563,5e5d7731b0e65991f861aa1b,OxyContin (oxycodone HCl controlled-release)
+564,5e5d7731b0e65991f861aa1c,Sprix (ketorolac tromethamine)
+565,5e5d7731b0e65991f861aa1d,Ultracet (acetaminophen and tramadol HCl)
+566,5e5d7731b0e65991f861aa1e,Zipsor (diclofenac potassium)
+567,5e5d7731b0e65991f861aa1f,Zohydro ER (hydrocodone bitartrate) Extended-Release Capsules
+568,5e5d7731b0e65991f861aa20,Gemzar (gemcitabine HCL)
+569,5e5d7731b0e65991f861aa21,Lutathera (lutetium Lu 177 dotatate)
+570,5e5d7731b0e65991f861aa22,Lynparza (olaparib)
+571,5e5d7731b0e65991f861aa23,Onivyde (irinotecan liposome injection)
+572,5e5d7731b0e65991f861aa24,Pancreaze (pancrelipase)
+573,5e5d7731b0e65991f861aa25,SecreFlo (secretin)
+574,5e5d7731b0e65991f861aa26,Viokace (pancrelipase) tablets
+575,5e5d7731b0e65991f861aa27,Viokace (pancrelipase) tablets
+576,5e5d7731b0e65991f861aa28,Paxil (paroxetine hydrochloride)
+577,5e5d7731b0e65991f861aa29,Zoloft (sertraline HCl)
+578,5e5d7731b0e65991f861aa2a,Zoloft (sertraline HCl)
+579,5e5d7731b0e65991f861aa2b,Albenza (albendazole)
+580,5e5d7731b0e65991f861aa2c,Coartem (artemether/lumefantrine)
+581,5e5d7731b0e65991f861aa2d,Egaten (triclabendazole)
+582,5e5d7731b0e65991f861aa2e,"Tindamax, tinidazole"
+583,5e5d7731b0e65991f861aa2f,Parsabiv (etelcalcetide)
+584,5e5d7731b0e65991f861aa30,Rayaldee (calcifediol)
+585,5e5d7731b0e65991f861aa31,Apokyn (apomorphine hydrochloride)
+586,5e5d7731b0e65991f861aa32,Comtan
+587,5e5d7731b0e65991f861aa33,Duopa (carbidopa and levodopa) enteral suspension
+588,5e5d7731b0e65991f861aa34,Mirapex
+589,5e5d7731b0e65991f861aa35,Neupro (rotigotine)
+590,5e5d7731b0e65991f861aa36,Nourianz (istradefylline)
+591,5e5d7731b0e65991f861aa37,Nuplazid (pimavanserin)
+592,5e5d7731b0e65991f861aa38,Nuplazid (pimavanserin)
+593,5e5d7731b0e65991f861aa39,Pramipexole
+594,5e5d7731b0e65991f861aa3a,Requip (ropinirole hydrochloride)
+595,5e5d7731b0e65991f861aa3b,Rytary (carbidopa and levodopa) extended-release capsules
+596,5e5d7731b0e65991f861aa3c,Selegiline tablets
+597,5e5d7731b0e65991f861aa3d,Tasmar
+598,5e5d7731b0e65991f861aa3e,Xadago (safinamide)
+599,5e5d7731b0e65991f861aa3f,Asparlas (calaspargase pegol-mknl )
+600,5e5d7731b0e65991f861aa40,Benznidazole
+601,5e5d7731b0e65991f861aa41,Bexsero (Meningococcal Group B Vaccine)
+602,5e5d7731b0e65991f861aa42,Botox (onabotulinumtoxinA)
+603,5e5d7731b0e65991f861aa43,Cuvposa (glycopyrrolate)
+604,5e5d7731b0e65991f861aa44,Emflaza (deflazacort)
+605,5e5d7731b0e65991f861aa45,Hemlibra (emicizumab-kxwh)
+606,5e5d7731b0e65991f861aa46,"Kineret, anakinra"
+607,5e5d7731b0e65991f861aa47,Kovaltry [Antihemophilic Factor (Recombinant)]
+608,5e5d7731b0e65991f861aa48,Mavyret (glecaprevir and pibrentasvir)
+609,5e5d7731b0e65991f861aa49,Ruzurgi (amifampridine)
+610,5e5d7731b0e65991f861aa4a,Soliris (eculizumab)
+611,5e5d7731b0e65991f861aa4b,Surfaxin (lucinactant)
+612,5e5d7731b0e65991f861aa4c,Actemra (ocilizumab)
+613,5e5d7731b0e65991f861aa4d,Adderall XR
+614,5e5d7731b0e65991f861aa4e,Alinia (nitazoxanide)
+615,5e5d7731b0e65991f861aa4f,"Alprolix [Coagulation Factor IX (Recombinant), Fc Fusion Protein]"
+616,5e5d7731b0e65991f861aa50,Amoxil (amoxicillin)
+617,5e5d7731b0e65991f861aa51,AneuVysion Assay
+618,5e5d7731b0e65991f861aa52,Antizol Injection
+619,5e5d7731b0e65991f861aa53,Aptivus (tipranavir)
+620,5e5d7731b0e65991f861aa54,Asparlas (calaspargase pegol-mknl )
+621,5e5d7731b0e65991f861aa55,Banzel (rufinamide)
+622,5e5d7731b0e65991f861aa56,Benlysta (belimumab)
+623,5e5d7731b0e65991f861aa57,Berinert (C1 Esterase Inhibitor (Human))
+624,5e5d7731b0e65991f861aa58,Bexsero (Meningococcal Group B Vaccine)
+625,5e5d7731b0e65991f861aa59,Rituxan (rituximab)
+626,5e5d7731b0e65991f861aa5a,Pentoxifylline
+627,5e5d7731b0e65991f861aa5b,Avastin (bevacizumab)
+628,5e5d7731b0e65991f861aa5c,Zejula (niraparib)
+629,5e5d7731b0e65991f861aa5d,Xiaflex (collagenase clostridium histolyticum)
+630,5e5d7731b0e65991f861aa5e,Akten (lidocaine hydrochloride)
+631,5e5d7731b0e65991f861aa5f,AneuVysion Assay
+632,5e5d7731b0e65991f861aa60,Antizol Injection
+633,5e5d7731b0e65991f861aa61,Bridion (sugammadex)
+634,5e5d7731b0e65991f861aa62,Egrifta (tesamorelin for injection)
+635,5e5d7731b0e65991f861aa63,Fusilev (levoleucovorin)
+636,5e5d7731b0e65991f861aa64,Galzin (zinc acetate)
+637,5e5d7731b0e65991f861aa65,Gocovri (amantadine)
+638,5e5d7731b0e65991f861aa66,Iontocaine
+639,5e5d7731b0e65991f861aa67,Kytril (granisetron) tablets
+640,5e5d7731b0e65991f861aa68,Lamisil (terbinafine hydrochloride) Tablets
+641,5e5d7731b0e65991f861aa69,Palynziq (pegvaliase-pqpz)
+642,5e5d7731b0e65991f861aa6a,Prevnar 13 (Pneumococcal 13-valent Conjugate Vaccine)
+643,5e5d7731b0e65991f861aa6b,Vibativ (telavancin)
+644,5e5d7731b0e65991f861aa6c,Vibativ (telavancin)
+645,5e5d7731b0e65991f861aa6d,Xenleta (lefamulin)
+646,5e5d7731b0e65991f861aa6e,Zerbaxa (ceftolozane + tazobactam)
+647,5e5d7731b0e65991f861aa6f,Zosyn (sterile piperacillin sodium/tazobactam sodium)
+648,5e5d7731b0e65991f861aa70,Aldara (imiquimod)
+649,5e5d7731b0e65991f861aa71,Luzu (luliconazole) Cream 1%
+650,5e5d7731b0e65991f861aa72,Veregen (kunecatechins)
+651,5e5d7731b0e65991f861aa73,Dupixent (dupilumab)
+652,5e5d7731b0e65991f861aa74,Arimidex (anastrozole)
+653,5e5d7731b0e65991f861aa75,Alora
+654,5e5d7731b0e65991f861aa76,Estradiol tablets
+655,5e5d7731b0e65991f861aa77,Evenity (romosozumab-aqqg)
+656,5e5d7731b0e65991f861aa78,Evista (raloxifene hydrochloride)
+657,5e5d7731b0e65991f861aa79,Fosamax (alendronate sodium)
+658,5e5d7731b0e65991f861aa7a,Miacalcin (calcitonin-salmon) Nasal Spray
+659,5e5d7731b0e65991f861aa7b,Premarin (conjugated estrogens)
+660,5e5d7731b0e65991f861aa7c,Prempro & Premphase (conjugated estrogens/medroxyprogesterone acetate tablets)
+661,5e5d7731b0e65991f861aa7d,Prolia (denosumab)
+662,5e5d7731b0e65991f861aa7e,Reclast (zoledronic acid)
+663,5e5d7731b0e65991f861aa7f,Tymlos (abaloparatide)
+664,5e5d7731b0e65991f861aa80,Zulresso (brexanolone)
+665,5e5d7731b0e65991f861aa81,Exparel (bupivacaine liposome injectable suspension)
+666,5e5d7731b0e65991f861aa82,Humira (adalimumab)
+667,5e5d7731b0e65991f861aa83,Horizant (gabapentin enacarbil)
+668,5e5d7731b0e65991f861aa84,Horizant (gabapentin enacarbil)
+669,5e5d7731b0e65991f861aa85,Picato (ingenol mebutate) gel
+670,5e5d7731b0e65991f861aa86,Diclegis (doxylamine succinate + pyridoxine hydrochloride DR tablets)
+671,5e5d7731b0e65991f861aa87,Diclegis (doxylamine succinate + pyridoxine hydrochloride DR tablets)
+672,5e5d7731b0e65991f861aa88,Makena (hydroxyprogesterone caproate injection)
+673,5e5d7731b0e65991f861aa89,"Asceniv (Immune Globulin Intravenous, Human â€“ slra 10% Liquid)"
+674,5e5d7731b0e65991f861aa8a,Revcovi (elapegademase-lvlr)
+675,5e5d7731b0e65991f861aa8b,Firdapse (amifampridine)
+676,5e5d7731b0e65991f861aa8c,Contrave (naltrexone HCl and bupropion HCl)
+677,5e5d7731b0e65991f861aa8d,MERIDIA
+678,5e5d7731b0e65991f861aa8e,Qsymia (phentermine + topiramate extended-release)
+679,5e5d7731b0e65991f861aa8f,Redux (dexfenfluramine hydrochloride)
+680,5e5d7731b0e65991f861aa90,Saxenda (liraglutide [rDNA origin] injection)
+681,5e5d7731b0e65991f861aa91,LUVOX (fluvoxamine maleate)
+682,5e5d7731b0e65991f861aa92,Afinitor (everolimus)
+683,5e5d7731b0e65991f861aa93,Avastin (bevacizumab)
+684,5e5d7731b0e65991f861aa94,Bextra
+685,5e5d7731b0e65991f861aa95,Bijuva (estradiol and progesterone)
+686,5e5d7731b0e65991f861aa96,"Bravelle (urofollitropin for injection, purified)"
+687,5e5d7731b0e65991f861aa97,Brisdelle (low-dose paroxetine mesylate)
+688,5e5d7731b0e65991f861aa98,Cenestin
+689,5e5d7731b0e65991f861aa99,Cenestin
+690,5e5d7731b0e65991f861aa9a,Cetrotide
+691,5e5d7731b0e65991f861aa9b,Cleocin (clindamycin phosphate)
+692,5e5d7731b0e65991f861aa9c,Alphagan (brimonidine)
+693,5e5d7731b0e65991f861aa9d,Betaxon
+694,5e5d7731b0e65991f861aa9e,Cosopt
+695,5e5d7731b0e65991f861aa9f,Lumigan (bimatoprost ophthalmic solution)
+696,5e5d7731b0e65991f861aaa0,Rescula (unoprostone isopropyl ophthalmic solution) 0.15%
+697,5e5d7731b0e65991f861aaa1,Rhopressa (netarsudil ophthalmic solution)
+698,5e5d7731b0e65991f861aaa2,Rocklatan (netarsudil and latanoprost ophthalmic solution)
+699,5e5d7731b0e65991f861aaa3,Travatan (travoprost ophthalmic solution)
+700,5e5d7731b0e65991f861aaa4,Vyzulta (latanoprostene bunod ophthalmic solution)
+701,5e5d7731b0e65991f861aaa5,Zioptan (tafluprost ophthalmic solution)
+702,5e5d7731b0e65991f861aaa6,Abraxane (paclitaxel protein-bound particles for injectable suspension)
+703,5e5d7731b0e65991f861aaa7,Actiq
+704,5e5d7731b0e65991f861aaa8,Adcetris (brentuximab vedotin)
+705,5e5d7731b0e65991f861aaa9,Afinitor (everolimus)
+706,5e5d7731b0e65991f861aaaa,Afinitor (everolimus)
+707,5e5d7731b0e65991f861aaab,Afinitor (everolimus)
+708,5e5d7731b0e65991f861aaac,Afinitor (everolimus)
+709,5e5d7731b0e65991f861aaad,Alecensa (alectinib)
+710,5e5d7731b0e65991f861aaae,Alimta (pemetrexed for injection)
+711,5e5d7731b0e65991f861aaaf,Alimta (pemetrexed for injection)
+712,5e5d7731b0e65991f861aab0,Aliqopa (copanlisib)
+713,5e5d7731b0e65991f861aab1,Aloxi (palonosetron)
+714,5e5d7731b0e65991f861aab2,Alunbrig (brigatinib)
+715,5e5d7731b0e65991f861aab3,Anzemet
+716,5e5d7731b0e65991f861aab4,Anzemet
+717,5e5d7731b0e65991f861aab5,Arimidex (anastrozole)
+718,5e5d7731b0e65991f861aab6,Acular (ketorolac tromethamine ophthalmic solution) 0.5%
+719,5e5d7731b0e65991f861aab7,Acular (ketorolac tromethamine ophthalmic solution) 0.5%
+720,5e5d7731b0e65991f861aab8,Acuvail (ketorolac tromethamine)
+721,5e5d7731b0e65991f861aab9,Alamast
+722,5e5d7731b0e65991f861aaba,Alphagan (brimonidine)
+723,5e5d7731b0e65991f861aabb,Alrex
+724,5e5d7731b0e65991f861aabc,AzaSite (azithromycin)
+725,5e5d7731b0e65991f861aabd,Beovu (brolucizumab-dbll)
+726,5e5d7731b0e65991f861aabe,Besivance (besifloxacin ophthalmic suspension)
+727,5e5d7731b0e65991f861aabf,Betaxon
+728,5e5d7731b0e65991f861aac0,BSS Sterile Irrigating Solution
+729,5e5d7731b0e65991f861aac1,Cosopt
+730,5e5d7731b0e65991f861aac2,Durezol (difluprednate)
+731,5e5d7731b0e65991f861aac3,Amrix (cyclobenzaprine hydrochloride extended release)
+732,5e5d7731b0e65991f861aac4,Rayos (prednisone) delayed-release tablets
+733,5e5d7731b0e65991f861aac5,Taltz (ixekizumab)
+734,5e5d7731b0e65991f861aac6,Xgeva (denosumab)
+735,5e5d7731b0e65991f861aac7,Bextra
+736,5e5d7731b0e65991f861aac8,Duexis (ibuprofen and famotidine)
+737,5e5d7731b0e65991f861aac9,Etodolac
+738,5e5d7731b0e65991f861aaca,Etodolac
+739,5e5d7731b0e65991f861aacb,Mobic (meloxicam) Tablets
+740,5e5d7731b0e65991f861aacc,Naprelan (naproxen sodium)
+741,5e5d7731b0e65991f861aacd,Pennsaid (diclofenac sodium topical solution)
+742,5e5d7731b0e65991f861aace,Supartz
+743,5e5d7731b0e65991f861aacf,"Synvisc, Synvisc-One (Hylan GF 20)"
+744,5e5d7731b0e65991f861aad0,Activella (Estradiol/Norethindrone Acetate) Tablets
+745,5e5d7731b0e65991f861aad1,Alora
+746,5e5d7731b0e65991f861aad2,Boniva (ibandronate)
+747,5e5d7731b0e65991f861aad3,Duavee (conjugated estrogens/bazedoxifene)
+748,5e5d7731b0e65991f861aad4,Estratab (.3 mg )
+749,5e5d7731b0e65991f861aad5,Evista (raloxifene hydrochloride)
+750,5e5d7731b0e65991f861aad6,Femhrt Tablets
+751,5e5d7731b0e65991f861aad7,Forteo (teriparatide)
+752,5e5d7731b0e65991f861aad8,Ortho-Prefest
+753,5e5d7731b0e65991f861aad9,Prolia (denosumab)
+754,5e5d7731b0e65991f861aada,Vivelle (estradiol transdermal system)
+755,5e5d7731b0e65991f861aadb,Otiprio (ciprofloxacin otic suspension)
+756,5e5d7731b0e65991f861aadc,Astepro (azelastine hydrochloride nasal spray)
+757,5e5d7731b0e65991f861aadd,Bactroban Nasal 2% (mupirocin calcium ointment)
+758,5e5d7731b0e65991f861aade,Depakote ER (divalproex sodium)
+759,5e5d7731b0e65991f861aadf,Ethyol (amifostine)
+760,5e5d7731b0e65991f861aae0,Floxin otic
+761,5e5d7731b0e65991f861aae1,Keytruda (pembrolizumab)
+762,5e5d7731b0e65991f861aae2,Moxatag (amoxicillin)
+763,5e5d7731b0e65991f861aae3,Protonix (pantoprazole sodium) Delayed-Release Tablets
+764,5e5d7731b0e65991f861aae4,Rocephin
+765,5e5d7731b0e65991f861aae5,Avastin (bevacizumab)
+766,5e5d7731b0e65991f861aae6,Ethyol (amifostine)
+767,5e5d7731b0e65991f861aae7,Hycamtin (topotecan hydrochloride)
+768,5e5d7731b0e65991f861aae8,Lynparza (olaparib)
+769,5e5d7731b0e65991f861aae9,Rubraca (rucaparib)
+770,5e5d7731b0e65991f861aaea,Zejula (niraparib)
+771,5e5d7731b0e65991f861aaeb,Wakix (pitolisant)
+772,5e5d7731b0e65991f861aaec,Breathe Right
+773,5e5d7731b0e65991f861aaed,Elzonris (tagraxofusp-erzs)
+774,5e5d7731b0e65991f861aaee,Anturol (oxybutynin) Gel
+775,5e5d7731b0e65991f861aaef,Auryxia (Ferric citrate)
+776,5e5d7731b0e65991f861aaf0,Avastin (bevacizumab)
+777,5e5d7731b0e65991f861aaf1,Bavencio (avelumab) plus Inlyta (axitinib)
+778,5e5d7731b0e65991f861aaf2,Cabometyx (cabozantinib)
+779,5e5d7731b0e65991f861aaf3,Carbaglu (carglumic acid)
+780,5e5d7731b0e65991f861aaf4,Caverject (alprostadil)
+781,5e5d7731b0e65991f861aaf5,Cipro (ciprofloxacin HCl)
+782,5e5d7731b0e65991f861aaf6,Degarelix (degarelix for injection)
+783,5e5d7731b0e65991f861aaf7,Ditropan XL (oxybutynin chloride)
+784,5e5d7731b0e65991f861aaf8,Ditropan XL (oxybutynin chloride)
+785,5e5d7731b0e65991f861aaf9,Doribax (doripenem)
+786,5e5d7731b0e65991f861aafa,Eligard (leuprolide acetate)
+787,5e5d7731b0e65991f861aafb,Unituxin (dinutuximab)
+788,5e5d7731b0e65991f861aafc,Sutent (sunitinib malate)
+789,5e5d7731b0e65991f861aafd,Firdapse (amifampridine)
+790,5e5d7731b0e65991f861aafe,Aimovig (erenumab-aooe)
+791,5e5d7731b0e65991f861aaff,Ajovy (fremanezumab-vfrm)
+792,5e5d7731b0e65991f861ab00,Amerge
+793,5e5d7731b0e65991f861ab01,Ampyra (dalfampridine)
+794,5e5d7731b0e65991f861ab02,Aptiom (eslicarbazepine acetate)
+795,5e5d7731b0e65991f861ab03,Aristada (aripiprazole lauroxil) extended-release injectable
+796,5e5d7731b0e65991f861ab04,Austedo (deutetrabenazine)
+797,5e5d7731b0e65991f861ab05,Avonex (Interferon Beta 1-A)
+798,5e5d7731b0e65991f861ab06,Axert (almotriptan malate) tablets
+799,5e5d7731b0e65991f861ab07,Bayer Extra Strength Asprin
+800,5e5d7731b0e65991f861ab08,Belsomra (suvorexant)
+801,5e5d7731b0e65991f861ab09,Lyrica (pregabalin)
+802,5e5d7731b0e65991f861ab0a,Lyrica (pregabalin)
+803,5e5d7731b0e65991f861ab0b,Nocdurna (desmopressin acetate)
+804,5e5d7731b0e65991f861ab0c,Beleodaq (belinostat)
+805,5e5d7731b0e65991f861ab0d,Bexxar
+806,5e5d7731b0e65991f861ab0e,"Intron A (interferon alfa-2b, recombinant)"
+807,5e5d7731b0e65991f861ab0f,Poteligeo (mogamulizumab-kpkc)
+808,5e5d7731b0e65991f861ab10,Revlimid (lenalidomide)
+809,5e5d7731b0e65991f861ab11,Revlimid (lenalidomide)
+810,5e5d7731b0e65991f861ab12,Rituxan (rituximab)
+811,5e5d7731b0e65991f861ab13,Venclexta (venetoclax) plus Gazyva (obinutuzumab)
+812,5e5d7731b0e65991f861ab14,Zevalin (ibritumomab tiuxetan)
+813,5e5d7731b0e65991f861ab15,Zydelig (idelalisib)
+814,5e5d7731b0e65991f861ab16,Abraxane (paclitaxel protein-bound particles for injectable suspension)
+815,5e5d7731b0e65991f861ab17,Alecensa (alectinib)
+816,5e5d7731b0e65991f861ab18,Alimta (pemetrexed for injection)
+817,5e5d7731b0e65991f861ab19,Alunbrig (brigatinib)
+818,5e5d7731b0e65991f861ab1a,Avastin (bevacizumab)
+819,5e5d7731b0e65991f861ab1b,Cyramza (ramucirumab)
+820,5e5d7731b0e65991f861ab1c,Gilotrif (afatinib)
+821,5e5d7731b0e65991f861ab1d,Hycamtin (topotecan hydrochloride)
+822,5e5d7731b0e65991f861ab1e,Imfinzi (durvalumab)
+823,5e5d7731b0e65991f861ab1f,Iressa (gefitinib)
+824,5e5d7731b0e65991f861ab20,Keytruda (pembrolizumab)
+825,5e5d7731b0e65991f861ab21,Keytruda (pembrolizumab)
+826,5e5d7731b0e65991f861ab22,Lorbrena (lorlatinib)
+827,5e5d7731b0e65991f861ab23,Opdivo (nivolumab)
+828,5e5d7731b0e65991f861ab24,Photofrin
+829,5e5d7731b0e65991f861ab25,Portrazza (necitumumab)
+830,5e5d7731b0e65991f861ab26,Rozlytrek (entrectinib)
+831,5e5d7731b0e65991f861ab27,Tagrisso (osimertinib)
+832,5e5d7731b0e65991f861ab28,"Tarceva (erlotinib, OSI 774)"
+833,5e5d7731b0e65991f861ab29,Tecentriq (atezolizumab)
+834,5e5d7731b0e65991f861ab2a,Belviq (lorcaserin hydrochloride)
+835,5e5d7731b0e65991f861ab2b,Bydureon (exenatide extended-release for injectable suspension)
+836,5e5d7731b0e65991f861ab2c,Contrave (naltrexone HCl and bupropion HCl)
+837,5e5d7731b0e65991f861ab2d,Jardiance (empagliflozin)
+838,5e5d7731b0e65991f861ab2e,"Nascobal Gel (Cyanocobalamin, USP)"
+839,5e5d7731b0e65991f861ab2f,Nesina (alogliptin)
+840,5e5d7731b0e65991f861ab30,Qsymia (phentermine + topiramate extended-release)
+841,5e5d7731b0e65991f861ab31,Saxenda (liraglutide [rDNA origin] injection)
+842,5e5d7731b0e65991f861ab32,Tanzeum (albiglutide)
+843,5e5d7731b0e65991f861ab33,Trulicity (dulaglutide)
+844,5e5d7731b0e65991f861ab34,Beovu (brolucizumab-dbll)
+845,5e5d7731b0e65991f861ab35,Eylea (aflibercept)
+846,5e5d7731b0e65991f861ab36,Eylea (aflibercept)
+847,5e5d7731b0e65991f861ab37,Aveed (testosterone undecanoate) injection
+848,5e5d7731b0e65991f861ab38,Bio-T-Gel (testosterone gel)
+849,5e5d7731b0e65991f861ab39,"Natesto, (testosterone) nasal gel"
+850,5e5d7731b0e65991f861ab3a,Vogelxo (testosterone) gel
+851,5e5d7731b0e65991f861ab3b,Propecia
+852,5e5d7731b0e65991f861ab3c,"Intron A (Interferon alfa-2b, recombinant)"
+853,5e5d7731b0e65991f861ab3d,Lithobid (Lithium Carbonate)
+854,5e5d7731b0e65991f861ab3e,Stavzor (valproic acid delayed release)
+855,5e5d7731b0e65991f861ab3f,Brukinsa (zanubrutinib)
+856,5e5d7731b0e65991f861ab40,Imbruvica (ibrutinib)
+857,5e5d7731b0e65991f861ab41,Imbruvica (ibrutinib)
+858,5e5d7731b0e65991f861ab42,Braftovi (encorafenib) + Mektovi (binimetinib)
+859,5e5d7731b0e65991f861ab43,Cotellic (cobimetinib)
+860,5e5d7731b0e65991f861ab44,Imlygic (talimogene laherparepvec)
+861,5e5d7731b0e65991f861ab45,Keytruda (pembrolizumab)
+862,5e5d7731b0e65991f861ab46,Mekinist (trametinib)
+863,5e5d7731b0e65991f861ab47,Opdivo (nivolumab)
+864,5e5d7731b0e65991f861ab48,Sylatron (peginterferon alfa-2b)
+865,5e5d7731b0e65991f861ab49,Tafinlar (dabrafenib)
+866,5e5d7731b0e65991f861ab4a,Yervoy (ipilimumab)
+867,5e5d7731b0e65991f861ab4b,Zelboraf (vemurafenib)
+868,5e5d7731b0e65991f861ab4c,Bexsero (Meningococcal Group B Vaccine)
+869,5e5d7731b0e65991f861ab4d,Menveo (meningitis vaccine)
+870,5e5d7731b0e65991f861ab4e,Merrem I.V. (meropenem)
+871,5e5d7731b0e65991f861ab4f,Activella (Estradiol/Norethindrone Acetate) Tablets
+872,5e5d7731b0e65991f861ab50,Bijuva (estradiol and progesterone)
+873,5e5d7731b0e65991f861ab51,Brisdelle (low-dose paroxetine mesylate)
+874,5e5d7731b0e65991f861ab52,Duavee (conjugated estrogens/bazedoxifene)
+875,5e5d7731b0e65991f861ab53,Elestrin (estradiol gel)
+876,5e5d7731b0e65991f861ab54,Esclim
+877,5e5d7731b0e65991f861ab55,EstroGel (estradiol gel 0.06%)
+878,5e5d7731b0e65991f861ab56,Evamist (estradiol)
+879,5e5d7731b0e65991f861ab57,Femhrt Tablets
+880,5e5d7731b0e65991f861ab58,FemPatch
+881,5e5d7731b0e65991f861ab59,Imvexxy (estradiol vaginal inserts)
+882,5e5d7731b0e65991f861ab5a,Intrarosa (prasterone vaginal insert)
+883,5e5d7731b0e65991f861ab5b,Osphena (ospemifene)
+884,5e5d7731b0e65991f861ab5c,Premarin (conjugated estrogens)
+885,5e5d7731b0e65991f861ab5d,Vivelle (estradiol transdermal system)
+886,5e5d7731b0e65991f861ab5e,Natazia (estradiol valerate and estradiol valerate/dienogest)
+887,5e5d7731b0e65991f861ab5f,Natazia (estradiol valerate and estradiol valerate/dienogest)
+888,5e5d7731b0e65991f861ab60,Cystaran (cysteamine hydrochloride)
+889,5e5d7731b0e65991f861ab61,Elelyso (taliglucerase alfa)
+890,5e5d7731b0e65991f861ab62,Lokelma (sodium zirconium cyclosilicate)
+891,5e5d7731b0e65991f861ab63,Mepsevii (vestronidase alfa-vjbk)
+892,5e5d7731b0e65991f861ab64,Procysbi (cysteamine bitartrate)
+893,5e5d7731b0e65991f861ab65,Ravicti (glycerol phenylbutyrate)
+894,5e5d7731b0e65991f861ab66,Vimizim (elosulfase alfa)
+895,5e5d7731b0e65991f861ab67,Perjeta (pertuzumab)
+896,5e5d7731b0e65991f861ab68,Stivarga (regorafenib)
+897,5e5d7731b0e65991f861ab69,Cotellic (cobimetinib)
+898,5e5d7731b0e65991f861ab6a,Erivedge (vismodegib)
+899,5e5d7731b0e65991f861ab6b,Mekinist (trametinib)
+900,5e5d7731b0e65991f861ab6c,Opdivo (nivolumab)
+901,5e5d7731b0e65991f861ab6d,Proleukin
+902,5e5d7731b0e65991f861ab6e,Tafinlar (dabrafenib)
+903,5e5d7731b0e65991f861ab6f,Aimovig (erenumab-aooe)
+904,5e5d7731b0e65991f861ab70,Ajovy (fremanezumab-vfrm)
+905,5e5d7731b0e65991f861ab71,Emgality (galcanezumab-gnlm)
+906,5e5d7731b0e65991f861ab72,Reyvow (lasmiditan)
+907,5e5d7731b0e65991f861ab73,Tosymra (sumatriptan) nasal spray
+908,5e5d7731b0e65991f861ab74,Ubrelvy (ubrogepant)
+909,5e5d7731b0e65991f861ab75,Axert (almotriptan malate) tablets
+910,5e5d7731b0e65991f861ab76,Bayer Extra Strength Asprin
+911,5e5d7731b0e65991f861ab77,Botox (onabotulinumtoxinA)
+912,5e5d7731b0e65991f861ab78,Cambia (diclofenac potassium for oral solution)
+913,5e5d7731b0e65991f861ab79,Depakote (divalproex sodium)
+914,5e5d7731b0e65991f861ab7a,Depakote ER (divalproex sodium)
+915,5e5d7731b0e65991f861ab7b,Excedrin Migraine
+916,5e5d7731b0e65991f861ab7c,Frova (frovatriptan succinate)
+917,5e5d7731b0e65991f861ab7d,Imitrex (sumatriptan) injection and tablets
+918,5e5d7731b0e65991f861ab7e,Imitrex (sumatriptan) nasal spray
+919,5e5d7731b0e65991f861ab7f,Maxalt
+920,5e5d7731b0e65991f861ab80,Migranal
+921,5e5d7731b0e65991f861ab81,Onzetra Xsail (sumatriptan nasal powder)
+922,5e5d7731b0e65991f861ab82,Relpax (eletriptan hydrobromide)
+923,5e5d7731b0e65991f861ab83,Stavzor (valproic acid delayed release)
+924,5e5d7731b0e65991f861ab84,Ubrelvy (ubrogepant)
+925,5e5d7731b0e65991f861ab85,Zomig (zolmitriptan)
+926,5e5d7731b0e65991f861ab86,Zomig (zolmitriptan)
+927,5e5d7731b0e65991f861ab87,Zoloft (sertraline HCl)
+928,5e5d7731b0e65991f861ab88,Darzalex (daratumumab)
+929,5e5d7731b0e65991f861ab89,Empliciti (elotuzumab)
+930,5e5d7731b0e65991f861ab8a,Farydak (panobinostat)
+931,5e5d7731b0e65991f861ab8b,Kyprolis (carfilzomib)
+932,5e5d7731b0e65991f861ab8c,Ninlaro (ixazomib)
+933,5e5d7731b0e65991f861ab8d,Pomalyst (pomalidomide)
+934,5e5d7731b0e65991f861ab8e,Xpovio (selinexor)
+935,5e5d7731b0e65991f861ab8f,Ampyra (dalfampridine)
+936,5e5d7731b0e65991f861ab90,Aubagio (teriflunomide)
+937,5e5d7731b0e65991f861ab91,Copaxone
+938,5e5d7731b0e65991f861ab92,Extavia (Interferon beta-l b)
+939,5e5d7731b0e65991f861ab93,Gilenya (fingolimod)
+940,5e5d7731b0e65991f861ab94,Lemtrada (alemtuzumab)
+941,5e5d7731b0e65991f861ab95,Mavenclad (cladribine)
+942,5e5d7731b0e65991f861ab96,Mayzent (siponimod)
+943,5e5d7731b0e65991f861ab97,Novantrone (mitoxantrone hydrochloride)
+944,5e5d7731b0e65991f861ab98,Ocrevus (ocrelizumab)
+945,5e5d7731b0e65991f861ab99,Plegridy (peginterferon beta-1a)
+946,5e5d7731b0e65991f861ab9a,Rebif (interferon beta-1a)
+947,5e5d7731b0e65991f861ab9b,Tecfidera (dimethyl fumarate)
+948,5e5d7731b0e65991f861ab9c,Tysabri (natalizumab)
+949,5e5d7731b0e65991f861ab9d,Vumerity (diroximel fumarate)
+950,5e5d7731b0e65991f861ab9e,Zinbryta (daclizumab)
+951,5e5d7731b0e65991f861ab9f,Amrix (cyclobenzaprine hydrochloride extended release)
+952,5e5d7731b0e65991f861aba0,Emflaza (deflazacort)
+953,5e5d7731b0e65991f861aba1,Blincyto (blinatumomab)
+954,5e5d7731b0e65991f861aba2,Bosulif (bosutinib)
+955,5e5d7731b0e65991f861aba3,Campath
+956,5e5d7731b0e65991f861aba4,Elliotts B Solution (buffered intrathecal electrolyte/dextrose injection)
+957,5e5d7731b0e65991f861aba5,Elzonris (tagraxofusp-erzs)
+958,5e5d7731b0e65991f861aba6,Erwinaze (asparaginase Erwinia chrysanthemi)
+959,5e5d7731b0e65991f861aba7,Imbruvica (ibrutinib)
+960,5e5d7731b0e65991f861aba8,Kymriah (tisagenlecleucel)
+961,5e5d7731b0e65991f861aba9,Lumoxiti (moxetumomab pasudotox-tdf)
+962,5e5d7731b0e65991f861abaa,Marqibo (vinCRIStine sulfate LIPOSOME injection)
+963,5e5d7731b0e65991f861abab,Kymriah (tisagenlecleucel)
+964,5e5d7731b0e65991f861abac,Botox (onabotulinumtoxinA)
+965,5e5d7731b0e65991f861abad,Cyramza (ramucirumab)
+966,5e5d7731b0e65991f861abae,Feridex I.V.
+967,5e5d7731b0e65991f861abaf,Keytruda (pembrolizumab)
+968,5e5d7731b0e65991f861abb0,Lenvima (lenvatinib)
+969,5e5d7731b0e65991f861abb1,Opdivo (nivolumab)
+970,5e5d7731b0e65991f861abb2,Defitelio (defibrotide sodium)
+971,5e5d7731b0e65991f861abb3,Mulpleta (lusutrombopag)
+972,5e5d7731b0e65991f861abb4,Ocaliva (obeticholic acid)
+973,5e5d7731b0e65991f861abb5,Cholbam (cholic acid)
+974,5e5d7731b0e65991f861abb6,ProAmatine (midodrine)
+975,5e5d7731b0e65991f861abb7,Gemzar (gemcitabine HCL)
+976,5e5d7731b0e65991f861abb8,Opdivo (nivolumab)
+977,5e5d7731b0e65991f861abb9,Vizimpro (dacomitinib)
+978,5e5d7731b0e65991f861abba,Xalkori (crizotinib)
+979,5e5d7731b0e65991f861abbb,Zykadia (ceritinib)
+980,5e5d7731b0e65991f861abbc,Ofev (nintedanib)
+981,5e5d7731b0e65991f861abbd,Pretomanid tablets
+982,5e5d7731b0e65991f861abbe,Benlysta (belimumab)
+983,5e5d7731b0e65991f861abbf,Arranon (nelarabine)
+984,5e5d7731b0e65991f861abc0,Asparlas (calaspargase pegol-mknl )
+985,5e5d7731b0e65991f861abc1,Clolar (clofarabine)
+986,5e5d7731b0e65991f861abc2,Elliotts B Solution (buffered intrathecal electrolyte/dextrose injection)
+987,5e5d7731b0e65991f861abc3,Erwinaze (asparaginase Erwinia chrysanthemi)
+988,5e5d7731b0e65991f861abc4,Iclusig (ponatinib)
+989,5e5d7731b0e65991f861abc5,Marqibo (vinCRIStine sulfate LIPOSOME injection)
+990,5e5d7731b0e65991f861abc6,Rituxan (rituximab)
+991,5e5d7731b0e65991f861abc7,Adcetris (brentuximab vedotin)
+992,5e5d7731b0e65991f861abc8,Elzonris (tagraxofusp-erzs)
+993,5e5d7731b0e65991f861abc9,Imbruvica (ibrutinib)
+994,5e5d7731b0e65991f861abca,Keytruda (pembrolizumab)
+995,5e5d7731b0e65991f861abcb,Opdivo (nivolumab)
+996,5e5d7731b0e65991f861abcc,Revlimid (lenalidomide)
+997,5e5d7731b0e65991f861abcd,Keytruda (pembrolizumab)
+998,5e5d7731b0e65991f861abce,Polivy (polatuzumab vedotin-piiq)
+999,5e5d7731b0e65991f861abcf,Yescarta (axicabtagene ciloleucel)
+1000,5e5d7731b0e65991f861abd0,Zydelig (idelalisib)
+1001,5e5d7731b0e65991f861abd1,Sylvant (siltuximab)
+1002,5e5d7731b0e65991f861abd2,Kanuma (sebelipase alfa)
+1003,5e5d7731b0e65991f861abd3,Eskata (hydrogen peroxide)
+1004,5e5d7731b0e65991f861abd4,Zyclara (imiquimod)
+1005,5e5d7731b0e65991f861abd5,Inlyta (axitinib)
+1006,5e5d7731b0e65991f861abd6,Lenvima (lenvatinib)
+1007,5e5d7731b0e65991f861abd7,Opdivo (nivolumab)
+1008,5e5d7731b0e65991f861abd8,Jynarque (tolvaptan)
+1009,5e5d7731b0e65991f861abd9,Nulojix (belatacept)
+1010,5e5d7731b0e65991f861abda,Procysbi (cysteamine bitartrate)
+1011,5e5d7731b0e65991f861abdb,Renagel (sevelamer hydrochloride)
+1012,5e5d7731b0e65991f861abdc,Renvela (sevelamer carbonate)
+1013,5e5d7731b0e65991f861abdd,Auryxia (Ferric citrate)
+1014,5e5d7731b0e65991f861abde,Voraxaze (glucarpidase)
+1015,5e5d7731b0e65991f861abdf,Soliris (eculizumab)
+1016,5e5d7731b0e65991f861abe0,Envarsus XR (tacrolimus extended-release)
+1017,5e5d7731b0e65991f861abe1,Nulojix (belatacept)
+1018,5e5d7731b0e65991f861abe2,Prograf
+1019,5e5d7731b0e65991f861abe3,Rapamune (sirolimus) Tablets
+1020,5e5d7731b0e65991f861abe4,Zenapax
+1021,5e5d7731b0e65991f861abe5,Zortress (everolimus)

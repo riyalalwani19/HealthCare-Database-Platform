@@ -1,0 +1,502 @@
+﻿Hospital_Name,Location,Doctor_Name,Doctor_Specialization,Doctor_Timings,Doctor_Fees,Doctor_Rating
+Dharmadhikari Ayurveda Clinic and Research Center,Vileparle East,Dr. Swapnil Dharmadhikari,Ayurveda,Sun03:00 PM-05:00 PM,500,5
+Dental Speciality Care,Chembur,Dr. Siddarth Naik,Dentist,"Mon-Sat09:30 AM-01:00 PM, 04:30 PM-08:30 PM",300,5
+Apollo Spectra Hospitals,Tardeo,Dr. Sujit Korday,Orthopedist,"Tue, Thu05:00 PM-06:00 PM","1,000",4
+Ageless Medica Health Management Pvt. Ltd.,Powai,Ms. Parita Shah,Counselling Psychologist,Mon-Fri05:00 PM-06:00 PM,"1,600",4.5
+Dr Pandey's Prime ENT Clinic,Andheri West,Dr. Shailesh Pandey,ENT/ Otorhinolaryngologist,Mon-Sat12:00 PM-02:30 PM,"1,000",5
+Dr L H Hiranandani Hospital,Powai,Dr. Irfan Khan,Cardiologist,"Mon, Wed, Fri02:30 PM-06:00 PMTue10:00 AM-02:15 PM, 06:15 PM-07:30 PMSat10:00 AM-02:15 PMshow more","1,800",3.5
+Saraogi Hospital & IRIS IVF Centre,Malad West,Dr. Mohit R Saraogi,Infertility Specialist,Mon-Sat10:30 AM-08:00 PM,700,4.5
+Smile Centre Dental Clinic,Bhandup West,Dr. Jyotsna Patel,Dentist,"Mon-Tue, Thu-Sat09:30 AM-01:00 PM, 05:30 PM-09:00 PMWed09:30 AM-01:00 PM, 05:00 PM-09:00 PMshow more",200,5
+Apollo Spectra Hospitals,Chembur,Dr. Pravin Gore,General Surgeon,"Mon, Fri01:00 PM-02:00 PM","1,500",4.5
+Perfect smile clinic,Dadar West,Dr. Uday B Shetty,Cosmetic/Aesthetic Dentist,"Mon-Fri09:30 AM-01:30 PM, 05:00 PM-08:00 PMSat09:30 AM-01:30 PMshow more",500,5
+Apollo Spectra Hospitals,Chembur,Dr. Kaustubh Ravindra Durve,Orthopedist,"Tue, Thu06:30 PM-07:30 PMSat11:00 AM-12:00 PMshow more","1,500",4.5
+Vivanta Hospital,Malad West,Dr. Anuj Singh,Joint Replacement Surgeon,Mon-Fri01:30 PM-02:30 PM,700,4.5
+The Childrens Hospital Mumbai,Malad West,Dr. Jalpa Shah   (Physiotherapist),Pediatric Physiotherapist,Mon-Fri02:30 PM-03:30 PM,600,4
+Skinfiniti Cosmetic and Laser Clinic,Khar West,Dr. Jaishree Sharad,Cosmetologist,"Mon, Wed, Fri11:00 AM-07:00 PM","3,000",5
+Anjum's Diet & Wellness,Andheri West,Ms. Anjum Shaikh,Dietitian/Nutritionist,Mon-Sat06:00 PM-08:30 PM,500,5
+Smile Studio Dental Clinic,Worli,Dr. Manisha Mehta,Cosmetic/Aesthetic Dentist,"Mon, Wed, Fri04:30 PM-08:30 PMTue, Thu, Sat09:30 AM-01:00 PMshow more",null,5
+Shreeji Eye Clinic,Andheri East,Dr. Rajul S. Parikh,Ophthalmologist/ Eye Surgeon,"Mon-Tue, Thu09:30 AM-11:00 AM, 03:00 PM-07:30 PMWed04:00 PM-07:30 PMFri-Sat09:30 AM-11:00 AM, 02:00 PM-07:00 PMshow more",550,5
+Gala Skin & Hair Clinic,Matunga,Dr. Prasad Wankhede,Dermatologist,"Mon, Wed, Fri05:00 PM-07:00 PM","1,000",5
+Alankrit Physiotherapy N Fitness,Kandivali West,Dr. Neelu Jain   (Physiotherapist),Physiotherapist,"Mon-Sat08:00 AM-02:00 PM, 02:15 PM-10:00 PM",500,5
+Parakh Hospital,Ghatkopar,Dr. Parag Vibhakar,Plastic Surgeon,null,800,4.5
+Unlimited Potentialities,Borivali West,Dr. Gaurav Kulkarni,Psychiatrist,"Tue, Thu, Sat10:00 AM-03:00 PM","2,000",4.5
+Shrishti Fertility Care Centre and Women Clinic,Goregaon East,Dr. Manmohan Kamat,General Surgeon,null,800,4.5
+Global Hospitals,Parel,Dr. Suresh Jain,General Physician,Thu09:00 AM-11:00 AM,"1,750",4
+Parakh Hospital,Ghatkopar,Dr. Chandrashekhar Munjewar,Cardiologist,null,null,4.5
+Vivanta Hospital,Malad West,Dr. Umang Kothari,Plastic Surgeon,null,"1,500",4.5
+The Dental Studio,Goregaon East,Dr. Chitrang Thaker,Dentist,"Mon-Fri10:30 AM-01:00 PM, 05:00 PM-09:00 PMSat10:30 AM-02:00 PMshow more",300,5
+HEAL Institute,Khar West,Dr. Akshata Dorkadi   (Physiotherapist),Physiotherapist,Mon-Sat10:00 AM-06:00 PM,800,5
+Eye Solutions - The complete eye hospital,Tardeo,Dr. Rupali Sinha,Ophthalmologist/ Eye Surgeon,null,"1,000",5
+Alankrit Physiotherapy N Fitness,Kandivali West,Dr. Gaurav Jain   (Physiotherapist),Physiotherapist,"Mon-Sat08:00 AM-01:00 PM, 03:00 PM-09:30 PM",500,5
+Global Hospitals,Parel,Dr. Uday Khopkar,Cosmetologist,"Tue, Thu12:30 PM-01:30 PM","1,750",4
+Rotunda - The Center for Human Reproduction,Parel,Dr. Ameya Sirsat,Gynecologist,null,"1,000",4.5
+Wockhardt Hospitals,Mira Road,Dr. Sandeep Sharma,Internal Medicine,Mon-Sat11:00 AM-07:00 PM,800,4
+Unlimited Potentialities,Borivali West,Ms. Pooja Sharma,Psychologist,Mon-Sat02:00 PM-08:00 PM,"2,000",4.5
+HEAL Institute,Colaba,Dr. Soniya Choithani   (Physiotherapist),Physiotherapist,Mon-Sat08:00 AM-04:00 PM,800,5
+Parakh Hospital,Ghatkopar,Dr. Arun Sheth,Plastic Surgeon,null,"1,000",4.5
+Parchure Nursing Home,Dadar East,Dr. Sashikant Parchure,Gynecologist,Mon-Sat09:00 AM-11:00 AM,"1,000",5
+Finesse,Goregaon East,Dr. Priyam Bhagat,Dermatologist,"Mon-Wed, Fri-Sun11:00 AM-02:00 PM, 06:00 PM-08:00 PM","1,200",5
+Unlimited Potentialities,Borivali West,Ms. Suruchi Kothari,Clinical Psychologist,"Mon, Wed, Fri10:00 AM-08:00 PMSat05:00 PM-07:30 PMshow more","2,000",4.5
+SRV Hospital,Goregaon West,Dr. Amit Bhat,Urologist,"Mon, Wed, Fri12:00 PM-01:00 PM","1,200",5
+Identity Dental Lounge,Andheri East,Dr. Shruti Purohit,Oral And MaxilloFacial Surgeon,Mon-Sun10:00 AM-10:30 AM,100,5
+Physio Wellness,Andheri East,Dr. Priyanka Sukthankar   (Physiotherapist),Physiotherapist,"Mon-Sat08:00 AM-12:30 PM, 04:30 PM-10:00 PMSun09:00 AM-02:00 PMshow more",500,5
+SRV Hospital,Goregaon West,Dr. Rajendra Sonavane,General Surgeon,Sat03:00 PM-05:00 PM,"1,000",5
+Sushrut Hospital and Research Center,Chembur East,Dr. Anil Potdar,Cardiologist,"Tue, Thu05:00 PM-06:00 PM","1,500",4
+Dr Zeenats Skin Clinic,Andheri West,Dr. Zeenat Bhalwani,Dermatologist,Mon-Sat11:20 AM-04:00 PM,"1,000",5
+Parakh Hospital,Ghatkopar,Dr. Narendra Dedhia,Nephrologist/Renal Specialist,"Mon-Fri09:00 AM-12:00 PM, 05:00 PM-07:00 PM","1,200",4.5
+Dental Speciality Care,Chembur,Dr. Shilpa Shetty Naik,Pediatric Dentist,"Mon-Sat09:30 AM-01:00 PM, 04:30 PM-08:30 PM",300,5
+Pooja Maternity Nursing Home & Ent Center,Ghatkopar West,Dr. Sadhna Shah,ENT/ Otorhinolaryngologist,Mon-Sat08:00 PM-09:00 PM,"1,000",5
+Irla Nursing Home & Polyclinic,Vileparle West,Dr. Udayan palnitkar,Gynecologist,"Mon, Fri10:00 AM-12:00 PMWed10:00 AM-12:00 PM, 07:00 PM-09:00 PMshow more",800,5
+Reflectionz Clinic,Kandivali East,Dr. Roshni Panchal,Homoeopath,Mon-Sat11:00 AM-06:00 PMSun10:00 AM-02:00 PMshow more,700,5
+Skin N Sculpt,Andheri East,Dr. Parag Vibhakar,Plastic Surgeon,Mon-Sat07:30 PM-08:30 PM,"1,000",4.5
+Aavishkar Centre For Self Enrichment,Dadar West,Dr. Nirmala Rao,Psychiatrist,Mon-Fri02:00 PM-08:00 PMSat01:00 PM-05:00 PMshow more,"1,200",5
+Smile Again,Dadar East,Dr. Amit Chavan,Implantologist,Mon-Sat09:00 AM-08:00 PMSun10:00 AM-02:00 PMshow more,null,5
+Dr. Khandeparkar's  Infertility and IVF Centre,Dadar East,Dr. Shubhada Sanjiv Khandeparkar,Infertility Specialist,"Mon-Fri11:00 AM-01:00 PM, 07:00 PM-09:30 PMSat11:00 AM-01:00 PMshow more","1,500",4.5
+Dr. Gupte's Clinic,Kandivali East,Dr. Darshan S Gupte,Dentist,"Mon-Sat10:00 AM-01:00 PM, 06:30 PM-09:30 PM",200,5
+Gurukrupa Advanced Dental Care Center,Malad West,Dr. Shivangi Isawe,Dentist,Mon-Sat11:00 AM-08:00 PM,300,5
+I Sight Eyecare And Surgery,Khar West,Dr. Kruti Modi,Ophthalmologist/ Eye Surgeon,Mon-Sat09:00 AM-09:30 PM,"1,000",5
+Fortis Hospital,Mulund West,Dr. Kaushal Pandey,Cardiothoracic and Vascular Surgeon,null,"1,500",4
+Dr. Nishant's Dental Surgeons Planet,Powai,Dr. Rashmi Maruti Hosalkar,Dentist,,500,5
+Eye Solutions - The complete eye hospital,Tardeo,Dr. Chinmay Nakhwa,Ophthalmologist/ Eye Surgeon,null,"1,500",5
+Apollo Spectra Hospitals,Tardeo,Dr. Hari Chablani,General Physician,Mon-Sat10:00 AM-11:00 AM,"1,500",4
+Dr ABR Desai ENT Clinic,Charni Road,Dr. Ashim Desai,ENT/ Otorhinolaryngologist,Mon-Fri04:00 PM-07:00 PM,"1,800",3.5
+Clear Vision Eye Clinic,Wadala,Dr. Bhavesh Gohil,Ophthalmologist/ Eye Surgeon,Mon-Sat05:00 PM-09:00 PM,800,5
+Goradia Ayurvedic Clinic.,Grant Road,Dr. Ruchira N Goradia,Ayurveda,Mon-Fri09:30 AM-11:30 AM,"1,500",5
+Dr. Vora's Dental Care,Mulund West,Dr. Sherin Tresa,Dentist,Mon-Sun08:30 AM-05:00 PM,300,5
+Krishna Eye Centre,Parel,Dr. Gul J. Nankani,Ophthalmologist/ Eye Surgeon,Mon-Sat05:00 PM-07:00 PM,"1,200",5
+Om Shanti Clinic,Jogeshwari East,Dr. Deepakk Desai,Alternative Medicine,"Mon-Fri12:15 PM-02:15 PM, 08:15 PM-11:00 PMSat12:15 PM-02:15 PM, 08:00 PM-11:00 PMshow more",300,5
+Dr Muffi's Digestive Health Institute,Worli,Dr. Muffazal Lakdawala,Bariatric Surgeon,Mon-Sat03:00 PM-08:00 PM,"5,000",4.5
+Exercise Clinic,Andheri West,Dr. Shwetali Satish Pawar   (Physiotherapist),Physiotherapist,"Mon-Sat10:00 AM-01:00 PM, 06:30 PM-09:00 PM",800,5
+Jupiter Hospital Speciality Clinic,Mulund West,Dr. Parijat Gupte,Gastroenterologist,Mon-Sat05:00 PM-07:00 PM,"1,000",4.5
+S L Raheja Fortis Hospital,Mahim,Dr. Ankur Phatarpekar,Interventional Cardiologist,"Mon, Wed05:00 PM-06:00 PM","1,300",4
+Jupiter Hospital Speciality Clinic,Mulund West,Dr. Dimple Jain,Pediatrician,"Tue, Thu03:00 PM-04:00 PM","1,200",4.5
+Utture Urology Clinic,Mahim,Dr. Anand Utture,Urologist,"Mon-Fri01:00 PM-02:00 PM, 07:30 PM-09:00 PMSat01:00 PM-02:00 PMshow more","1,500",4
+HPE India - Advance Physiotherapy Studio,Bandra West,Dr. Swapnil Mate   (Physiotherapist),Physiotherapist,Mon-Sun10:00 AM-10:00 PM,"1,500",5
+Smile n Shine Advanced Dental Clinic,Kandivali West,Dr. Nikita Virdiya,Dentist,"Wed, Fri, Sun10:00 AM-02:00 PM, 05:00 PM-07:00 PM",100,5
+Dr. Shruti's Dental Clinic,Goregaon West,Dr. Shruti Parkar,Dentist,"Mon-Fri09:30 AM-01:00 PM, 05:30 PM-09:00 PMSat09:30 AM-02:30 PMshow more",300,5
+Aditi Hospital,Mulund West,Dr. Vikas Jain,Spine Surgeon,Mon-Sat04:00 PM-06:00 PM,800,4.5
+Ambrosia Aesthetics,Andheri West,Dr. Niketa Sonavane,Dermatologist,"Mon-Sat10:30 AM-01:00 PM, 03:00 PM-07:00 PM","1,500",4.5
+RheumDerma Clinic,Prabhadevi,Dr. Rashmi Shinde,Dermatologist,"Tue, Thu, Sat05:00 PM-08:00 PM","1,000",5
+The Skin Clinic,Goregaon East,Dr. Ujjvala Jadhav,Dermatologist,"Mon-Sat10:00 AM-01:00 PM, 06:00 PM-09:00 PM",600,4.5
+Vivanta Hospital,Malad West,Dr. Trupti Agarwal,Dermatologist,null,700,4.5
+SRV Hospital,Goregaon West,Dr. Nikhil Dharmadhikari,Surgical Oncologist,null,"1,000",5
+Ayushakti Ayurved  Health Centre,Vileparle,Dr. Deepali Shastri,Ayurveda,Thu11:00 AM-02:00 PMSat05:00 PM-09:00 PMshow more,300,null
+Harleys Cosmetic & Women Clinic,Andheri West,Dr. Sumit Agrawal,Hair Transplant Surgeon,Mon-Sat02:00 PM-07:15 PM,"1,000",5
+Apollo Spectra Hospitals,Tardeo,Dr. Viraj Tambwekare,Plastic Surgeon,null,"1,000",4
+Aharayogam,Mulund West,Dr. Anita Gupta,Ayurveda,"Mon, Wed, Fri10:00 AM-07:40 PMSat09:20 AM-02:40 PMSun10:00 AM-05:00 PMshow more","2,000",5
+KRS Derma Care,Kandivali West,Dr. Rashmikant Shah,Dermatologist,"Mon09:30 AM-02:30 PM, 07:30 PM-09:00 PMTue, Thu09:30 AM-03:00 PM, 07:30 PM-09:00 PMWed07:30 PM-09:00 PMFri09:30 AM-03:00 PM, 06:30 PM-09:00 PMSat11:30 AM-04:00 PM, 07:30 PM-09:00 PMshow more",800,3.5
+Desai Orthopedics and ENT Clinic,Borivali West,Dr. Hardik Desai,Joint Replacement Surgeon,Mon-Sat07:00 PM-09:00 PM,600,5
+The Bombay Skin Clinic,Girgaon,Dr. Batul Patel,Dermatologist,"Mon-Tue, Thu, Sat11:00 AM-08:30 PMWed11:00 AM-07:00 PMshow more","1,500",4.5
+Stride Fitness and Mobility Clinic,Vileparle East,Dr. Pallavi Singh   (Physiotherapist),Physiotherapist,Mon-Fri10:30 AM-07:00 PMSat10:30 AM-04:00 PMshow more,"1,200",5
+The Childrens Hospital Mumbai,Malad West,Dr. Chasanal Rathod,Orthopedist,null,"1,200",4
+Wockhardt Hospitals,Mira Road,Dr. Dipanjan Haldar,Hematologist,"Mon-Fri10:00 AM-01:00 PM, 02:00 PM-05:00 PMSat02:00 PM-05:00 PMshow more",600,4
+The Dental Hub,Goregaon West,Dr. Ripal K Kotak,Dentist,Mon-Sun11:00 AM-08:00 PM,500,null
+Dr. Naazneen's Psychiatric Centre,Andheri West,Dr. Naazneen Ladak,Psychiatrist,"Mon-Sat01:30 PM-06:45 PM, 07:00 PM-08:00 PM","1,500",4.5
+Dr Sheth's Skin And Hair Clinic,Juhu,Dr. Rekha Sheth,Dermatologist,null,"3,000",5
+I Sight Eyecare And Surgery,Khar West,Dr. Kareeshma Wadia,Ophthalmologist/ Eye Surgeon,null,"1,000",5
+PhysioWorld,Chembur,Dr. Tanvi Jha,Dentist,null,500,5
+Speciality Dental Centre & Dental Implants,Dahisar East,Dr. Amruta Bhalchandra Wadekar,Implantologist,"Mon-Sat10:00 AM-01:00 PM, 05:30 PM-09:00 PM",300,5
+Navkar Dental Care And Implant Centre & Navkar Physiotherapy Centre,Andheri West,Dr. Bhumita Shah,Orthodontist,null,200,5
+Homoeopathic Clinic,Bhandup West,Dr. Amit Vora,Homoeopath,"Mon-Fri10:00 AM-02:00 PM, 05:00 PM-09:00 PMSat05:00 PM-09:00 PMshow more","1,000",5
+Shishu Child Care Clinic,Andheri East,Dr. Vipul Mehrotra,Pediatrician,"Mon-Fri10:00 AM-12:30 PM, 06:45 PM-09:15 PMSat10:00 AM-01:30 PMshow more","1,000",5
+Shah Superspeciality Clinic,Gamdevi,Dr. Hardik Shah,Gastroenterologist,Mon-Sat03:00 PM-08:00 PM,"2,000",5
+Dr Ramona's Dental Clinic,Powai,Dr. Ramona S Thakur,Endodontist,"Mon11:00 AM-03:00 PMTue01:00 PM-03:00 PM, 06:30 PM-08:30 PMWed11:20 AM-03:00 PM, 06:30 PM-08:30 PMThu01:00 PM-03:00 PM, 07:05 PM-08:30 PMFri11:00 AM-03:00 PM, 06:30 PM-08:30 PMSat01:00 PM-05:00 PMshow more",400,5
+Identity Dental Lounge,Andheri East,Dr. Manish Purohit,Oral And MaxilloFacial Surgeon,Mon-Sat10:30 AM-09:00 PMSun10:30 AM-02:30 PMshow more,200,5
+Dr. Nair's Dental and Orthodontic Care,Andheri West,Dr. Bhumija Gautam Nair,Dentist,Mon-Sat10:00 AM-09:00 PM,500,5
+Dr. Lulla's Homeopathy Clinic,Chembur East,Dr. Prakash L. Lulla,Homoeopath,"Mon-Sat10:00 AM-02:00 PM, 06:00 PM-09:30 PM","1,000",5
+Dr. Goel's Clinic,Dadar,Dr. Gautam Goel,General Surgeon,"Mon-Fri05:00 PM-08:00 PMSat10:00 AM-11:00 AM, 01:00 PM-02:00 PMshow more","1,200",5
+Shah Superspeciality Clinic,Gamdevi,Dr. Amiti Shah,Plastic Surgeon,Mon-Sat04:00 PM-06:00 PM,"1,500",5
+Surana Sethia Hospital and Research Center,Chembur,Dr. Prajyot Jagtap,Orthopedist,"Mon, Wed, Fri07:00 PM-09:00 PM","1,000",4.5
+Dr. Deep Parekh's 'Mom & Me' Clinic,Ghatkopar East,Dr. Deep B. Parekh,Pediatrician,"Mon-Sat10:00 AM-02:30 PM, 05:00 PM-09:00 PM",800,5
+Arohi Eye Hospital,Andheri West,Dr. Pooja Ghodke,Ophthalmologist/ Eye Surgeon,"Tue, Thu, Sat05:00 PM-07:00 PM",600,5
+Oma Hospital,Chembur,Dr. Manmohan Madan,Radiologist,Mon-Fri07:00 PM-09:00 PM,"4,000",4
+Wockhardt Hospitals,Mira Road,Dr. Mrudul vishanji dharod,Gastroenterologist,"Mon-Fri11:00 AM-01:00 PM, 03:00 PM-05:00 PM",900,4
+Wockhardt Hospitals,Mira Road,Dr. Jinendra K Jain,Consultant Physician,Mon-Sat11:00 AM-04:30 PM,800,4
+Ayushi Skin Clinic,Andheri West,Dr. Rashmi Mittal,Dermatologist,"Mon, Wed-Thu10:00 AM-01:00 PM, 04:00 PM-06:00 PMTue, Fri10:00 AM-01:00 PMSat10:00 AM-02:00 PMshow more","1,000",5
+Clinico Diagnostic India Pvt Ltd,Mulund West,Ms. Urvi Vakharia,Dietitian/Nutritionist,Mon-Sun10:00 AM-01:30 PM,null,5
+Asthma Allergy Clinic - Siddhi Polyclinic,Andheri West,Dr. Shilpa Nayak,Allergist/Immunologist,"Mon-Sat12:00 PM-02:00 PM, 06:00 PM-08:00 PM","1,000",5
+Oyster Hospital,Goregaon West,Dr. Savita S. Naik,Pediatrician,Mon-Sat10:00 AM-09:30 PM,"1,000",null
+Vandita's Dental Care,Goregaon East,Dr. Vandita Agrawal,Dentist,Mon-Fri10:00 AM-09:00 PMSat10:00 AM-07:00 PMSun10:00 AM-01:30 PMshow more,300,4.5
+Neha Ranglani Clinic,Bandra West,Ms. Neha Ranglani,Dietitian/Nutritionist,"Mon, Wed, Fri04:30 PM-07:00 PMTue, Thu11:00 AM-01:30 PMSat11:00 AM-01:30 PM, 04:30 PM-07:00 PMshow more","2,000",4.5
+The Childrens Hospital Mumbai,Malad West,Dr. Parag Bhalgat,Pediatric Cardiologist,null,"2,200",4
+S L Raheja Fortis Hospital,Mahim,Dr. Haresh Mehta,Cardiologist,Mon-Sat09:00 AM-09:30 AM,"2,300",4
+Anjum's Diet & Wellness,Andheri West,Ms. Sayli Anavkar,Counselling Psychologist,Fri07:00 PM-09:00 PMSat11:00 AM-01:00 PMshow more,900,5
+Vivanta Hospital,Malad West,Ms. Priti Khatu,Psychologist,Sat02:00 PM-04:00 PM,800,4.5
+Vivanta Hospital,Malad West,Dr. Anil Saxena,Radiologist,Mon-Sat09:30 AM-10:30 PM,"1,400",4.5
+Oyster Hospital,Goregaon West,Dr. Sudhir Naik,Gynecologist,"Mon, Wed10:00 AM-12:00 PMTue, Thu, Sat06:00 PM-08:00 PMshow more","1,000",null
+Unique Smile Concepts,Tilak Nagar,Dr. Keyur Mehta,Dentofacial Orthopedist,null,400,5
+Dr. Goel's Clinic,Dadar,Dr. Monica Goel,General Physician,"Mon-Wed, Fri11:30 AM-02:00 PMThu11:00 AM-01:00 PMSat02:00 PM-04:00 PMshow more","1,200",5
+Skin Matra,Mahim,Dr. Amit Bhalotia,Plastic Reconstruction Surgeon,null,"2,500",5
+Global Hospitals,Parel,Dr. Akshay Shah,Medical Oncologist,Mon-Sat01:00 PM-03:00 PM,"1,750",4
+The Dental Studio,Goregaon East,Dr. Khushee Agrawal,Dentist,"Mon-Sat09:00 AM-01:00 PM, 05:00 PM-09:00 PM",300,5
+Smile Essentials,Bandra West,Dr. Diksha Tahilramani Batra,Prosthodontist,Mon-Sat10:00 AM-08:00 PM,"1,000",5
+Dr Gala's Vital Healing Homoeopathic Clinic,Andheri West,Dr. Satish Gala,Homoeopath,Mon-Sat06:30 PM-09:15 PM,"1,500",5
+Dr. Sana Bhamla Khan's - KYSHHA Skin & Hair Clinic,Andheri West,Dr. Sana Bhamla Khan,Dermatologist,"Tue, Sat04:00 PM-08:00 PM","1,000",4.5
+Pooja Maternity Nursing Home & Ent Center,Ghatkopar West,Dr. Rajesh Thakkar,Ayurveda,Mon-Sat04:00 PM-08:00 PM,300,5
+My Smile Dental Clinic,Andheri West,Dr. Prasad Rane,Dentist,"Mon-Sat10:00 AM-01:00 PM, 02:00 PM-08:00 PM",600,5
+Total Health Care,Borivali West,Dr. Jagat Shah,Homoeopath,Mon-Sat09:00 AM-09:00 PMSun10:00 AM-01:00 PMshow more,800,4.5
+Saraogi Hospital & IRIS IVF Centre,Malad West,Dr. Rajendra Saraogi,Gynecologist,Mon02:00 PM-05:00 PMTue-Sat11:00 AM-05:00 PMshow more,"1,000",4.5
+RheumDerma Clinic,Prabhadevi,Dr. Priyanka Thukral Mahajan,Psychiatrist,"Mon, Sat02:30 PM-04:30 PMWed06:00 PM-08:00 PMshow more","1,500",5
+Bright 32 Dental Care & Orthodontic Centre,Kandivali East,Dr. Sujata Surana,Dentist,"Mon-Sat10:00 AM-01:30 PM, 05:30 PM-09:30 PM",300,5
+Mulekar Vitilgo Clinic,Andheri West,Dr. Sanjeev V. Mulekar,Dermatologist,"Mon-Sat09:00 AM-01:00 PM, 02:00 PM-06:00 PM","3,500",5
+Chaitanya Mindcare Centre,Andheri West,Dr. Paresh C. Trivedi,Psychiatrist,Mon-Sat05:30 PM-09:30 PM,"1,200",5
+Apollo Spectra Hospitals,Tardeo,Dr. Reshma Palep,Breast Surgeon,"Tue, Fri11:00 AM-02:00 PM","1,000",4
+Wockhardt Hospitals,Mira Road,Dr. Nilesh Nolkha,Rheumatologist,"Mon-Sat11:00 AM-01:00 PM, 02:00 PM-05:00 PM",900,4
+Ageless Medica Health Management Pvt. Ltd.,Powai,Dr. Sadhna Shah,ENT/ Otorhinolaryngologist,"Mon, Wed, Fri05:00 PM-06:00 PM","1,000",4.5
+Saraogi Hospital & IRIS IVF Centre,Malad West,Dr. Roopa Prasad,Obstetrician,"Mon-Tue, Thu-Fri10:00 AM-01:00 PM",700,4.5
+Asian Heart Institute And Research Centre,Bandra East,Dr. Santosh Kumar Dora,Internal Medicine,"Mon-Wed, Fri-Sat10:00 AM-06:00 PM","2,350",4
+S L Raheja Fortis Hospital,Mahim,Dr. Snehal Kothari,Cardiologist,"Wed, Sat12:00 PM-01:00 PM","1,800",4
+Dr. Nishant's Dental Surgeons Planet,Powai,Dr. Hemali Virani Kotadia,Dentist,"Mon-Fri11:00 AM-01:00 PM, 06:00 PM-08:00 PM",500,5
+Fortis Hospital,Mulund West,Dr. Swati Garekar,Cardiologist,"Mon-Tue, Thu, Sat09:00 AM-05:30 PM","1,000",4
+Dr L H Hiranandani Hospital,Powai,Dr. Ashish Vijay Bakshi,Medical Oncologist,Fri10:00 AM-12:00 PM,"1,000",3.5
+Aditi Hospital,Mulund West,Dr. Kapil Mohan,Spine Surgeon,"Tue, Thu07:00 PM-10:00 PMSat05:00 PM-07:00 PMshow more","1,000",4.5
+Dent Heal,Bandra West,Dr. Viraj Kakade,Prosthodontist,Mon-Wed04:00 PM-09:00 PMThu-Sat10:30 AM-03:30 PMSun02:30 PM-05:30 PMshow more,500,5
+Dr. Vora's Dental Care,Mulund West,Dr. Darshan Hiralal Vora,Dentist,"Mon, Thu09:30 AM-01:00 PM, 01:30 PM-06:00 PMTue, Fri10:00 AM-01:00 PM, 01:30 PM-08:30 PMWed, Sat09:30 AM-01:00 PM, 01:30 PM-03:30 PMshow more",300,5
+Winning Smiles Dental Clinic,Kandivali East,Dr. Shilpa Mittal,Cosmetic/Aesthetic Dentist,"Mon, Wed, Fri03:00 PM-09:40 PMTue, Thu, Sat09:40 AM-03:00 PMshow more",300,5
+Aaditya Care,Mulund East,Dr. Abhijit  Jadhav,Diabetologist,"Mon-Sat12:00 PM-03:00 PM, 07:00 PM-10:00 PM","1,000",5
+SRV Hospital,Goregaon West,Dr. Ajit Krishna Shetty,General Physician,"Mon-Tue, Thu-Sat10:30 AM-11:30 AM",700,5
+SRV Hospital,Goregaon West,Dr. Sameeksha Dubey,Medical Oncologist,Mon-Sat04:30 PM-06:30 PM,"2,000",5
+Apollo Spectra Hospitals,Chembur,Dr. Aditi Singhi,Gynecologist,Sat02:00 PM-06:00 PM,"1,000",4.5
+S L Raheja Fortis Hospital,Mahim,Dr. Nilesh Gautam,Cardiologist,Mon-Fri10:00 AM-01:00 PM,"1,300",4
+"Dr. Hitesh Shah's ""Sexology, Stress Management & Counselling Clinic""",Kandivali West,Dr. Hitesh Shah,Sexologist,Mon-Sun09:00 AM-09:00 PM,"1,500",5
+S L Raheja Fortis Hospital,Mahim,Dr. Aniruddh Trivedi,Cardiac Surgeon,null,"1,250",4
+HEAL Institute,Colaba,Dr. Farhana Shah   (Physiotherapist),Physiotherapist,Mon-Sat08:00 AM-04:00 PM,800,5
+I Sight Eyecare And Surgery,Khar West,Dr. Swapnesh  Sawant,Ophthalmologist/ Eye Surgeon,Mon-Sat09:00 PM-09:30 PM,"1,000",5
+CosmoDent Hi-Tech Dental Hospital,Powai,Dr. Jyoti Narla,Periodontist,"Mon-Sat10:00 AM-02:00 PM, 05:00 PM-09:00 PMSun10:00 AM-02:00 PMshow more",500,5
+Dr Gayatri's Cosmetic Clinic,Mulund West,Dr. Gayatri Bharadwaj,Dermatologist,"Mon, Wed, Fri11:00 AM-02:00 PM, 05:00 PM-09:00 PMTue, Thu, Sat11:00 AM-02:00 PMshow more",800,4.5
+Parchure Nursing Home,Dadar East,Dr. Shilpa Abhyankar,Gynecologist,"Mon-Tue, Thu-Fri05:30 PM-07:00 PMSat06:30 PM-07:30 PMshow more",800,5
+Dr. Vora's Dental Care,Mulund West,Dr. Rituja Punde,Dentist,Mon-Sun04:00 PM-08:00 PM,300,5
+Physio Wellness,Andheri East,Ms. Prachi Managute,null,"Mon-Sat08:00 AM-11:00 AM, 05:00 PM-08:00 PM","1,500",5
+Patwardhan Homoeopathy Clinic,Dadar West,Dr. Anagha Patwardhan,Homoeopath,Thu10:00 AM-01:00 PM,800,5
+Punit Hospital,Borivali West,Dr. Kunal Patel,Orthopedist,"Mon-Sat09:00 AM-11:00 AM, 06:00 PM-08:00 PM",700,5
+Asian Heart Institute And Research Centre,Bandra East,Dr. Tilak Suvarna,Cardiologist,Mon-Sat10:00 AM-06:00 PM,"2,350",4
+Prism Eye and Maternity Clinic,Andheri West,Dr. Divya Sharma   (Physiotherapist),Physiotherapist,Mon-Sat10:00 AM-01:30 PM,"1,000",5
+Parchure Nursing Home,Dadar East,Dr. Suhas Vidyadhar Abhyankar,Plastic Surgeon,"Mon, Wed-Sat05:00 PM-07:00 PM","1,000",5
+Jupiter Hospital Speciality Clinic,Mulund West,Dr. Kapil Mohan,Spine Surgeon,"Mon, Wed, Fri01:00 PM-02:00 PM","1,000",4.5
+Dental Expertz Clinic,Mumbai Central,Dr. Fahad Naaz,Dentist,"Mon-Sat10:30 AM-03:00 PM, 04:00 PM-09:30 PMSun12:00 PM-03:00 PMshow more",300,5
+Pushpaa Hospital,Andheri West,Dr. Divya A. Sahetya,Gynecologist,"Mon-Sat10:00 AM-01:00 PM, 05:00 PM-08:00 PMSun10:00 AM-01:00 PMshow more",800,5
+Gurukrupa Advanced Dental Care Center,Malad West,Dr. Suresh Isawe,Implantologist,"Mon-Sat01:00 PM-03:00 PM, 05:30 PM-07:30 PM",750,5
+The Childrens Hospital Mumbai,Malad West,Dr. Aditi Agrawal,General Surgeon,Mon-Sat11:00 AM-01:00 PM,700,4
+Krishna Eye Centre,Parel,Dr. Mihir Kothari,Ophthalmologist/ Eye Surgeon,Sat09:00 AM-12:00 PM,"1,200",5
+Smile Studio Dental Clinic,Matunga,Dr. Sanket Mehta,Dentist,"Mon, Wed, Fri04:30 PM-08:30 PMTue, Thu, Sat09:30 AM-01:00 PMshow more",null,5
+Smilez Unlimited Dental Clinic,Juhu,Dr. Ajay Bajaj,Endodontist,"Mon-Tue, Thu-Fri09:30 AM-01:30 PM, 04:30 PM-08:30 PMWed09:30 AM-01:30 PM, 06:00 PM-08:30 PMSat09:30 AM-01:30 PM, 06:00 PM-08:00 PMshow more",400,5
+Wockhardt Hospitals,Mira Road,Dr. Mahesh Prasad,Nephrologist/Renal Specialist,"Mon-Tue, Thu-Fri10:00 AM-02:00 PM, 05:00 PM-07:00 PMWed, Sat10:00 AM-02:00 PMshow more",900,4
+Rotunda - The Center for Human Reproduction,Parel,Dr. Swati Allahbadia,Infertility Specialist,Mon-Fri10:00 AM-04:00 PMSat11:00 AM-02:00 PMshow more,"1,500",4.5
+Sushrut Hospital and Research Center,Chembur East,Dr. Kiran C Mhatre,General Physician,"Mon-Sat08:00 AM-09:00 AM, 05:20 PM-05:40 PM",800,4
+Womens Hospital,Khar West,Dr. Shweta Raje,Gynecologist,Mon-Fri10:00 AM-05:30 PMSat10:00 AM-03:30 PMshow more,"1,500",5
+Dr.Sheth's Skin & Hair Clinic,Marine Lines,Dr. Rekha Sheth,Dermatologist,null,"3,000",5
+Surana Sethia Hospital and Research Center,Chembur,Dr. Hemali Patil   (Physiotherapist),Physiotherapist,Mon-Sat04:00 PM-06:00 PM,400,4.5
+Jain Diagnostic Centre,Lower Parel,Dr. Akshay Jain,General Physician,"Mon-Sat09:30 AM-01:30 PM, 05:30 PM-09:00 PM",400,5
+Oma Hospital,Chembur,Dr. Tanuja Uchil,Infertility Specialist,"Mon-Fri11:00 AM-12:45 PM, 05:00 PM-07:45 PMSat05:00 PM-08:15 PMshow more","1,000",4
+Skin N Sculpt,Andheri East,Dr. Kshama P Vibhakar,Dermatologist,"Mon, Wed, Sat11:00 AM-01:00 PMTue, Thu11:00 AM-01:00 PM, 05:00 PM-06:00 PMFri11:00 AM-01:00 PM, 06:00 PM-08:00 PMshow more",700,4.5
+Surana Sethia Hospital and Research Center,Chembur,Dr. Vishwanath Iyer,Neurosurgeon,"Mon, Fri06:00 PM-07:00 PM","1,200",4.5
+My Smile Dental Clinic,Andheri West,Dr. Chitralekha Rane,Cosmetic/Aesthetic Dentist,"Mon-Sat10:00 AM-01:00 PM, 02:00 PM-08:00 PM",500,5
+Skin Matra,Mahim,Dr. Pradnya Shastri,Dermatologist,"Mon, Wed, Fri09:00 AM-01:00 PM, 01:30 PM-09:00 PMTue, Thu09:00 AM-03:00 PMSat09:00 AM-04:00 PMshow more","1,500",5
+Dr L H Hiranandani Hospital,Powai,Dr. Sanjana.A,Ophthalmologist/ Eye Surgeon,"Mon, Wed, Fri09:30 AM-02:00 PM, 03:30 PM-06:30 PMTue, Thu09:30 AM-02:00 PM, 03:30 PM-08:00 PMSat09:30 AM-02:00 PM, 03:30 PM-07:00 PMshow more","1,000",3.5
+Smilez Unlimited Dental Clinic,Juhu,Dr. Viren Puri,Orthodontist,null,"1,000",5
+Unique Smile Concepts,Tilak Nagar,Dr. Aashish Tiwari,Dentist,"Mon-Sat10:30 AM-01:30 PM, 06:45 PM-09:30 PMSun11:00 AM-01:00 PMshow more",150,5
+Dr's Mind Centre,Kandivali West,Dr. Rashmi Navelkar,Psychiatrist,Mon-Fri05:00 PM-08:00 PM,800,4.5
+Ageless Medica Health Management Pvt. Ltd.,Powai,Dr. Riddhi Gandhi Shah,Dermatologist,"Tue, Thu, Sat10:00 AM-12:00 PM","1,000",4.5
+Sushrut Hospital and Research Center,Chembur East,Dr. Kishore Manek,Orthopedist,"Mon, Wed, Fri10:00 AM-12:00 PM","1,000",4
+Mothers Care Clinic,Andheri West,Dr. Hemlata Hardasani,Gynecologist,"Mon-Tue, Thu-Fri10:00 AM-12:30 PM, 05:30 PM-07:00 PMWed10:00 AM-12:30 PMSat10:00 AM-01:00 PMshow more","1,500",5
+S L Raheja Fortis Hospital,Mahim,Dr. Rajdeep Agarwal,Cardiologist,null,"1,800",4
+Dental Square,Andheri East,Dr. Parag M. Khatri,Periodontist,"Mon-Sat09:00 AM-01:00 PM, 05:00 PM-09:00 PM",400,5
+Sushrut Hospital and Research Center,Chembur East,Dr. Dilip Murarkar,General Surgeon,Mon-Sat01:00 PM-03:00 PM,"1,500",4
+Care 32 Family Dental Care Centre,Andheri East,Dr. Ishwari Bhirud,Cosmetic/Aesthetic Dentist,"Mon-Sat10:00 AM-02:45 PM, 03:00 PM-08:30 PM",300,5
+La'mer Clinic,Dadar,Dr. D.G. Saple,Hair Transplant Surgeon,"Mon-Sat10:30 AM-01:00 PM, 05:00 PM-08:00 PM","2,000",4.5
+Nandini Joshi's Homeopathic Clinic,Mulund West,Dr. Nandini Joshi,Homoeopath,Sat11:00 AM-02:00 PM,600,5
+Dent Heal,Bandra West,Dr. Priyanka Basu,Dentist,Tue10:30 AM-03:30 PM,null,5
+Punit Hospital,Borivali West,Dr. Miral Patel,Infertility Specialist,"Mon10:00 AM-11:00 AM, 06:00 PM-07:30 PMTue10:00 AM-11:30 AM, 05:30 PM-07:00 PMWed10:00 AM-11:00 AM, 05:30 PM-07:30 PMThu10:00 AM-11:00 AMFri10:00 AM-11:00 AM, 05:30 PM-07:00 PMSat10:00 AM-11:30 AM, 06:00 PM-07:30 PMshow more",600,5
+Jupiter Hospital Speciality Clinic,Mulund West,Dr. Srinivas L,Pediatric Cardiologist,"Tue, Thu05:00 PM-06:00 PM","1,200",4.5
+Ayushakti Ayurved  Health Centre,Vileparle,Dr. Hemang Parekh,Ayurveda,Wed05:00 PM-09:00 PM,300,null
+Pushpaa Hospital,Andheri West,Dr. Raju Sahetya,Gynecologist,"Mon, Wed-Thu, Sat11:00 AM-01:00 PM, 07:00 PM-09:00 PM","1,000",5
+SRV Hospital,Goregaon West,Dr. Sachin Pahade,Urologist,Mon-Fri06:00 PM-08:00 PM,"1,000",5
+Dental Solutions,Ghatkopar East,Dr. Manish Kachhara,Dentist,"Mon-Sat09:00 AM-01:30 PM, 04:00 PM-09:00 PM",200,5
+Divine Smiles Dental Care,Bandra West,Dr. Rakesh Sorathia,Dental Surgeon,null,500,5
+Dr Muffi's Digestive Health Institute,Worli,Dr. Shabbir Suterwala,Orthopedist,"Tue, Thu, Sat03:00 PM-05:00 PM","3,000",4.5
+AUM ENT Clinic,Andheri West,Dr. Shailesh Pandey,ENT/ Otorhinolaryngologist,Mon-Fri06:30 PM-08:30 PMSat03:30 PM-05:00 PMshow more,"1,000",5
+S L Raheja Fortis Hospital,Mahim,Dr. Ambardekar Shekhar Shriram,Cardiologist,"Mon, Thu11:00 AM-12:30 PM","1,300",4
+Jupiter Hospital Speciality Clinic,Mulund West,Dr. Jayesh Sheth,Pediatrician,Mon-Fri09:30 AM-10:30 AM,"1,500",4.5
+HEAL Institute,Khar West,Dr. Ishita Sheth   (Physiotherapist),Physiotherapist,Mon-Sat12:30 PM-08:30 PM,800,5
+Apollo Spectra Hospitals,Tardeo,Dr. Shoaib Padaria Fakhruddin,Cardiologist,Thu11:00 AM-12:00 PM,"3,000",4
+Dr Kiran Katkar's Dermis Skin Wellness Clinic Lase,Dadar West,Dr. Kiran Katkar,Dermatologist,"Mon-Sat11:00 AM-03:00 PM, 05:00 PM-09:00 PM","1,000",4.5
+The Childrens Hospital Mumbai,Malad West,Dr. Kuldeep Singh Sandu,Orthopedist,Mon-Fri07:30 PM-08:30 PM,700,4
+Krishna Eye Centre,Sion East,Dr. Gul J. Nankani,Ophthalmologist/ Eye Surgeon,Mon-Sat10:00 AM-02:00 PM,"1,000",null
+I Sight Eyecare And Surgery,Khar West,Dr. Nikhil Nasta,Ophthalmologist/ Eye Surgeon,Mon-Sat04:00 PM-08:00 PM,"1,000",5
+Dr. Ajay Thaker's Smiles Royale Dental Clinic,Mulund West,Dr. Prachi Pandya,Dental Surgeon,"Mon-Sat10:00 AM-03:00 PM, 05:00 PM-09:15 PMSun12:00 AM-09:15 PMshow more",200,5
+Smile n Shine Advanced Dental Clinic,Kandivali West,Dr. Rangnath Jhawar,Dental Surgeon,null,100,5
+Pushpaa Hospital,Andheri West,Ms. Malika Kabra Rathi,Dietitian/Nutritionist,Tue06:00 PM-09:00 PMThu10:00 AM-12:00 PMFri04:30 PM-06:30 PMshow more,"2,000",5
+Saraogi Hospital & IRIS IVF Centre,Malad West,Dr. Vandana Krishna Gawde,Gynecologist,Mon-Sat10:30 AM-08:00 PM,700,4.5
+Parakh Hospital,Ghatkopar,Dr. Yajuvendra Gawai,Orthopedist,"Mon, Fri04:00 PM-06:00 PM","1,000",4.5
+Dr.Sheth's Skin & Hair Clinic,Marine Lines,Ms. Sneha Saklecha,Dietitian/Nutritionist,Mon10:00 AM-03:00 PM,"2,000",5
+La'mer Clinic,Dadar,Dr. Pooja Singit,null,Mon-Sat10:30 AM-02:30 PM,"2,000",4.5
+Shrishti Fertility Care Centre and Women Clinic,Goregaon East,Dr. Jayanti Kamat,Obstetrician,"Mon-Sat11:00 AM-01:00 PM, 05:00 PM-07:00 PM","1,000",4.5
+Vivanta Hospital,Malad West,Dr. Samir Parekh,Neurosurgeon,null,"1,500",4.5
+Dr. Jonwal's Niramay Ayush Panchkarm Health Institute & Research Hospital,Kandivali West,Dr. Sunita Jonwal,Ayurveda,"Mon-Sat11:00 AM-12:30 PM, 06:00 PM-07:30 PM",800,4
+"Parakh Hospital - Gynecology, Obstetrics & IVF",Ghatkopar East,Dr. Parul Sugandhi,Gynecologist,Mon-Sat10:00 AM-04:00 PM,"1,000",4.5
+Surana Sethia Hospital and Research Center,Chembur,Dr. Abhay Krushnarao Tidke,Cardiologist,null,"1,000",4.5
+Apollo Spectra Hospitals,Chembur,Dr. Satish Puranik,Orthopedist,null,"1,500",4.5
+Gala Skin & Hair Clinic,Matunga,Dr. Priyal Gala,Dermatologist,"Mon, Wed, Fri06:00 PM-09:00 PM","1,000",5
+Dr. Kinis  Nursing Home and Endocrine Centre,Mulund West,Dr. Prashant Kini,Consultant Physician,"Mon, Wed, Fri11:30 AM-01:00 PM, 06:30 PM-07:30 PMTue, Thu, Sat11:30 AM-01:00 PM, 05:30 PM-07:30 PMshow more","1,000",4.5
+Smile Again,Dadar East,Dr. Lubaina Tapia,Dentist,"Mon-Sat10:30 AM-01:30 PM, 05:30 PM-08:30 PM",500,5
+Dr's Mind Centre,Kandivali West,Ms. Meenakshi Sharma,Psychologist,Mon-Sat10:00 AM-05:00 PM,700,4.5
+SRV Hospital,Goregaon West,Dr. Ketan Badani,Orthopedist,"Mon, Fri09:00 PM-10:00 PMWed09:00 AM-11:00 AMshow more","1,500",5
+Pushpaa Hospital,Andheri West,Dr. Ankesh Sahetya,Gynecologist,"Mon, Wed-Fri10:00 AM-03:00 PM, 05:00 PM-11:00 PMTue10:00 AM-03:00 PM, 05:00 PM-09:00 PMSat10:00 AM-02:00 PM, 05:00 PM-08:00 PMSun10:00 AM-02:00 PMshow more",800,5
+Dr L H Hiranandani Hospital,Powai,Dr. Rushikesh Patil,Cardiologist,"Mon-Fri10:00 AM-02:15 PM, 06:15 PM-07:30 PMSat02:30 PM-06:00 PMshow more","1,800",3.5
+Medident - The Multispeciality Dental Clinic,Bandra West,Dr. Meeta Malik,Dentist,Mon-Sat09:00 AM-09:15 PM,600,5
+Parakh Hospital,Ghatkopar,Dr. Ranjan Burnwal,Orthopedist,null,"1,000",4.5
+Dr. Raja Urology & Andrology Centre,Bandra West,Dr. Dilip Raja,Urologist,Mon-Sat03:30 PM-07:30 PM,"3,000",4
+CosmoDent Hi-Tech Dental Hospital,Powai,Dr. Mansi Sanghvi,Dermatologist,Fri10:30 AM-11:30 AM,900,5
+Bright 32 Dental Care & Orthodontic Centre,Kandivali East,Dr. Nikhil Surana,Orthodontist,"Mon-Sat10:00 AM-01:30 PM, 05:30 PM-09:30 PM",300,5
+Navkar Dental Care And Implant Centre & Navkar Physiotherapy Centre,Andheri West,Dr. Minita Mehta Solanki   (Physiotherapist),Physiotherapist,"Mon-Sat09:30 AM-01:30 PM, 08:00 PM-09:00 PM",500,5
+Apollo Spectra Hospitals,Tardeo,Dr. Laila Rajesh Dave,Gynecologist,"Tue, Thu, Sat10:00 AM-12:00 PM","1,000",4
+Dr Muffi's Digestive Health Institute,Worli,Ms. Nisha Bajaj,Dietitian/Nutritionist,Mon-Sat09:00 AM-08:00 PM,"3,000",4.5
+Care & Cure Maternity And Nursing Home,Powai,Dr. Varsha Degwekar,Gynecologist,"Mon-Sat11:00 AM-01:00 PM, 06:00 PM-08:00 PM",700,4.5
+Apollo Spectra Hospitals,Chembur,Dr. Prashant Kewle,ENT/ Otorhinolaryngologist,Mon-Fri04:00 PM-05:00 PM,"1,000",4.5
+Dr L H Hiranandani Hospital,Powai,Dr. Roli Dave   (Physiotherapist),Physiotherapist,Mon-Sat08:00 AM-08:00 PM,500,3.5
+Purnam Health Centre,Malad West,Dr. Hitesh Shah,Sexologist,Mon-Sat09:05 PM-10:00 PM,"1,500",4
+Positive Vibrations,Andheri West,Dr. Keerti Sachdeva   (PhD),Educational Psychologist,"Mon11:00 AM-03:00 PM, 04:30 PM-06:30 PMTue-Sat11:00 AM-03:00 PM, 04:30 PM-07:00 PMSun12:00 PM-03:00 PM, 05:00 PM-06:30 PMshow more","1,500",4
+The Childrens Hospital Mumbai,Malad West,Dr. Susan Fernandes,Pediatrician,null,800,4
+Smile Again,Dadar East,Dr. Suhasini Sukumar,Dental Surgeon,Mon-Sat12:00 PM-08:00 PM,200,5
+Womens Hospital,Khar West,Dr. Aparna Hegde,Gynecologist,Fri05:00 PM-07:00 PM,"2,000",5
+Apollo Spectra Hospitals,Chembur,Dr. Gautam Nadkarni,General Surgeon,Mon-Sat09:00 AM-11:00 AM,"1,000",4.5
+Dr L H Hiranandani Hospital,Powai,Dr. Rakhee Sahu,Gynecologist,Mon-Sat08:00 AM-08:00 PMSun10:00 AM-12:00 PMshow more,"1,200",3.5
+Dr. Nishant's Dental Surgeons Planet,Powai,Dr. Apeksha Anand,Pediatric Dentist,"Mon-Thu, Sat10:00 AM-02:00 PM, 05:00 PM-10:00 PMSun10:00 AM-02:00 PMshow more",500,5
+Smile Again,Dadar East,Dr. Dhruti Raut Chavan,Prosthodontist,Mon-Sat09:00 AM-08:00 PMSun10:00 AM-02:00 PMshow more,null,5
+Asthma Allergy Clinic - Siddhi Polyclinic,Andheri West,Dr. Tarana Malick,Homoeopathic Pediatrician,"Mon-Sat11:00 AM-02:00 PM, 06:00 PM-09:00 PMSun12:00 AM-04:00 PMshow more","1,000",5
+Wockhardt Hospitals,Mira Road,Dr. Vinod Rambal,Neurosurgeon,Mon-Sat03:00 PM-07:00 PM,750,4
+Dent Heal,Bandra West,Dr. Darshana R Bhuta,Dentist,Mon-Sat10:30 AM-06:30 PM,500,5
+Parakh Hospital,Ghatkopar,Dr. Hardeek Ghundiyal,Orthopedist,Mon-Sat04:00 PM-05:00 PM,800,4.5
+Fortis Hospital,Mulund West,Dr. Chetan Shah,Cardiologist,"Mon, Fri09:00 AM-10:00 AM","1,500",4
+The Childrens Hospital Mumbai,Malad West,Dr. Pradeep Shenoy,Pediatric Surgeon,null,"1,200",4
+Global Hospitals,Parel,Dr. Prashanth Rao,Laparoscopic Surgeon,Mon-Sat11:00 AM-07:00 PM,"1,750",4
+Smile Invent Dental Clinic,Bandra East,Dr. Boskey A Panikar,Dentist,"Mon-Fri09:30 AM-05:00 PM, 06:30 PM-07:30 PMSat01:30 PM-05:00 PMshow more",200,5
+RheumDerma Clinic,Prabhadevi,Dr. Sushant Shinde,Consultant Physician,"Mon, Fri02:00 PM-04:00 PM, 06:00 PM-08:00 PM","2,000",5
+Patwardhan Homoeopathy Clinic,Dadar West,Dr. Mandar S Patwardhan,Homoeopath,"Mon-Sat10:00 AM-01:00 PM, 05:00 PM-08:30 PM",800,5
+Tender Skin International,Malad West,Dr. Sonia Tekchandani,Dermatologist,Mon-Sat11:00 AM-08:00 PM,"2,000",4.5
+Smile Invent Dental Clinic,Bandra East,Dr. Arjun Panikar,Periodontist,null,500,5
+CosmoDent Hi-Tech Dental Hospital,Powai,Dr. Anand Narla,Dentist,"Mon-Sat10:00 AM-02:00 PM, 05:00 PM-09:00 PMSun10:00 AM-02:00 PMshow more",500,5
+Unlimited Potentialities,Borivali West,Dr. Mohit Shah,Psychiatrist,"Mon, Wed, Fri10:00 AM-01:00 PM, 03:00 PM-08:00 PMSat04:00 PM-07:00 PMshow more","2,000",4.5
+Kaya Kalp International Sex & Health Clinics,Borivali West,Dr. A. Kumar,Ayurveda,Tue02:00 PM-07:00 PM,500,5
+Divine Smiles Dental Care,Bandra West,Dr. Manali Pathak,Dental Surgeon,Mon-Sat10:00 AM-04:00 PM,500,5
+Aditi Hospital,Mulund West,Dr. Aditya Pathak,Orthopedist,Mon-Sat12:00 PM-01:30 PM,800,4.5
+Vivanta Hospital,Malad West,Dr. Abhishek Wadkar,Cardiologist,null,"1,500",4.5
+Dazzle Dental Clinic,Bandra West,Dr. Rajesh Shetty,Dentist,Mon-Sat09:30 AM-06:00 PM,"2,000",5
+Finesse,Goregaon East,Dr. Kamlesh Bhagat,Dermatologist,"Wed11:00 AM-02:00 PM, 06:00 PM-08:00 PMSat-Sun11:00 AM-02:30 PM, 06:00 PM-08:00 PMshow more","1,200",5
+Ambrosia Aesthetics,Andheri West,Dr. Siddharth Prakash,Plastic Surgeon,Mon-Sat05:01 PM-07:00 PM,"1,500",4.5
+Dr. Nishant's Dental Surgeons Planet,Powai,Dr. Nishant Gandhi,Dentist,"Mon-Sat08:00 AM-02:00 PM, 05:00 PM-09:00 PM",500,5
+Skinfiniti Cosmetic and Laser Clinic,Khar West,Dr. Poonam Parekh,Dermatologist,Mon-Fri11:30 AM-05:30 PMSat10:00 AM-04:00 PMshow more,"1,200",5
+Womens Hospital,Khar West,Dr. Namrata Prabhudesai,Radiologist,Mon-Sat11:00 AM-04:00 PM,"2,000",5
+Dr. Nair's Dental and Orthodontic Care,Andheri West,Dr. Snehal Thakkar,Oral And MaxilloFacial Surgeon,null,200,5
+Dr. Nanda R Kumar's Gynecology Clinic.,Chembur East,Dr. Nanda R Kumar,Gynecologist,Mon-Sat06:00 PM-09:15 PMSun11:30 AM-01:00 PMshow more,"1,000",4
+Parth Surgical Centre,Andheri West,Dr. Hemal Bhagat,Laparoscopic Surgeon,Mon-Fri02:00 PM-06:00 PMSat11:00 AM-01:00 PMshow more,"1,500",5
+Evolve - The Mind Center,Worli,Ms. Nipa Sanghavi,Psychologist,"Tue, Fri-Sat05:00 PM-07:30 PM","1,500",4
+Smile Essentials,Bandra West,Dr. Mansi Jajal,Dentist,Mon-Sat11:00 AM-08:00 PM,"1,000",5
+Apollo Spectra Hospitals,Tardeo,Dr. Ajay Rathod,Orthopedist,"Wed, Fri11:00 AM-01:00 PM","1,000",4
+Dazzle Dental Clinic,Bandra West,Dr. Fauzia Khimani Naaz,Dentist,"Mon, Wed, Sat09:30 AM-04:30 PMTue, Thu-Fri02:00 PM-09:00 PMshow more","1,000",5
+My Skin My Health,Andheri East,Dr. Pallavi Rathi,Dermatologist,"Mon-Sat12:30 PM-02:30 PM, 06:00 PM-08:30 PMSun11:00 AM-01:00 PMshow more",800,4
+Wockhardt Hospitals,Mira Road,Dr. Amit Sahu,Interventional Radiologist,Mon-Sat10:00 AM-04:00 PM,800,4
+Forever Yooung Skin Hair Body Aesthetics Clinic,Bandra West,Dr. Sadhana Deshmukh,Dermatologist,Mon-Sun11:00 AM-08:00 PM,"1,500",4.5
+BK Kidney and GI Centre,Goregaon West,Dr. Shrikant Badwe,Urologist,Mon-Fri05:30 PM-09:00 PM,"1,000",4
+Believe - Health And Skin Clinic,Girgaon,Dr. Kalyani Nair,Dermatologist,"Mon03:00 PM-06:00 PMTue, Thu10:30 AM-01:15 PMWed04:00 PM-07:00 PMSat10:30 AM-01:30 PMshow more","1,000",5
+Arohi Eye Hospital,Andheri West,Dr. Shradha Goel,Ophthalmologist/ Eye Surgeon,Mon-Fri11:00 AM-07:00 PM,"1,000",5
+Bombay Knee & Hip Clinic,Matunga,Dr. Ashish Agarwal,Joint Replacement Surgeon,Mon-Sat07:00 PM-10:00 PM,"1,000",5
+Sushrut Hospital and Research Center,Chembur East,Dr. Ganesh Kini,Neurologist,Mon-Fri10:30 AM-11:00 AM,"2,000",4
+Smile Studio Dental Clinic,Worli,Dr. Sanket Mehta,Dentist,"Mon, Wed, Fri09:30 AM-01:00 PMTue, Thu, Sat04:30 PM-08:30 PMshow more",500,5
+Hope Clinic,Tardeo,Dr. Devika Chopra,Gynecologist,"Mon-Fri10:30 AM-01:00 PM, 06:00 PM-08:00 PMSat10:30 AM-01:00 PM, 04:00 PM-06:00 PMSun06:00 PM-07:00 PMshow more","1,000",5
+Goradia Ayurvedic Clinic.,Grant Road,Dr. Dineshchandra  Goradia,Ayurveda,"Mon, Wed, Fri05:45 PM-07:15 PM","1,500",5
+Apollo Spectra Hospitals,Chembur,Dr. Sambit Patnaik,General Surgeon,Mon-Fri09:00 AM-11:00 AM,"2,000",4.5
+Smile n Shine Advanced Dental Clinic,Kandivali West,Dr. Kunal Mehta,Dentist,Mon-Sat10:00 AM-02:00 PMSun12:30 PM-02:00 PMshow more,100,5
+Roots Dental Clinic,Chembur,Dr. Urvi Ashar,Dentist,"Mon-Fri10:00 AM-02:00 PM, 04:00 PM-08:00 PM",500,5
+Wockhardt Hospitals,Mira Road,Dr. Nikhil Agrawal,Orthopedist,Tue12:00 PM-02:00 PM,800,4
+Smile Centre Dental Clinic,Bhandup West,Dr. Sandeep Patel,Implantologist,"Mon-Sat09:30 AM-01:00 PM, 05:30 PM-09:00 PM",200,5
+Aditi Hospital,Mulund West,Dr. Shrirang S Yadwadkar,General Surgeon,Mon-Sat07:00 PM-08:00 PM,600,4.5
+Tandon Eye Hospital,Andheri West,Dr. A. K. Tandon,Ophthalmologist/ Eye Surgeon,"Mon-Thu, Sat11:00 AM-01:30 PM, 05:30 PM-08:15 PMFri05:30 PM-08:15 PMshow more","1,000",5
+Dent Heal,Bandra West,Dr. Rati Chadha,Prosthodontist,Mon-Wed10:30 AM-03:30 PMThu-Sat04:00 PM-09:00 PMSun02:30 PM-05:30 PMshow more,500,5
+Global Hospitals,Parel,Dr. Amit Prabhakar Maydeo,General Surgeon,"Mon, Wed, Fri04:00 PM-06:00 PM","3,500",4
+Anil Cancer Center,Mulund,Dr. Anil Heroor,Surgical Oncologist,"Mon, Wed-Thu, Sat05:30 PM-08:00 PM","1,200",null
+Eye Solutions - The complete eye hospital,Tardeo,Dr. Rajul S. Parikh,Ophthalmologist/ Eye Surgeon,Wed10:00 AM-11:00 AM,"1,000",5
+Ruby Hospital - Venture Of Arogyam Hospital,Bhandup West,Dr. Jiten Chowdhry,General Surgeon,"Mon-Sat01:00 PM-03:00 PM, 05:30 PM-08:00 PM",800,4.5
+Winning Smiles Dental Clinic,Kandivali East,Dr. Keyur Mehta,Dentofacial Orthopedist,Mon06:00 PM-08:00 PM,400,5
+Apollo Spectra Hospitals,Tardeo,Dr. Bakar Ali Kadiwala,Ophthalmologist/ Eye Surgeon,null,"1,500",4
+Harleys Cosmetic & Women Clinic,Andheri West,Dr. Shilpa Bansal,Gynecologist,"Mon-Sat11:00 AM-02:00 PM, 05:45 PM-07:30 PM","1,000",5
+Fortis Hospital,Mulund West,Dr. Harin Vyas,Cardiologist,Mon-Fri09:00 AM-11:00 AM,"1,500",4
+Fortis Hospital,Mulund West,Dr. Zakia Khan,Cardiologist,Wed03:00 PM-05:00 PM,"1,500",4
+Skinfiniti Cosmetic and Laser Clinic,Khar West,Dr. Shikha Shah,Dermatologist,Mon-Sat11:00 AM-08:00 PM,800,5
+Aharayogam,Mulund West,Dr. Urmi. M Satiya,Homoeopath,"Mon-Sat11:30 AM-01:30 PM, 06:00 PM-08:00 PM",500,5
+Parakh Hospital,Ghatkopar,Dr. Rusy Bhalla,General Surgeon,null,"1,000",4.5
+CosmoDent Hi-Tech Dental Hospital,Powai,Dr. Kartik Srinivasan,Homoeopath,Mon-Sat04:00 PM-09:00 PM,800,5
+Mohan ENT Care,Borivali West,Dr. Varsha R. Shirvekar,ENT/ Otorhinolaryngologist,"Mon-Sat09:30 AM-01:30 PM, 05:30 PM-09:30 PM",700,5
+Jupiter Hospital Speciality Clinic,Mulund West,Dr. Vijay Vishwanathan,Pediatrician,"Mon, Fri03:00 PM-04:00 PM","1,500",4.5
+HEAL Institute,Colaba,Dr. Gaurang Shukla   (Physiotherapist),Physiotherapist,Mon-Sat10:00 AM-06:00 PM,800,5
+The Childrens Hospital Mumbai,Malad West,Dr. Chinmay Shah,General Physician,Mon-Sat07:00 PM-08:00 PM,"1,000",4
+Krishna Eye Centre,Sion East,Dr. Sonia G. Nankani,Ophthalmologist/ Eye Surgeon,Mon-Fri05:00 PM-07:00 PM,"1,000",null
+"Parakh Hospital - Gynecology, Obstetrics & IVF",Ghatkopar East,Dr. Sadhna Shah,ENT/ Otorhinolaryngologist,Mon-Sat01:00 PM-02:00 PM,"1,000",4.5
+S L Raheja Fortis Hospital,Mahim,Dr. Sundeep Amberkarle,null,"Mon, Sat11:00 AM-01:00 PM","1,300",4
+Jupiter Hospital Speciality Clinic,Mulund West,Dr. Pankaj Joshi,General Surgeon,"Mon, Wed, Fri06:00 PM-07:00 PM","1,000",4.5
+Ace Heart Clinic,Borivali West,Dr. Pritesh Punjabi,Cardiologist,Mon-Sat10:00 AM-08:00 PM,"1,800",5
+Sushrut Hospital and Research Center,Chembur East,Dr. Manish Sharma,Ophthalmologist/ Eye Surgeon,Thu10:30 AM-11:30 AM,600,4
+Kent Homeopathy Clinic,Powai,Dr. Kukreja A. Kalani,Homoeopath,"Mon-Wed, Fri-Sat11:00 AM-01:30 PM, 06:30 PM-09:00 PMThu06:30 PM-09:00 PMshow more",500,5
+Dr Muffi's Digestive Health Institute,Worli,Dr. Adnan Badr   (Physiotherapist),Physiotherapist,Mon-Sun09:00 AM-09:00 PM,"3,500",4.5
+HEAL Institute,Khar West,Dr. Manish Singh   (Physiotherapist),Sports and Musculoskeletal Physiotherapist,null,800,5
+Dr Siddharth's Plastic Surgery Clinic,Andheri West,Dr. Siddharth Prakash,Plastic Surgeon,"Tue, Thu04:01 PM-05:00 PM","1,500",5
+Global Hospitals,Parel,Dr. Suresh Sankla,Neurosurgeon,Mon-Fri11:00 AM-06:00 PM,"1,750",4
+Clinico Diagnostic India Pvt Ltd,Mulund West,Dr. Shruti Bhave Joshi   (Physiotherapist),Physiotherapist,"Mon, Wed-Fri04:00 PM-05:00 PMTue04:05 PM-05:00 PMshow more",300,5
+Dr's Mind Centre,Kandivali West,Ms. Meenal Mishra,Clinical Psychologist,Mon-Sat10:00 AM-06:00 PM,700,4.5
+Apollo Spectra Hospitals,Chembur,Dr. Mukund Jaganathan,Plastic Surgeon,Mon-Sat04:00 PM-06:30 PM,"1,000",4.5
+Dr. Inamdar's Dental Studio,Kurla West,Dr. Aslam Inamdar,Dentist,"Mon-Tue, Thu02:30 PM-05:30 PM",200,4.5
+Dr. Jonwal's Niramay Ayush Panchkarm Health Institute & Research Hospital,Kandivali West,Dr. Laxman G. Jonwal,Consultant Physician,"Mon-Sat09:00 AM-12:10 PM, 04:00 PM-07:10 PM",800,4
+Exercise Clinic,Andheri West,Dr. Varun Shanbhag   (Physiotherapist),Physiotherapist,Mon-Sat07:00 PM-09:00 PM,600,5
+The Childrens Hospital Mumbai,Malad West,Dr. Pankaj Shroff,Pediatric Surgeon,Wed12:00 PM-02:00 PM,"2,000",4
+Bafna Polyclinic,Cumballa Hill,Dr. Raashi Mehta,Dermatologist,"Tue, Thu, Sat05:00 PM-07:00 PM","1,000",4.5
+Surana Sethia Hospital and Research Center,Chembur,Dr. Gautam Nadkarni,General Surgeon,Mon-Sat09:00 AM-10:00 AM,"1,000",4.5
+Apollo Spectra Hospitals,Chembur,Dr. Ravindra Hodarkar,Urologist,Mon-Fri08:30 PM-09:00 PM,"1,000",4.5
+Mehta Eye Clinic,Ghatkopar East,Dr. Vinod C Mehta,Ophthalmologist/ Eye Surgeon,"Mon, Wed, Fri03:00 PM-07:00 PMTue09:00 AM-12:30 PM, 03:00 PM-07:00 PMThu, Sat09:00 AM-12:30 PMshow more","1,000",5
+Sahastram Ayurveda Panchkarma Center,Dadar East,Dr. Rajshree Chavan,Sexologist (Ayurveda),"Mon-Fri11:45 AM-03:00 PM, 06:25 PM-08:30 PMSat11:45 AM-03:00 PM, 06:30 PM-08:30 PMSun11:45 AM-02:30 PMshow more",500,4.5
+Lifeforce Homeopathy Clinic,Chembur,Dr. Neetu Jetwani,Homoeopath,Mon-Sat10:00 AM-06:00 PM,500,4.5
+Eye Solutions - The complete eye hospital,Tardeo,Dr. Deepak Garg,Ophthalmologist/ Eye Surgeon,Mon-Fri03:00 PM-05:45 PMSat03:00 PM-04:00 PMshow more,"1,000",5
+RD Smita Nanda Nutrition Consultant,Kandivali East,"Ms. Smita Nanda, RD",Dietitian/Nutritionist,"Mon-Sun10:30 AM-01:00 PM, 04:00 PM-07:00 PM","1,200",5
+Dr L H Hiranandani Hospital,Powai,Dr. Ganesh Kumar A.V,Cardiologist,"Mon-Fri08:20 AM-09:50 AM, 11:30 AM-12:20 PMSat08:20 AM-11:55 AMshow more","1,800",3.5
+Dr. Sana Bhamla Khan - KYSHHA Skin and Hair Clinic,Mumbai Central,Dr. Sana Bhamla Khan,Dermatologist,"Mon, Wed, Fri12:00 PM-02:00 PM, 03:00 PM-08:00 PMThu05:00 PM-08:00 PMshow more","1,000",5
+Fortis Hospital,Mulund West,Dr. Suresh Vijan,Cardiologist,"Wed, Sat12:00 PM-02:00 PM","1,500",4
+Lifeforce Homeopathy Clinic,Chembur,Dr. Rajesh Shah,Homoeopath,Mon-Sat10:00 AM-04:00 PM,"3,000",4.5
+Jupiter Hospital Speciality Clinic,Mulund West,Dr. Ashlesha B Chaudhary,ENT/ Otorhinolaryngologist,Mon-Sat08:00 PM-09:00 PM,800,4.5
+Dr. Sanjay Bakhshi's Physioline Pain & Paralysis Centre,Andheri West,Dr. Sanjay Bakhshi   (Physiotherapist),Physiotherapist,Mon-Sat12:30 PM-07:30 PM,"2,000",5
+Smile n Shine Advanced Dental Clinic,Kandivali West,Dr. Charmi Mehta,Dentist,Mon-Sat07:00 PM-09:00 PM,100,5
+Clear Vision Eye Clinic,Wadala,Dr. Shilpa Shah Gohil,Infertility Specialist,Mon-Sat07:30 PM-08:30 PM,800,5
+Surana Sethia Hospital and Research Center,Chembur,Dr. Santosh Shetty,Orthopedist,null,"1,000",4.5
+Divine Smiles Dental Care,Bandra West,Dr. Saachi Shingrani,Dental Surgeon,Mon-Sat04:00 PM-08:30 PM,500,5
+Mothers Care Clinic,Andheri West,Dr. Kirti Khopkar.,Ultrasonologist,Mon-Sat10:30 AM-12:30 PM,600,5
+Krishna Eye Centre,Parel,Dr. Neetu Asher,Ophthalmologist/ Eye Surgeon,Wed12:00 PM-02:00 PM,"1,200",5
+Surana Sethia Hospital and Research Center,Chembur,Dr. Arpit C Dave,Orthopedist,null,"1,000",4.5
+"Dr. Sonal Sanghavi's
+ Homoeopathic Clinic",Borivali West,Dr. Sonal H. Sanghavi,Homoeopath,"Mon-Fri10:30 AM-01:30 PM, 04:30 PM-07:30 PMSat10:30 AM-01:30 PM, 04:30 PM-08:00 PMshow more","1,000",5
+Roots Dental Clinic,Chembur,Dr. Menaz Thakkar,Dentist,"Mon-Fri10:00 AM-02:00 PM, 04:00 PM-08:00 PMSat10:00 AM-02:00 PMshow more",500,5
+Orthopaedic Ophthalmic Physiotherapy Clinic,Bandra West,Dr. Hemant Bhandari,Orthopedist,"Mon, Wed-Sat07:00 PM-09:00 PM","1,500",5
+Dr. Vora's Dental Care,Mulund West,Dr. Naman Hiralal Vora,Dentist,"Mon, Wed, Fri-Sat10:00 AM-02:00 PM, 04:00 PM-08:00 PM",300,5
+Jupiter Hospital Speciality Clinic,Mulund West,Dr. Venkateshwaran N,Plastic Surgeon,"Tue, Thu, Sat04:00 PM-05:00 PM","1,000",4.5
+Womens Hospital,Khar West,Dr. Latika Chawla,Gynecologist,"Mon-Sat09:00 AM-10:00 AM, 01:00 PM-02:00 PM","1,500",5
+The Dental Studio,Goregaon East,Dr. Aditya Nair,Dentofacial Orthopedist,null,300,5
+Oyster Hospital,Goregaon West,Dr. Vivek Salunke,Gynecologist,Mon-Sat07:30 PM-09:30 PM,"1,000",null
+SRV Hospital,Goregaon West,Dr. Yogen Chheda,Surgical Oncologist,null,"1,500",5
+Navkar Dental Care And Implant Centre & Navkar Physiotherapy Centre,Andheri West,Dr. Mohit Solanki,Dental Surgeon,"Mon-Sat09:15 AM-02:00 PM, 04:30 PM-09:00 PMSun10:00 AM-12:30 PMshow more",300,5
+Aditi Hospital,Mulund West,Dr. Sachin Wani,Gastroenterologist,"Mon, Wed, Fri-Sat12:00 PM-01:00 PM",800,4.5
+HPE India - Advance Physiotherapy Studio,Bandra West,Dr. Rutuja Lalingkar   (Physiotherapist),Physiotherapist,Mon-Sun09:00 AM-10:00 PM,"1,000",5
+Smilez Unlimited Dental Clinic,Juhu,Dr. Nishi Bajaj,Cosmetic/Aesthetic Dentist,"Mon-Sat09:30 AM-02:00 PM, 03:15 PM-08:15 PM",400,5
+Mothers Care Clinic,Andheri West,Dr. Zinal,Pediatrician,Mon-Fri11:00 AM-12:00 PM,"1,200",5
+Dr L H Hiranandani Hospital,Powai,Ms. Richa Anand,Dietitian/Nutritionist,Mon-Fri08:00 AM-08:00 PM,800,3.5
+Wisdom Tooth Clinic,Andheri West,Dr. Ashwini Bhalerao,Dentist,"Mon-Fri10:00 AM-01:30 PM, 04:30 PM-08:00 PMSat10:00 AM-02:00 PMshow more",500,5
+Apollo Spectra Hospitals,Chembur,Dr. Sanjay Borude,Bariatric Surgeon,Fri12:00 PM-02:00 PM,"2,000",4.5
+Smile Invent Dental Clinic,Bandra East,Dr. Tasneem S Bulsara,Dentist,Mon-Sat09:55 AM-06:00 PM,200,5
+Dr. Nair's Dental and Orthodontic Care,Andheri West,Dr. Aditya Nair,Dentofacial Orthopedist,null,300,5
+Aashraya Developmental Aid Centre,Bandra West,Dr. Shyam Mithiya,Sexologist,"Mon, Wed, Fri04:00 PM-06:00 PM","2,000",null
+Dr. Mithiya's Clinic,Ghatkopar West,Dr. Shyam Mithiya,Sexologist,"Mon-Fri11:00 AM-02:00 PM, 06:30 PM-09:30 PMSat10:30 AM-02:00 PM, 06:30 PM-09:30 PMshow more","1,500",5
+Vivanta Hospital,Malad West,Dr. Pankaj Gandhi,General Surgeon,null,"1,000",4.5
+Surana Sethia Hospital and Research Center,Chembur,Dr. Niveditha Moulik,General Physician,Thu07:00 PM-08:00 PM,"1,000",4.5
+Smile Studio Dental Clinic,Matunga,Dr. Manisha Mehta,Cosmetic/Aesthetic Dentist,"Mon, Wed, Fri09:30 AM-01:00 PMTue, Thu, Sat04:30 PM-08:30 PMshow more",null,5
+Dr. Adhye's Homeopathic Clinic,Chembur,Dr. Adhye,Homoeopath,"Mon-Fri10:00 AM-01:00 PM, 06:00 PM-09:00 PMSat10:00 AM-02:00 PMshow more","1,400",5
+Reflectionz Clinic,Kandivali East,Ms. Sarika nair,Dietitian/Nutritionist,null,"1,500",5
+Unique Smile Concepts,Tilak Nagar,Dr. Ambika Arora,Dentist,null,400,5
+Sushrut Hospital and Research Center,Chembur East,Dr. Anil Bradoo,Urologist,"Tue, Thu04:00 PM-05:00 PM",750,4
+Dr. Ila Tyagi's Gynecology and Fertility Clinic,Chembur East,Dr. Ila Tyagi,Obstetrician,Mon-Sat05:30 PM-07:30 PM,"1,000",3.5
+Apollo Spectra Hospitals,Tardeo,Dr. Mukund Andakar,Urologist,Mon-Fri08:30 AM-09:30 AM,"1,000",4
+Arohi Eye Hospital,Andheri West,Dr. Shalomith Uppapalli,Ophthalmologist/ Eye Surgeon,Mon-Sat11:00 AM-07:00 PM,600,5
+Aaditya Care,Mulund East,Dr. Pradnya Randive,Obstetrician,"Mon-Sat10:00 AM-12:00 PM, 06:30 PM-08:00 PM",800,5
+Dr Sheth's Skin And Hair Clinic,Juhu,Dr. Vindhya Raparla,Dermatologist,Mon-Sat09:30 AM-06:00 PM,"1,000",5
+S L Raheja Fortis Hospital,Mahim,Dr. Prakash Sanzgiri,Cardiologist,Wed12:00 PM-01:00 PM,"1,300",4
+Global Hospitals,Parel,Dr. Y A Matcheswalla,Psychiatrist,Mon-Sat07:00 PM-09:00 PM,"1,750",4
+Prism Eye and Maternity Clinic,Andheri West,Dr. Neha R Shah,Gynecologist,Mon-Sat07:00 PM-09:00 PM,600,5
+Ageless Medica Health Management Pvt. Ltd.,Powai,Dr. Prajakta Vaidya,Homoeopath,Sat04:00 PM-07:00 PM,"2,000",4.5
+Bombay Knee & Hip Clinic,Matunga,Dr. Aarti Agarwal,General Physician,Mon-Sat11:00 AM-02:00 PM,500,5
+Fortis Hospital,Mulund West,Dr. Bhaskar Semitha,Cardiothoracic Surgeon,Mon-Sat04:00 PM-05:00 PM,"1,500",4
+Urology & Gynaecology Clinic,Borivali West,Dr. Prajakta A Gokhale,Obstetrician,"Mon-Fri10:00 AM-11:00 AM, 05:00 PM-06:00 PMSat12:00 PM-01:00 PMshow more",600,4
+Fortis Hospital,Mulund West,Dr. Atul Limaye,Cardiologist,"Mon-Tue, Thu-Fri10:30 AM-01:30 PMWed, Sat02:00 PM-05:00 PMshow more","1,500",4
+Sahu Eye Hospital,Malad West,Dr. Chinmaya Sahu,Ophthalmologist/ Eye Surgeon,"Mon-Tue, Thu-Fri05:00 PM-08:00 PMWed11:00 AM-02:00 PM, 05:00 PM-08:00 PMSat11:00 AM-02:00 PMshow more",800,5
+SRV Hospital,Goregaon West,Dr. Pradeep Shriyan,General Surgeon,Mon-Sat11:00 AM-12:00 PM,"1,000",5
+Desai Orthopedics and ENT Clinic,Borivali West,Dr. Binhi Desai,ENT/ Otorhinolaryngologist,Mon-Sat05:00 PM-07:00 PM,600,5
+Akanksha Maternity & Surgical Hospital,Andheri West,Dr. Sanket Pisat,Laparoscopic Surgeon (Obs & Gyn),Mon-Fri07:00 PM-10:00 PM,700,5
+PhysioWorld,Chembur,Dr. Niraj Jha   (Physiotherapist),Neuro Physiotherapist,Mon-Sat10:00 AM-10:00 PMSun10:00 AM-04:00 PMshow more,500,5
+Stride Fitness and Mobility Clinic,Vileparle East,Dr. Janhvi Vayada   (Physiotherapist),Sports and Musculoskeletal Physiotherapist,Mon-Fri10:00 AM-06:00 PM,"1,000",5
+Mehta Eye Clinic,Ghatkopar East,Dr. Siddharth V Mehta,Ophthalmologist/ Eye Surgeon,"Mon, Wed-Sat09:00 AM-12:30 PMTue03:00 PM-06:30 PMshow more",800,5
+Perfect smile clinic,Dadar West,Dr. Nrupal Kothare,Periodontist,"Mon-Fri09:30 AM-02:00 PM, 05:00 PM-08:30 PMSat09:30 AM-02:00 PMshow more",200,5
+Jupiter Hospital Speciality Clinic,Mulund West,Dr. Gaurav Nitin Chaubal,Gastroenterologist,"Mon, Wed, Fri05:00 PM-06:00 PM","1,200",4.5
+Shinde's Medicare Hospital,Andheri West,Dr. Veena G. Shinde,Gynecologist,Mon-Sun07:00 PM-10:00 PM,"2,000",4.5
+Akanksha Maternity & Surgical Hospital,Andheri West,Dr. Suchita Pisat,Gynecologist,Mon-Sat05:00 PM-07:00 PM,700,5
+Eye Solutions - The complete eye hospital,Tardeo,Dr. Urmi Shah,Ophthalmologist/ Eye Surgeon,"Mon, Wed-Thu10:00 AM-01:00 PM, 03:00 PM-06:00 PMTue, Fri10:00 AM-01:00 PMshow more","1,000",5
+Urology & Gynaecology Clinic,Borivali West,Dr. Anirudhha Gokhale,Urologist,Mon-Fri06:00 PM-08:30 PMSat02:00 PM-04:00 PMshow more,850,4
+Global Hospitals,Parel,Dr. Chetan Shah,Cardiologist,Mon-Sat09:00 AM-11:00 AM,"1,750",4
+Fortis Hospital,Mulund West,Dr. Hasmukh Ravat,Interventional Cardiologist,"Mon-Tue, Thu-Fri04:00 PM-05:30 PMWed, Sat10:30 AM-12:00 PMshow more","1,500",4
+Mumbai Eye Care Cornea and Lasik Centre,Ghatkopar East,Dr. Jatin Ashar,Ophthalmologist/ Eye Surgeon,"Mon-Sat09:00 AM-03:00 PM, 04:00 PM-09:00 PM","1,000",5
+Healthwatch Nutrition Clinic,Andheri West,Dr. Zubeda Tumbi   (PhD),Dietitian/Nutritionist,Mon-Sat09:00 AM-05:00 PM,750,4.5
+Ayushakti Ayurved  Health Centre,Vileparle,Dr. Anwar Khan,Ayurveda,Mon06:00 PM-09:00 PM,300,null
+Global Hospitals,Parel,Dr. Praveen Kulkarni,Cardiologist,"Mon, Thu11:00 AM-01:00 PM, 05:00 PM-07:00 PMTue-Wed, Fri-Sat11:00 AM-01:00 PMshow more","1,750",4
+Surana Sethia Hospital and Research Center,Chembur,Dr. Prasad Chaudhari,Orthopedist,Mon-Sat03:00 PM-04:30 PM,"1,000",4.5
+Prism Eye and Maternity Clinic,Andheri West,Dr. Rahul P. Shah,Ophthalmologist/ Eye Surgeon,"Mon, Wed-Sat10:00 AM-03:00 PM, 05:00 PM-09:00 PMTue12:00 PM-03:00 PM, 05:00 PM-09:00 PMshow more",800,5
+Dr Pathan'S Diabetes Specialties Clinic,Byculla,Dr. Avais Pathan,Diabetologist,"Mon-Fri11:00 AM-02:00 PM, 05:00 PM-10:00 PMSat11:00 AM-02:00 PMshow more",800,5
+Sushrut Hospital and Research Center,Chembur East,Dr. Amit Bhagwan Thadhani,General Surgeon,"Mon, Thu10:15 AM-11:00 AM",500,4
+Dr.Priti's Dermat Clinic,Ghatkopar West,Dr. Priti Trivedi,Dermatologist,"Mon-Wed, Fri-Sat11:00 AM-01:00 PM, 06:00 PM-09:00 PMThu11:00 AM-01:00 PMshow more",600,4
+Tulip Gynecare Clinic,Andheri West,Dr. Gayatri Deshpande,Gynecologist,Mon-Fri05:00 PM-07:00 PMSat11:00 AM-02:00 PMshow more,"1,200",5
+Sushrut Hospital and Research Center,Chembur East,Dr. Gopal Patil,General Surgeon,"Mon-Sat10:00 AM-11:00 AM, 07:00 PM-08:00 PM",500,4
+Goradia Ayurvedic Clinic.,Grant Road,Dr. Nitin Goradia,Ayurveda,"Mon, Wed, Fri09:30 AM-11:30 AMTue, Thu, Sat03:30 PM-05:30 PMshow more","1,500",5
+Fortis Hospital,Mulund West,Dr. P A Kale,Cardiologist,null,"1,500",4
+Parakh Hospital,Ghatkopar,Dr. Milind More,Laparoscopic Surgeon,null,"1,000",4.5
+Pooja Maternity Nursing Home & Ent Center,Ghatkopar West,Dr. Riddhi Gandhi Shah,Dermatologist,"Mon, Wed, Fri10:00 AM-12:00 PM","1,000",5
+Krishna Eye Centre,Parel,Dr. Nishikant Borse,Ophthalmologist/ Eye Surgeon,Wed03:00 PM-06:00 PM,"1,200",5
+Punit Hospital,Borivali West,Dr. Ramesh Patel,Orthopedist,"Mon-Wed, Fri-Sat09:00 AM-11:00 AM","1,000",5
+Aditi Hospital,Mulund West,Dr. Amit Shah,General Physician,"Mon-Fri12:00 PM-01:00 PM, 07:30 PM-09:00 PMSat12:00 PM-01:00 PMshow more",800,4.5
+The Vission Eye Center,Juhu,Dr. Himanshu Mehta,Ophthalmologist/ Eye Surgeon,Mon-Sat05:30 PM-07:00 PM,"1,000",4.5
+Harleys Cosmetic & Women Clinic,Andheri West,Ms. Rajvi Sheth,Psychologist,null,"2,000",5
+Dr's Mind Centre,Kandivali West,Dr. Kiran Shandilya,Psychiatrist,Mon-Sat10:00 AM-05:00 PM,"1,000",4.5
+Global Hospitals,Parel,Dr. Shah Suresh Fulchand,Pediatrician,Wed-Thu04:00 PM-05:00 PM,"1,000",4
+HEAL Institute,Colaba,Dr. Manish Singh   (Physiotherapist),Sports and Musculoskeletal Physiotherapist,"Mon, Wed, Fri12:00 PM-08:00 PM",800,5
+Exercise Clinic,Andheri West,Dr. Ashwini Renganathan   (Physiotherapist),Physiotherapist,"Mon-Sat10:00 AM-01:00 PM, 06:30 PM-09:00 PM",500,5
+The Childrens Hospital Mumbai,Malad West,Dr. Marionette B Pereira,Pediatrician,Mon-Fri11:00 AM-08:00 PM,"1,000",4
+Shreeji Eye Clinic,Andheri East,Dr. Shefali Parikh,Ophthalmologist/ Eye Surgeon,"Mon-Tue, Thu-Fri09:30 AM-11:30 AMSat09:30 AM-11:00 AMshow more",550,5
+La'mer Clinic,Dadar,Dr. Sushrut Save,null,Mon-Sat10:30 AM-05:00 PM,"2,000",4.5
+32 Pearls Dental Clinic,Chembur East,Dr. Reshma Phulwar,Dentist,Mon-Sat09:30 AM-09:30 PMSun10:00 AM-05:00 PMshow more,350,4.5
+Ayushakti Ayurved  Health Centre,Vileparle,Dr. Ketki Trivedi,Ayurveda,Mon-Sat11:00 AM-08:00 PM,300,null
+Dr.Sheth's Skin & Hair Clinic,Marine Lines,Dr. Shruti Chavan,Dermatologist,Mon-Sat09:30 AM-06:00 PM,"1,000",5
+S L Raheja Fortis Hospital,Mahim,Dr. Hemant Brahme,Gynecologist,Mon05:00 PM-06:00 PMWed06:00 PM-07:00 PMshow more,800,4
+Suchi Roy Clinic,Chembur,Dr. Biswajeet Naidu,Orthopedist,"Mon-Sat10:00 AM-01:00 PM, 07:05 PM-09:00 PM","1,300",5
+Dr. Deep Parekh's 'Mom & Me' Clinic,Ghatkopar East,Dr. Charmi D. Parekh,Gynecologist,null,600,5
+SRV Hospital,Goregaon West,Dr. Nilesha Chitre,Gynecologist,Mon-Sat01:00 PM-03:00 PM,"1,000",5
+Magident Family Dental Care,Sakinaka,Dr. Girish Shetake,Dentist,"Mon-Sat10:30 AM-02:00 PM, 03:30 PM-09:00 PM",100,5
+Apollo Spectra Hospitals,Tardeo,Dr. Jatin Choksi,Laparoscopic Surgeon,"Mon-Fri11:00 AM-12:00 PM, 06:00 PM-07:00 PM","1,500",4
+Shenmen Healing Center,Santacruz West,Dr. Santosh Pandey,Yoga and Naturopathy,"Mon, Wed-Sat09:00 AM-09:00 PMTue09:00 AM-08:00 PMSun09:00 AM-04:00 PMshow more","1,000",5
+Asian Heart Institute And Research Centre,Bandra East,Dr. Ramakanta Panda,Cardiac Surgeon,Mon-Sat07:00 PM-10:00 PMSun11:00 AM-02:00 PMshow more,"3,400",4
+Dr L H Hiranandani Hospital,Powai,Dr. Abhijit Joshi,General Surgeon,"Mon-Sat09:00 AM-02:00 PM, 03:00 PM-08:00 PM","1,000",3.5
+Reflectionz Clinic,Kandivali East,Dr. Kanika Agrawal,Dermatologist,"Mon-Tue, Thu-Sat11:00 AM-02:00 PM, 05:00 PM-09:00 PMSun10:00 AM-01:00 PMshow more",700,5
+Sushrut Hospital and Research Center,Chembur East,Dr. G. Sundaram,Orthopedist,"Wed, Sat09:00 AM-10:00 AM","1,000",4
+Asian Heart Institute And Research Centre,Bandra East,Dr. Vijay D'Silva,General Physician,"Mon, Wed, Fri10:00 AM-12:00 PM","2,350",4
+Anjum's Diet & Wellness,Andheri West,Dr. Siddharth S. Mishra   (Physiotherapist),Physiotherapist,Sat07:00 PM-09:00 PM,800,5
+Dr L H Hiranandani Hospital,Powai,Dr. Vimal J.Pahuja,General Physician,"Mon-Tue, Thu-Fri08:00 AM-02:00 PM, 04:00 PM-06:30 PMWed, Sat08:00 AM-02:00 PM, 04:00 PM-08:00 PMshow more","1,000",3.5
+Wockhardt Hospitals,Mira Road,Dr. Mallika Tewari,Surgical Oncologist,"Mon, Wed, Sat10:00 AM-02:00 PM, 03:00 PM-05:00 PM",750,4
+Parakh Hospital,Ghatkopar,Dr. Vikas Jain,Spine Surgeon,null,"1,000",4.5
+Harleys Cosmetic & Women Clinic,Andheri West,Ms. Himani Mittal,Dietitian/Nutritionist,"Mon, Sat12:00 PM-02:00 PMTue, Thu06:00 PM-08:00 PMshow more","1,000",5
+Dr. Yuvaraja S Shetty Child Health Center and Polyclinic,Mulund West,Dr. Yuvaraja S Shetty,Paediatric Intensivist,"Mon-Sat11:00 AM-04:00 PM, 07:00 PM-11:00 PMSun11:00 AM-07:00 PMshow more",750,5
+"Parakh Hospital - Gynecology, Obstetrics & IVF",Ghatkopar East,Dr. Sanjay Mehta,Gynecologist,"Mon, Wed, Fri12:00 PM-02:00 PM, 05:00 PM-07:00 PM","1,000",4.5
+HEAL Institute,Khar West,Dr. Dhananjay Padwal   (Physiotherapist),Physiotherapist,Mon-Sat11:00 AM-07:00 PM,800,5
+Sai Netra Advanced Eye Care,Andheri East,Dr. Darshana Gadgil,Ophthalmologist/ Eye Surgeon,Mon-Fri03:00 PM-06:00 PMSat11:00 AM-01:00 PMshow more,900,5
+Pooja Maternity Nursing Home & Ent Center,Ghatkopar West,Dr. Jagdip Shah,Gynecologist,"Mon, Wed, Fri10:30 AM-02:00 PM, 06:00 PM-08:00 PM","1,200",5
+Aditi Hospital,Mulund West,Dr. Shailendra Patil,Orthopedist,Mon-Sat04:00 PM-09:00 PM,"1,000",4.5
+Irla Nursing Home & Polyclinic,Vileparle West,Dr. Bella Jagtap Palnitkar,Gynecologist,Mon-Sat11:00 AM-03:00 PM,700,5
+Dr Ajay Doiphode's Prime ENT Clinic,Andheri West,Dr. Ajay Doiphode,ENT/ Otorhinolaryngologist,Mon-Fri06:00 PM-08:30 PMSat06:00 PM-07:30 PMshow more,"1,000",5
+Womens Hospital,Khar West,Dr. Sharda Arvind,Gynecologist,"Mon-Sat09:00 AM-10:00 AM, 01:00 PM-02:00 PM","1,500",5
+Care 32 Family Dental Care Centre,Andheri East,Dr. Mary Grace Dakey,Dental Surgeon,"Mon-Sat11:00 AM-02:45 PM, 03:00 PM-08:30 PM",300,5
+Total Health Care,Borivali West,Dr. Dhara Shah   (Physiotherapist),Physiotherapist,Mon-Sat09:00 AM-09:00 PM,300,4.5
+Dental Expertz Clinic,Mumbai Central,Dr. Fauzia Khimani Naaz,Dentist,Mon-Sat06:00 PM-09:00 PM,300,5
+Vivanta Hospital,Malad West,Dr. Anjali Mhatre,Gynecologist,"Mon-Sat12:00 PM-01:00 PM, 06:30 PM-07:30 PM",800,4.5
+Derma Care,Opera House,Dr. Farida Modi,Cosmetologist,Mon-Fri11:00 AM-07:00 PMSat11:00 AM-05:00 PMshow more,"1,500",4.5
+Dr. Ajay Thaker's Smiles Royale Dental Clinic,Mulund West,Dr. Ajay Thaker,Dentist,"Mon-Fri11:00 AM-02:00 PM, 06:00 PM-09:00 PMSat11:00 AM-02:00 PMshow more",200,5
+Viva Cosmetic Clinic,Opera House,Dr. Deepam J. Shah,Dermatologist,"Mon11:00 AM-02:00 PM, 04:00 PM-08:00 PMTue, Thu04:00 PM-07:00 PMWed, Fri04:00 PM-08:00 PMSat11:00 AM-02:00 PM, 04:00 PM-07:00 PMshow more","1,000",5
+Believe - Health And Skin Clinic,Girgaon,Dr. Vibha Murarka,Dermatologist,"Mon, Wed-Thu, Sat10:15 AM-01:30 PMFri04:00 PM-06:15 PMshow more","1,000",5
+Dr. Gupte's Clinic,Kandivali East,Dr. Jayashree Gupte,Dentist,"Mon-Sat10:00 AM-01:00 PM, 06:00 PM-09:30 PM",200,5
+Womens Hospital,Khar West,Dr. Gayatri Rao,Obstetrician,Mon-Fri10:00 AM-06:30 PMSat10:00 AM-04:00 PMshow more,"1,500",5
+Vivanta Hospital,Malad West,Dr. Raghvendra Ramdasi,Neurosurgeon,null,"1,500",4.5
+Hair Science,Andheri,Dr. Anjali Shere,Dermatologist,Mon-Sat09:30 AM-06:30 PM,500,2.5
+Lifeforce Homeopathy Clinic,Chembur,Dr. Amrita Utekar,Homoeopath,Mon-Sat10:00 AM-06:00 PM,500,4.5
+Sanjeevani Kidney Care,Andheri East,Dr. B.R. Ramesh Rao,Nephrologist/Renal Specialist,Mon-Fri04:00 PM-07:00 PM,"2,000",3.5
+Divine Smiles Dental Care,Bandra West,Dr. Sandhya Biyani,Dental Surgeon,Mon-Sat10:00 AM-08:00 PM,500,5
+Surana Sethia Hospital and Research Center,Chembur,Dr. Milind More,Laparoscopic Surgeon,"Mon, Wed, Fri06:00 PM-07:00 PM","1,000",4.5
+Goradia Ayurvedic Clinic.,Grant Road,Dr. Dipak D Goradia,Ayurveda,"Mon, Wed, Fri03:30 PM-05:30 PMTue, Thu, Sat10:00 AM-11:30 AMshow more","1,500",5
+Psychiatry and Sex Clinic,Andheri East,Dr. Shyam Mithiya,Sexologist,null,"1,500",4

@@ -1,0 +1,712 @@
+Location,Distance,Location1
+Vileparle East,5.7,Bandra East
+Andheri East,6,Bandra East
+Gamdevi,7,Bandra East
+Kandivali East,3,Bandra East
+Lower Parel,2,Bandra East
+Mira Road,7,Bandra East
+Parel,7,Bandra East
+Powai,2,Bandra East
+Prabhadevi,3,Bandra East
+Santacruz West,4,Bandra East
+Sion East,7,Bandra East
+Vileparle East,6.2,Bandra West
+Andheri East,6,Bandra West
+Andheri West,6,Bandra West
+Bhandup West,5,Bandra West
+Byculla,6,Bandra West
+Chembur East,4,Bandra West
+Dadar,3,Bandra West
+Ghatkopar,4,Bandra West
+Ghatkopar East,7,Bandra West
+Girgaon,4,Bandra West
+Juhu,3,Bandra West
+Malad West,3,Bandra West
+Matunga,3,Bandra West
+Mulund,7,Bandra West
+Mulund East,6,Bandra West
+Sakinaka,3,Bandra West
+Tardeo,3,Bandra West
+Andheri West,7,Bhandup West
+Bandra West,5,Bhandup West
+Byculla,5,Bhandup West
+Dadar West,4,Bhandup West
+Ghatkopar East,4,Bhandup West
+Ghatkopar West,7,Bhandup West
+Goregaon East,5,Bhandup West
+Kandivali East,4,Bhandup West
+Lower Parel,6,Bhandup West
+Malad West,4,Bhandup West
+Mulund,7,Bhandup West
+Mulund East,2,Bhandup West
+Parel,7,Bhandup West
+Sakinaka,6,Bhandup West
+Santacruz West,4,Bhandup West
+Tardeo,4,Bhandup West
+Wadala,4,Bhandup West
+Andheri East,4,Borivali West
+Dadar East,2,Borivali West
+Goregaon East,7,Borivali West
+Kurla West,3,Borivali West
+Lower Parel,4,Borivali West
+Mahim,2,Borivali West
+Matunga,4,Borivali West
+Mira Road,6,Borivali West
+Mulund East,3,Borivali West
+Opera House,6,Borivali West
+Parel,2,Borivali West
+Prabhadevi,6,Borivali West
+Sakinaka,3,Borivali West
+Tardeo,3,Borivali West
+Bandra West,6,Byculla
+Bhandup West,5,Byculla
+Charni Road,3,Byculla
+Dahisar East,3,Byculla
+Goregaon West,5,Byculla
+Kandivali East,4,Byculla
+Khar West,3,Byculla
+Lower Parel,4,Byculla
+Mulund East,3,Byculla
+Parel,5,Byculla
+Prabhadevi,5,Byculla
+Sakinaka,5,Byculla
+Vileparle West,6,Byculla
+Wadala,3,Byculla
+Worli,5,Byculla
+Byculla,3,Charni Road
+Dadar East,7,Charni Road
+Dahisar East,7,Charni Road
+Ghatkopar West,7,Charni Road
+Girgaon,3,Charni Road
+Khar West,6,Charni Road
+Matunga,5,Charni Road
+Mulund East,4,Charni Road
+Prabhadevi,5,Charni Road
+Vileparle West,7,Charni Road
+Chembur,5,Chembur East
+Bandra West,4,Chembur East
+Cumballa Hill,2,Chembur East
+Dahisar East,6,Chembur East
+Ghatkopar West,4,Chembur East
+Grant Road,7,Chembur East
+Marine Lines,7,Chembur East
+Mulund,4,Chembur East
+Mulund East,3,Chembur East
+Mumbai Central,7,Chembur East
+Opera House,2,Chembur East
+Gamdevi,7,Colaba
+Goregaon East,6,Colaba
+Marine Lines,3,Colaba
+Powai,3,Colaba
+Vileparle,3,Colaba
+Worli,4,Colaba
+Chembur,3,Cumballa Hill
+Andheri East,5,Cumballa Hill
+Andheri West,5,Cumballa Hill
+Chembur East,2,Cumballa Hill
+Gamdevi,6,Cumballa Hill
+Goregaon East,4,Cumballa Hill
+Juhu,5,Cumballa Hill
+Kandivali East,6,Cumballa Hill
+Mahim,7,Cumballa Hill
+Marine Lines,3,Cumballa Hill
+Mulund East,4,Cumballa Hill
+Mulund West,3,Cumballa Hill
+Opera House,3,Cumballa Hill
+Powai,5,Cumballa Hill
+Sion East,6,Cumballa Hill
+Tardeo,7,Cumballa Hill
+Tilak Nagar,4,Cumballa Hill
+Vileparle,4,Cumballa Hill
+Andheri West,3,Dadar
+Bandra West,3,Dadar
+Dadar West,7,Dadar
+Ghatkopar West,2,Dadar
+Malad West,2,Dadar
+Mulund,5,Dadar
+Mulund West,3,Dadar
+Prabhadevi,5,Dadar
+Tardeo,3,Dadar
+Vileparle West,3,Dadar
+Wadala,2,Dadar
+Chembur,5,Dadar East
+Borivali West,2,Dadar East
+Charni Road,7,Dadar East
+Dadar West,3,Dadar East
+Goregaon West,6,Dadar East
+Kandivali West,6,Dadar East
+Khar West,2,Dadar East
+Kurla West,6,Dadar East
+Mahim,7,Dadar East
+Marine Lines,2,Dadar East
+Mulund,6,Dadar East
+Powai,7,Dadar East
+Sion East,6,Dadar East
+Tilak Nagar,5,Dadar East
+Andheri,2,Dadar West
+Bhandup West,4,Dadar West
+Dadar,7,Dadar West
+Dadar East,3,Dadar West
+Ghatkopar,6,Dadar West
+Ghatkopar West,3,Dadar West
+Goregaon West,6,Dadar West
+Grant Road,4,Dadar West
+Kandivali West,3,Dadar West
+Lower Parel,4,Dadar West
+Mahim,7,Dadar West
+Mira Road,2,Dadar West
+Sion East,3,Dadar West
+Tardeo,4,Dadar West
+Vileparle,3,Dadar West
+Vileparle West,3,Dadar West
+Wadala,3,Dadar West
+Andheri,5,Dahisar East
+Byculla,3,Dahisar East
+Charni Road,7,Dahisar East
+Chembur East,6,Dahisar East
+Gamdevi,3,Dahisar East
+Ghatkopar,6,Dahisar East
+Ghatkopar East,4,Dahisar East
+Goregaon East,5,Dahisar East
+Jogeshwari East,2,Dahisar East
+Kandivali East,4,Dahisar East
+Kandivali West,2,Dahisar East
+Mahim,7,Dahisar East
+Malad West,2,Dahisar East
+Mulund,4,Dahisar East
+Mumbai Central,3,Dahisar East
+Sion East,6,Dahisar East
+Tardeo,4,Dahisar East
+Worli,2,Dahisar East
+Bandra East,7,Gamdevi
+Colaba,7,Gamdevi
+Cumballa Hill,6,Gamdevi
+Dahisar East,3,Gamdevi
+Ghatkopar East,2,Gamdevi
+Girgaon,3,Gamdevi
+Goregaon East,2,Gamdevi
+Kandivali East,3,Gamdevi
+Lower Parel,7,Gamdevi
+Matunga,5,Gamdevi
+Mulund,2,Gamdevi
+Mulund East,7,Gamdevi
+Mumbai Central,5,Gamdevi
+Opera House,6,Gamdevi
+Sion East,3,Gamdevi
+Tardeo,2,Gamdevi
+Tilak Nagar,5,Gamdevi
+Andheri West,5,Ghatkopar
+Bandra West,4,Ghatkopar
+Dadar West,6,Ghatkopar
+Dahisar East,6,Ghatkopar
+Ghatkopar East,3,Ghatkopar
+Goregaon West,6,Ghatkopar
+Grant Road,4,Ghatkopar
+Juhu,4,Ghatkopar
+Kandivali East,7,Ghatkopar
+Khar West,6,Ghatkopar
+Malad West,3,Ghatkopar
+Marine Lines,7,Ghatkopar
+Mulund East,2,Ghatkopar
+Opera House,5,Ghatkopar
+Powai,5,Ghatkopar
+Prabhadevi,7,Ghatkopar
+Sion East,5,Ghatkopar
+Tardeo,3,Ghatkopar
+Tilak Nagar,3,Ghatkopar
+Vileparle West,3,Ghatkopar
+Andheri East,2,Ghatkopar East
+Bandra West,7,Ghatkopar East
+Bhandup West,4,Ghatkopar East
+Dahisar East,4,Ghatkopar East
+Gamdevi,2,Ghatkopar East
+Ghatkopar,3,Ghatkopar East
+Ghatkopar West,4,Ghatkopar East
+Girgaon,6,Ghatkopar East
+Goregaon West,6,Ghatkopar East
+Kandivali East,4,Ghatkopar East
+Lower Parel,6,Ghatkopar East
+Mahim,4,Ghatkopar East
+Mulund,6,Ghatkopar East
+Mumbai Central,6,Ghatkopar East
+Parel,5,Ghatkopar East
+Sakinaka,5,Ghatkopar East
+Sion East,2,Ghatkopar East
+Tilak Nagar,6,Ghatkopar East
+Vileparle West,4,Ghatkopar East
+Worli,7,Ghatkopar East
+Andheri East,6,Ghatkopar West
+Andheri West,6,Ghatkopar West
+Bhandup West,7,Ghatkopar West
+Charni Road,7,Ghatkopar West
+Chembur East,4,Ghatkopar West
+Dadar,2,Ghatkopar West
+Dadar West,3,Ghatkopar West
+Ghatkopar East,4,Ghatkopar West
+Goregaon East,2,Ghatkopar West
+Goregaon West,4,Ghatkopar West
+Grant Road,6,Ghatkopar West
+Jogeshwari East,2,Ghatkopar West
+Kurla West,3,Ghatkopar West
+Matunga,6,Ghatkopar West
+Powai,4,Ghatkopar West
+Sion East,5,Ghatkopar West
+Andheri,3,Girgaon
+Bandra West,4,Girgaon
+Charni Road,3,Girgaon
+Gamdevi,3,Girgaon
+Ghatkopar East,6,Girgaon
+Goregaon West,6,Girgaon
+Kurla West,7,Girgaon
+Mumbai Central,4,Girgaon
+Parel,2,Girgaon
+Powai,6,Girgaon
+Prabhadevi,3,Girgaon
+Sakinaka,4,Girgaon
+Sion East,2,Girgaon
+Vileparle,4,Girgaon
+Bhandup West,5,Goregaon East
+Borivali West,7,Goregaon East
+Colaba,6,Goregaon East
+Cumballa Hill,4,Goregaon East
+Dahisar East,5,Goregaon East
+Gamdevi,2,Goregaon East
+Ghatkopar West,2,Goregaon East
+Goregaon West,2,Goregaon East
+Kandivali East,7,Goregaon East
+Mahim,3,Goregaon East
+Matunga,2,Goregaon East
+Mulund East,5,Goregaon East
+Mumbai Central,6,Goregaon East
+Powai,3,Goregaon East
+Sakinaka,4,Goregaon East
+Sion East,4,Goregaon East
+Tardeo,7,Goregaon East
+Tilak Nagar,5,Goregaon East
+Vileparle West,6,Goregaon East
+Chembur,3,Goregaon West
+Andheri West,5,Goregaon West
+Byculla,5,Goregaon West
+Dadar East,6,Goregaon West
+Dadar West,6,Goregaon West
+Ghatkopar,6,Goregaon West
+Ghatkopar East,6,Goregaon West
+Ghatkopar West,4,Goregaon West
+Girgaon,6,Goregaon West
+Goregaon East,2,Goregaon West
+Jogeshwari East,4,Goregaon West
+Mulund,2,Goregaon West
+Mulund East,3,Goregaon West
+Mulund West,7,Goregaon West
+Parel,5,Goregaon West
+Powai,6,Goregaon West
+Tilak Nagar,4,Goregaon West
+Wadala,4,Goregaon West
+Andheri,3,Grant Road
+Chembur East,7,Grant Road
+Dadar West,4,Grant Road
+Ghatkopar,4,Grant Road
+Ghatkopar West,6,Grant Road
+Khar West,2,Grant Road
+Mahim,6,Grant Road
+Mulund West,6,Grant Road
+Mumbai Central,6,Grant Road
+Parel,3,Grant Road
+Powai,5,Grant Road
+Sakinaka,2,Grant Road
+Santacruz West,7,Grant Road
+Sion East,5,Grant Road
+Worli,4,Grant Road
+Vileparle East,5.7,Jogeshwari East
+Andheri,6,Jogeshwari East
+Dahisar East,2,Jogeshwari East
+Ghatkopar West,2,Jogeshwari East
+Goregaon West,4,Jogeshwari East
+Khar West,5,Jogeshwari East
+Matunga,4,Jogeshwari East
+Mulund East,5,Jogeshwari East
+Mumbai Central,4,Jogeshwari East
+Powai,2,Jogeshwari East
+Sakinaka,7,Jogeshwari East
+Vileparle,3,Jogeshwari East
+Andheri,6,Kandivali East
+Bandra East,3,Kandivali East
+Bhandup West,4,Kandivali East
+Byculla,4,Kandivali East
+Cumballa Hill,6,Kandivali East
+Dahisar East,4,Kandivali East
+Gamdevi,3,Kandivali East
+Ghatkopar,7,Kandivali East
+Ghatkopar East,4,Kandivali East
+Goregaon East,7,Kandivali East
+Malad West,3,Kandivali East
+Mulund West,5,Kandivali East
+Mumbai Central,4,Kandivali East
+Parel,3,Kandivali East
+Powai,2,Kandivali East
+Santacruz West,5,Kandivali East
+Vileparle,7,Kandivali East
+Wadala,4,Kandivali East
+Worli,3,Kandivali East
+Andheri East,7,Kandivali West
+Dadar East,6,Kandivali West
+Dadar West,3,Kandivali West
+Dahisar East,2,Kandivali West
+Khar West,5,Kandivali West
+Kurla West,2,Kandivali West
+Malad West,4,Kandivali West
+Mulund,7,Kandivali West
+Mulund East,7,Kandivali West
+Wadala,3,Kandivali West
+Vileparle East,4.5,Khar West
+Chembur,5,Khar West
+Andheri East,2,Khar West
+Byculla,3,Khar West
+Charni Road,6,Khar West
+Dadar East,2,Khar West
+Ghatkopar,6,Khar West
+Grant Road,2,Khar West
+Jogeshwari East,5,Khar West
+Kandivali West,5,Khar West
+Lower Parel,6,Khar West
+Mulund East,4,Khar West
+Opera House,5,Khar West
+Vileparle,3,Khar West
+Andheri West,7,Kurla West
+Borivali West,3,Kurla West
+Dadar East,6,Kurla West
+Ghatkopar West,3,Kurla West
+Girgaon,7,Kurla West
+Kandivali West,2,Kurla West
+Mulund,5,Kurla West
+Powai,6,Kurla West
+Sion East,3,Kurla West
+Worli,4,Kurla West
+Andheri,7,Lower Parel
+Bandra East,2,Lower Parel
+Bhandup West,6,Lower Parel
+Borivali West,4,Lower Parel
+Byculla,4,Lower Parel
+Dadar West,4,Lower Parel
+Gamdevi,7,Lower Parel
+Ghatkopar East,6,Lower Parel
+Khar West,6,Lower Parel
+Mulund,3,Lower Parel
+Mulund West,4,Lower Parel
+Santacruz West,6,Lower Parel
+Tardeo,5,Lower Parel
+Wadala,4,Lower Parel
+Borivali West,2,Mahim
+Cumballa Hill,7,Mahim
+Dadar East,7,Mahim
+Dadar West,7,Mahim
+Dahisar East,7,Mahim
+Ghatkopar East,4,Mahim
+Goregaon East,3,Mahim
+Grant Road,6,Mahim
+Juhu,3,Mahim
+Mulund,7,Mahim
+Mulund West,3,Mahim
+Tardeo,6,Mahim
+Tilak Nagar,7,Mahim
+Andheri East,3,Malad West
+Andheri West,7,Malad West
+Bandra West,3,Malad West
+Bhandup West,4,Malad West
+Dadar,2,Malad West
+Dahisar East,2,Malad West
+Ghatkopar,3,Malad West
+Kandivali East,3,Malad West
+Kandivali West,4,Malad West
+Tardeo,5,Malad West
+Vileparle West,3,Malad West
+Chembur,7,Marine Lines
+Andheri East,5,Marine Lines
+Chembur East,7,Marine Lines
+Colaba,3,Marine Lines
+Cumballa Hill,3,Marine Lines
+Dadar East,2,Marine Lines
+Ghatkopar,7,Marine Lines
+Mulund East,2,Marine Lines
+Sakinaka,4,Marine Lines
+Wadala,5,Marine Lines
+Worli,7,Marine Lines
+Chembur,6,Matunga
+Bandra West,3,Matunga
+Borivali West,4,Matunga
+Charni Road,5,Matunga
+Gamdevi,5,Matunga
+Ghatkopar West,6,Matunga
+Goregaon East,2,Matunga
+Jogeshwari East,4,Matunga
+Mulund West,5,Matunga
+Powai,6,Matunga
+Prabhadevi,7,Matunga
+Andheri West,6,Mira Road
+Bandra East,7,Mira Road
+Borivali West,6,Mira Road
+Dadar West,2,Mira Road
+Opera House,6,Mira Road
+Vileparle West,3,Mira Road
+Worli,4,Mira Road
+Andheri East,6,Mulund
+Andheri West,5,Mulund
+Bandra West,7,Mulund
+Bhandup West,7,Mulund
+Chembur East,4,Mulund
+Dadar,5,Mulund
+Dadar East,6,Mulund
+Dahisar East,4,Mulund
+Gamdevi,2,Mulund
+Ghatkopar East,6,Mulund
+Goregaon West,2,Mulund
+Kandivali West,7,Mulund
+Kurla West,5,Mulund
+Lower Parel,3,Mulund
+Mahim,7,Mulund
+Tardeo,2,Mulund
+Worli,3,Mulund
+Andheri West,6,Mulund East
+Bandra West,6,Mulund East
+Bhandup West,2,Mulund East
+Borivali West,3,Mulund East
+Byculla,3,Mulund East
+Charni Road,4,Mulund East
+Chembur East,3,Mulund East
+Cumballa Hill,4,Mulund East
+Gamdevi,7,Mulund East
+Ghatkopar,2,Mulund East
+Goregaon East,5,Mulund East
+Goregaon West,3,Mulund East
+Jogeshwari East,5,Mulund East
+Kandivali West,7,Mulund East
+Khar West,4,Mulund East
+Marine Lines,2,Mulund East
+Mumbai Central,4,Mulund East
+Sakinaka,3,Mulund East
+Cumballa Hill,3,Mulund West
+Dadar,3,Mulund West
+Goregaon West,7,Mulund West
+Grant Road,6,Mulund West
+Kandivali East,5,Mulund West
+Lower Parel,4,Mulund West
+Mahim,3,Mulund West
+Matunga,5,Mulund West
+Prabhadevi,3,Mulund West
+Santacruz West,7,Mulund West
+Sion East,7,Mulund West
+Tardeo,4,Mulund West
+Chembur,2,Mumbai Central
+Chembur East,7,Mumbai Central
+Dahisar East,3,Mumbai Central
+Gamdevi,5,Mumbai Central
+Ghatkopar East,6,Mumbai Central
+Girgaon,4,Mumbai Central
+Goregaon East,6,Mumbai Central
+Grant Road,6,Mumbai Central
+Jogeshwari East,4,Mumbai Central
+Kandivali East,4,Mumbai Central
+Mulund East,4,Mumbai Central
+Santacruz West,6,Mumbai Central
+Tilak Nagar,2,Mumbai Central
+Andheri East,7,Opera House
+Borivali West,6,Opera House
+Chembur East,2,Opera House
+Cumballa Hill,3,Opera House
+Gamdevi,6,Opera House
+Ghatkopar,5,Opera House
+Khar West,5,Opera House
+Mira Road,6,Opera House
+Santacruz West,6,Opera House
+Vileparle,2,Opera House
+Chembur,5,Parel
+Andheri West,3,Parel
+Bandra East,7,Parel
+Bhandup West,7,Parel
+Borivali West,2,Parel
+Byculla,5,Parel
+Ghatkopar East,5,Parel
+Girgaon,2,Parel
+Goregaon West,5,Parel
+Grant Road,3,Parel
+Kandivali East,3,Parel
+Sakinaka,4,Parel
+Tardeo,7,Parel
+Tilak Nagar,2,Parel
+Wadala,4,Parel
+Worli,2,Parel
+Bandra East,2,Powai
+Colaba,3,Powai
+Cumballa Hill,5,Powai
+Dadar East,7,Powai
+Ghatkopar,5,Powai
+Ghatkopar West,4,Powai
+Girgaon,6,Powai
+Goregaon East,3,Powai
+Goregaon West,6,Powai
+Grant Road,5,Powai
+Jogeshwari East,2,Powai
+Kandivali East,2,Powai
+Kurla West,6,Powai
+Matunga,6,Powai
+Santacruz West,7,Powai
+Vileparle,6,Powai
+Wadala,6,Powai
+Chembur,2,Prabhadevi
+Andheri East,3,Prabhadevi
+Andheri West,4,Prabhadevi
+Bandra East,3,Prabhadevi
+Borivali West,6,Prabhadevi
+Byculla,5,Prabhadevi
+Charni Road,5,Prabhadevi
+Dadar,5,Prabhadevi
+Ghatkopar,7,Prabhadevi
+Girgaon,3,Prabhadevi
+Matunga,7,Prabhadevi
+Mulund West,3,Prabhadevi
+Sion East,2,Prabhadevi
+Wadala,3,Prabhadevi
+Worli,7,Prabhadevi
+Vileparle East,6.2,Sakinaka
+Bandra West,3,Sakinaka
+Bhandup West,6,Sakinaka
+Borivali West,3,Sakinaka
+Byculla,5,Sakinaka
+Ghatkopar East,5,Sakinaka
+Girgaon,4,Sakinaka
+Goregaon East,4,Sakinaka
+Grant Road,2,Sakinaka
+Jogeshwari East,7,Sakinaka
+Marine Lines,4,Sakinaka
+Mulund East,3,Sakinaka
+Parel,4,Sakinaka
+Santacruz West,6,Sakinaka
+Tardeo,3,Sakinaka
+Vileparle,4,Sakinaka
+Vileparle West,6,Sakinaka
+Vileparle East,5,Santacruz West
+Andheri East,6,Santacruz West
+Bandra East,4,Santacruz West
+Bhandup West,4,Santacruz West
+Grant Road,7,Santacruz West
+Juhu,5,Santacruz West
+Kandivali East,5,Santacruz West
+Lower Parel,6,Santacruz West
+Mulund West,7,Santacruz West
+Mumbai Central,6,Santacruz West
+Opera House,6,Santacruz West
+Powai,7,Santacruz West
+Sakinaka,6,Santacruz West
+Sion East,7,Santacruz West
+Tardeo,2,Santacruz West
+Vileparle West,7,Santacruz West
+Bandra East,7,Sion East
+Cumballa Hill,6,Sion East
+Dadar East,6,Sion East
+Dadar West,3,Sion East
+Dahisar East,6,Sion East
+Gamdevi,3,Sion East
+Ghatkopar,5,Sion East
+Ghatkopar East,2,Sion East
+Ghatkopar West,5,Sion East
+Girgaon,2,Sion East
+Goregaon East,4,Sion East
+Grant Road,5,Sion East
+Juhu,3,Sion East
+Kurla West,3,Sion East
+Mulund West,7,Sion East
+Prabhadevi,2,Sion East
+Santacruz West,7,Sion East
+Andheri West,3,Tardeo
+Bandra West,3,Tardeo
+Bhandup West,4,Tardeo
+Borivali West,3,Tardeo
+Cumballa Hill,7,Tardeo
+Dadar,3,Tardeo
+Dadar West,4,Tardeo
+Dahisar East,4,Tardeo
+Gamdevi,2,Tardeo
+Ghatkopar,3,Tardeo
+Goregaon East,7,Tardeo
+Lower Parel,5,Tardeo
+Mahim,6,Tardeo
+Malad West,5,Tardeo
+Mulund,2,Tardeo
+Mulund West,4,Tardeo
+Parel,7,Tardeo
+Sakinaka,3,Tardeo
+Santacruz West,2,Tardeo
+Vileparle,3,Tardeo
+Worli,3,Tardeo
+Andheri East,2,Tilak Nagar
+Cumballa Hill,4,Tilak Nagar
+Dadar East,5,Tilak Nagar
+Gamdevi,5,Tilak Nagar
+Ghatkopar,3,Tilak Nagar
+Ghatkopar East,6,Tilak Nagar
+Goregaon East,5,Tilak Nagar
+Goregaon West,4,Tilak Nagar
+Juhu,3,Tilak Nagar
+Mahim,7,Tilak Nagar
+Mumbai Central,2,Tilak Nagar
+Parel,2,Tilak Nagar
+Vileparle West,4,Tilak Nagar
+Vileparle East,0.5,Vileparle
+Andheri,4,Vileparle
+Colaba,3,Vileparle
+Cumballa Hill,4,Vileparle
+Dadar West,3,Vileparle
+Girgaon,4,Vileparle
+Jogeshwari East,3,Vileparle
+Kandivali East,7,Vileparle
+Khar West,3,Vileparle
+Opera House,2,Vileparle
+Powai,6,Vileparle
+Sakinaka,4,Vileparle
+Tardeo,3,Vileparle
+Wadala,3,Vileparle
+Vileparle East,3.2,Vileparle West
+Byculla,6,Vileparle West
+Charni Road,7,Vileparle West
+Dadar,3,Vileparle West
+Dadar West,3,Vileparle West
+Ghatkopar,3,Vileparle West
+Ghatkopar East,4,Vileparle West
+Goregaon East,6,Vileparle West
+Juhu,4,Vileparle West
+Malad West,3,Vileparle West
+Mira Road,3,Vileparle West
+Sakinaka,6,Vileparle West
+Santacruz West,7,Vileparle West
+Tilak Nagar,4,Vileparle West
+Worli,5,Vileparle West
+Bhandup West,4,Wadala
+Byculla,3,Wadala
+Dadar,2,Wadala
+Dadar West,3,Wadala
+Goregaon West,4,Wadala
+Kandivali East,4,Wadala
+Kandivali West,3,Wadala
+Lower Parel,4,Wadala
+Marine Lines,5,Wadala
+Parel,4,Wadala
+Powai,6,Wadala
+Prabhadevi,3,Wadala
+Vileparle,3,Wadala
+Worli,2,Wadala
+Byculla,5,Worli
+Colaba,4,Worli
+Dahisar East,2,Worli
+Ghatkopar East,7,Worli
+Grant Road,4,Worli
+Juhu,7,Worli
+Kandivali East,3,Worli
+Kurla West,4,Worli
+Marine Lines,7,Worli
+Mira Road,4,Worli
+Mulund,3,Worli
+Parel,2,Worli
+Prabhadevi,7,Worli
+Tardeo,3,Worli
+Vileparle West,5,Worli
+Wadala,2,Worli
