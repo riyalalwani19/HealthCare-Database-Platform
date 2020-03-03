@@ -6,7 +6,8 @@ Database application combining information from different data sources of the he
 ### Download the entire content on your machine and create the seperate folders as available in Git.
 - Get all the files from files folder in one folder,some files are in zip format. Unzip it and keep in one folder with all other files.
 - Run the code from Insertion code in Python IDE, that will help to insert all the data in your machine. For that, you have to first provide the location where you have downloaded all the files.
-- 
+- Run the merged all data code which contains all the user stories except R.
+- Run all the user stories .
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
 
 Prerequisites
