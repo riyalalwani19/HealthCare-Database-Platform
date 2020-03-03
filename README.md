@@ -25,7 +25,7 @@ Prerequisites
 •	import redis
 •	import csv
 
-#### for Merged User Stories
+#### For Merged User Stories
 •	from random_username.generate import generate_username
 •	import re
 •	from bson.objectid import ObjectId
@@ -49,6 +49,9 @@ Prerequisites
 •	from pymongo import MongoClient
 •	from datetime import datetime
 
-  
-  
+#### For R based User Stories  
+•	RNeo4j
+•	Httr
+•	ggplot2
+
 
