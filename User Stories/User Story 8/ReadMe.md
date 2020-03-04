@@ -15,7 +15,7 @@ Local pharmacists of a town are looking to stock their shop up with drugs accord
 		e. Data should have been inserted in all databases.  
 
 #### 2. Code -  
-		a. Install python (python 3.7 for matplotlib.pyplot) packages (matplotlib.pyplot,redis, pymongo, py2neo,collections, 			itertools)  
+		a. Install python (python 3.7 for matplotlib.pyplot) packages (matplotlib.pyplot,redis, pymongo, py2neo,collections, itertools)  
 		b. Change graph password(line 22) to password of the graph created in your enviornment.  
 		c.Change redis db number as per your setting (line 25)  
 		d.Change connection for Mongodb Collection (line 63)  
@@ -25,7 +25,7 @@ Local pharmacists of a town are looking to stock their shop up with drugs accord
 		a. Season Number -   "Enter Season Number"-  
 		("1" - Rainy, "2" - Summer, "3" - Winter, "4"-Spring)  
 
-##### *Disclaimer* If Incorrect Season Number is entered default output will be for Spring
+##### *Disclaimer*: If Incorrect Season Number is entered default output will be for Spring
 
 #### Default Output:  
 Season Number: "1"  
