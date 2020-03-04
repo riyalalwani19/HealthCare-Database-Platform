@@ -5,7 +5,8 @@
 ## User Story -   
 Local pharmacists of a town are looking to stock their shop up with drugs according to each season. They want to know the monthly trends of drugs and occurrences of diseases to help them store better.
 
-## Prerequisites - Following are the database and code related prequisites that need to be fullfilled before running the script.
+## Prerequisites -   
+Following are the database and code related prequisites that need to be fullfilled before running the script.
 
 #### 1. Database -   	
 		a. MongoDB server should be up and running.  
