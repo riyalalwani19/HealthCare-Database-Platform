@@ -1,6 +1,7 @@
 # Title - User Story 14
 
-## Synopsis - This file will help a user to run user story 14 in his enviornment.
+## Synopsis - 
+This file will help a user to run user story 14 in his enviornment.
 
 ## User Story - 
 Rachel is a frequent user of Healthcare Database platform, but she rarely remembers names of drugs and diseases correctly. As a user she wants the platform to suggest her names from the system if she enters misspelled names and tell her whether the misspelled name can be a drug, disease etc.
