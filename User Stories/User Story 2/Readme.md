@@ -2,7 +2,8 @@
 
 ## Synopsis - This file will help a user to run user story 2 in his environment.
 
-## User Story -Alex is an insurance agent and he wants to know the two insurance policies which have the highest and lowest Premium in the Premium range of 1000-50000rs, which come comes under Aditya Birla (Insurance company) and provides cover for Anal cancer to suggest to his client.
+## User Story -  
+Alex is an insurance agent and he wants to know the two insurance policies which have the highest and lowest Premium in the Premium range of 1000-50000rs, which come comes under Aditya Birla (Insurance company) and provides cover for Anal cancer to suggest to his client.
 
 ## Prerequisites - Following are the database and code related prequisites that need to be fullfilled before running the script.
 
