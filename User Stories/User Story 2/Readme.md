@@ -15,7 +15,7 @@ Prerequisites - Following are the database and code related prequisites that nee
 		b. Change graph password(line 6) to password of the graph created in your environment.
 
 Inputs - The python program asks users for following input -  
-		a. Premium Range - "Enter range from options available" - (Options Available:"1000-50000","50000-100000","100000-150000",
+		a. Premium Range -   "Enter range from options available" -   (Options Available:"1000-50000","50000-100000","100000-150000",
 																	"150000-200000")
 
 
