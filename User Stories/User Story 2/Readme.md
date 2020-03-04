@@ -14,13 +14,13 @@ Prerequisites - Following are the database and code related prequisites that nee
 2. Code - 	a. Install python packages (pandas, pymongo, py2neo,tabulate)
 		b. Change graph password(line 6) to password of the graph created in your environment.
 
-Inputs - The python program asks users for following input -
+Inputs - The python program asks users for following input -  
 		a. Premium Range - "Enter range from options available" - (Options Available:"1000-50000","50000-100000","100000-150000",
 																	"150000-200000")
 
 
 
-Default input: 
-Premium Range :1000-50000,
-Covered Disease:Anal Cancer,
-Company Name:Aditya Birla
+Default input:   
+Premium Range :1000-50000,  
+Covered Disease:Anal Cancer,  
+Company Name:Aditya Birla  
